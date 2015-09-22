@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2015.9.13)  19 SEP 2015 23:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2015.9.13)  22 SEP 2015 23:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1213,8 +1213,19 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 Underfull \vbox (badness 1014) has occurred while \output is active []
 
  [2]
-LaTeX Font Info:    Try loading font information for C70+rm on input line 141.
+Overfull \hbox (314.44305pt too wide) in paragraph at lines 137--139
+|\C70/gbsn/m/n/12/ff ^^H|\C70/gbsn/m/n/12/7a 3 \C70/gbsn/m/n/12/91 Í \C70/gbsn/
+m/n/12/76 „ \C70/gbsn/m/n/12/89 Â \C70/gbsn/m/n/12/70 ¹ \C70/gbsn/m/n/12/53 ê \
+C70/gbsn/m/n/12/66 / \C70/gbsn/m/n/12/67 e \C70/gbsn/m/n/12/81 ê \C70/gbsn/m/n/
+12/62 ^^Q \C70/gbsn/m/n/12/76 „|\C70/gbsn/m/n/12/ff ^^L| \C70/gbsn/m/n/12/54 Œ 
+\C70/gbsn/m/n/12/5f ® \C70/gbsn/m/n/12/8f o \C70/gbsn/m/n/12/62 ^^V \C70/gbsn/m
+/n/12/51 v s \C70/gbsn/m/n/12/80 T \C70/gbsn/m/n/12/76 „ \C70/gbsn/m/n/12/51 l 
+\C70/gbsn/m/n/12/53 ø \C70/gbsn/m/n/12/4e ^^M ^^@ \C70/gbsn/m/n/12/5b š \C70/gb
+sn/m/n/12/76 ø \C70/gbsn/m/n/12/54 ^^L|\C70/gbsn/m/n/12/ff 	||\C70/gbsn/m/n/12/
+30 ^^B|  \OT1/cmr/m/n/12 ========================================== 
+ []
 
+LaTeX Font Info:    Try loading font information for C70+rm on input line 144.
 (d:/Program Files/texlive/2015/texmf-dist/tex/latex/ctex/fd/c70rm.fd
 File: c70rm.fd 2015/07/01 v2.2 Chinese font definition (CTEX)
 ) [3]
@@ -1256,31 +1267,24 @@ Chapter 3.
 
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 150.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 150.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 153.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 153.
  (./main.aux (./TeX_files/chapter01.aux) (./TeX_files/chapter02.aux)
 (./TeX_files/chapter03.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 150.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 150.
-
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: FBF6B2A830446992553761E56B6A540C;1029
-(rerunfilecheck)             After:  7019086CB5FB71727C605CD738554614;1107.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 150.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 153.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 153.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 7019086CB5FB71727C605CD738554614;1107.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 153.
  ) 
 Here is how much of TeX's memory you used:
- 20781 strings out of 494991
- 353258 string characters out of 6179898
- 488535 words of memory out of 5000000
- 23497 multiletter control sequences out of 15000+600000
+ 20818 strings out of 494991
+ 353767 string characters out of 6179898
+ 488536 words of memory out of 5000000
+ 23534 multiletter control sequences out of 15000+600000
  44087 words of font info for 159 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 40i,11n,47p,10436b,1297s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 40i,11n,47p,10436b,1314s stack positions out of 5000i,500n,10000p,200000b,80000s
 <c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/s
 imhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simsun.ttc><c:/Windows
 /fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simhei.ttf><c:
@@ -1370,10 +1374,10 @@ ram Files/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb><d:
 /Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu9a.pfb><d:
 /Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu9f.pfb><d:
 /Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnuff.pfb>
-Output written on main.pdf (12 pages, 467820 bytes).
+Output written on main.pdf (12 pages, 477339 bytes).
 PDF statistics:
- 619 PDF objects out of 1000 (max. 8388607)
- 423 compressed objects within 5 object streams
+ 623 PDF objects out of 1000 (max. 8388607)
+ 427 compressed objects within 5 object streams
  26 named destinations out of 1000 (max. 500000)
- 377 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 385 words of extra memory for PDF output out of 10000 (max. 10000000)
 
