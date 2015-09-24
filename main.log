@@ -1,14 +1,14 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2015.9.13)  22 SEP 2015 23:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2015.9.23)  23 SEP 2015 13:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **./main.tex
 (./main.tex
 LaTeX2e <2015/01/01> patch level 2
-Babel <3.9m> and hyphenation patterns for 3 languages loaded.
-(d:/Program Files/texlive/2015/texmf-dist/tex/latex/base/book.cls
+Babel <3.9m> and hyphenation patterns for 45 languages loaded.
+(d:/Program Files (x86)/texlive/texmf-dist/tex/latex/base/book.cls
 Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
-(d:/Program Files/texlive/2015/texmf-dist/tex/latex/base/bk12.clo
+(d:/Program Files (x86)/texlive/texmf-dist/tex/latex/base/bk12.clo
 File: bk12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -24,19 +24,19 @@ File: bk12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(d:/Program Files/texlive/2015/texmf-dist/tex/latex/base/inputenc.sty
+(d:/Program Files (x86)/texlive/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2015/03/17 v1.2c Input encoding file
 \inpenc@prehook=\toks14
 \inpenc@posthook=\toks15
 
-(d:/Program Files/texlive/2015/texmf-dist/tex/latex/base/utf8.def
+(d:/Program Files (x86)/texlive/texmf-dist/tex/latex/base/utf8.def
 File: utf8.def 2015/06/27 v1.1n UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
-(d:/Program Files/texlive/2015/texmf-dist/tex/latex/base/t1enc.dfu
+(d:/Program Files (x86)/texlive/texmf-dist/tex/latex/base/t1enc.dfu
 File: t1enc.dfu 2015/06/27 v1.1n UTF-8 support for inputenc
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -186,7 +186,7 @@ File: t1enc.dfu 2015/06/27 v1.1n UTF-8 support for inputenc
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
-(d:/Program Files/texlive/2015/texmf-dist/tex/latex/base/ot1enc.dfu
+(d:/Program Files (x86)/texlive/texmf-dist/tex/latex/base/ot1enc.dfu
 File: ot1enc.dfu 2015/06/27 v1.1n UTF-8 support for inputenc
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -217,7 +217,7 @@ File: ot1enc.dfu 2015/06/27 v1.1n UTF-8 support for inputenc
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
-(d:/Program Files/texlive/2015/texmf-dist/tex/latex/base/omsenc.dfu
+(d:/Program Files (x86)/texlive/texmf-dist/tex/latex/base/omsenc.dfu
 File: omsenc.dfu 2015/06/27 v1.1n UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
@@ -241,52 +241,51 @@ Now handling font encoding U ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
-(d:/Program Files/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
+(d:/Program Files (x86)/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
-(d:/Program Files/texlive/2015/texmf-dist/tex/latex/graphics/keyval.sty
+(d:/Program Files (x86)/texlive/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
 )
-(d:/Program Files/texlive/2015/texmf-dist/tex/latex/graphics/graphics.sty
+(d:/Program Files (x86)/texlive/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
 
-(d:/Program Files/texlive/2015/texmf-dist/tex/latex/graphics/trig.sty
+(d:/Program Files (x86)/texlive/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-(d:/Program Files/texlive/2015/texmf-dist/tex/latex/latexconfig/graphics.cfg
+(d:/Program Files (x86)/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
 File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
 )
 Package graphics Info: Driver file: pdftex.def on input line 94.
 
-(d:/Program Files/texlive/2015/texmf-dist/tex/latex/pdftex-def/pdftex.def
+(d:/Program Files (x86)/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-(d:/Program Files/texlive/2015/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+(d:/Program Files (x86)/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-(d:/Program Files/texlive/2015/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+(d:/Program Files (x86)/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count88
 ))
 \Gin@req@height=\dimen103
 \Gin@req@width=\dimen104
-)
-(d:/Program Files/texlive/2015/texmf-dist/tex/latex/cjk/texinput/CJKutf8.sty
+) (d:/Program Files (x86)/texlive/texmf-dist/tex/latex/cjk/texinput/CJKutf8.sty
 Package: CJKutf8 2015/04/18 4.8.4
 
-(d:/Program Files/texlive/2015/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+(d:/Program Files (x86)/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
 Package ifpdf Info: pdfTeX in PDF mode is detected.
 )
-(d:/Program Files/texlive/2015/texmf-dist/tex/latex/cjk/texinput/CJK.sty
+(d:/Program Files (x86)/texlive/texmf-dist/tex/latex/cjk/texinput/CJK.sty
 Package: CJK 2015/04/18 4.8.4
 
-(d:/Program Files/texlive/2015/texmf-dist/tex/latex/cjk/texinput/mule/MULEenc.s
-ty
+(d:/Program Files (x86)/texlive/texmf-dist/tex/latex/cjk/texinput/mule/MULEenc.
+sty
 Package: MULEenc 2015/04/18 4.8.4
-) (d:/Program Files/texlive/2015/texmf-dist/tex/latex/cjk/texinput/CJK.enc
+) (d:/Program Files (x86)/texlive/texmf-dist/tex/latex/cjk/texinput/CJK.enc
 File: CJK.enc 2015/04/18 4.8.4
 Now handling font encoding C00 ...
 ... no UTF-8 mapping file for font encoding C00
@@ -355,20 +354,19 @@ Now handling font encoding C62 ...
 )
 LaTeX Info: Redefining \selectfont on input line 755.
 \CJK@indent=\box26
-)
-(d:/Program Files/texlive/2015/texmf-dist/tex/latex/base/fontenc.sty
+) (d:/Program Files (x86)/texlive/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 ))
-(d:/Program Files/texlive/2015/texmf-dist/tex/latex/hyperref/hyperref.sty
+(d:/Program Files (x86)/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
 
-(d:/Program Files/texlive/2015/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.
-sty
+(d:/Program Files (x86)/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref
+.sty
 Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
 
 
-(d:/Program Files/texlive/2015/texmf-dist/tex/generic/oberdiek/hobsub-generic.s
-ty
+(d:/Program Files (x86)/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.
+sty
 Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
 Package hobsub Info: Skipping package `infwarerr' (already loaded).
@@ -407,31 +405,33 @@ Package atveryend Info: \enddocument detected (standard20110627).
 Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
 Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
 Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
-) (d:/Program Files/texlive/2015/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+)
+(d:/Program Files (x86)/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
-) (d:/Program Files/texlive/2015/texmf-dist/tex/latex/oberdiek/auxhook.sty
+)
+(d:/Program Files (x86)/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
 Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
 )
-(d:/Program Files/texlive/2015/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+(d:/Program Files (x86)/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 )
 \@linkdim=\dimen105
 \Hy@linkcounter=\count89
 \Hy@pagecounter=\count90
 
-(d:/Program Files/texlive/2015/texmf-dist/tex/latex/hyperref/pd1enc.def
+(d:/Program Files (x86)/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
 \Hy@SavedSpaceFactor=\count91
 
-(d:/Program Files/texlive/2015/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+(d:/Program Files (x86)/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
 Package hyperref Info: Option `unicode' set `true' on input line 4319.
 
-(d:/Program Files/texlive/2015/texmf-dist/tex/latex/hyperref/puenc.def
+(d:/Program Files (x86)/texlive/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2012/11/06 v6.83m Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
@@ -445,7 +445,7 @@ Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4688.
 \c@Hy@tempcnt=\count92
 
-(d:/Program Files/texlive/2015/texmf-dist/tex/latex/url/url.sty
+(d:/Program Files (x86)/texlive/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -470,21 +470,22 @@ LaTeX Info: Redefining \pageref on input line 6369.
 
 Package hyperref Message: Driver (autodetected): hpdftex.
 
-(d:/Program Files/texlive/2015/texmf-dist/tex/latex/hyperref/hpdftex.def
+(d:/Program Files (x86)/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
 \Fld@listcount=\count97
 \c@bookmark@seq@number=\count98
 
-(d:/Program Files/texlive/2015/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+(d:/Program Files (x86)/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.st
+y
 Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
 \Hy@SectionHShift=\skip43
-) (d:/Program Files/texlive/2015/texmf-dist/tex/latex/xcolor/xcolor.sty
+) (d:/Program Files (x86)/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
 
-(d:/Program Files/texlive/2015/texmf-dist/tex/latex/latexconfig/color.cfg
+(d:/Program Files (x86)/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
@@ -498,44 +499,44 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
 )
-(d:/Program Files/texlive/2015/texmf-dist/tex/latex/cite/cite.sty
+(d:/Program Files (x86)/texlive/texmf-dist/tex/latex/cite/cite.sty
 LaTeX Info: Redefining \cite on input line 302.
 LaTeX Info: Redefining \nocite on input line 332.
 Package: cite 2015/02/27  v 5.5
 )
-(d:/Program Files/texlive/2015/texmf-dist/tex/latex/ctex/ctex.sty
-(d:/Program Files/texlive/2015/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2015/09/06 v5925 L3 programming layer (loader) 
+(d:/Program Files (x86)/texlive/texmf-dist/tex/latex/ctex/ctex.sty
+(d:/Program Files (x86)/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2015/09/11 v6002 L3 programming layer (loader) 
 
-(d:/Program Files/texlive/2015/texmf-dist/tex/latex/l3kernel/expl3-code.tex
-Package: expl3 2015/09/06 v5925 L3 programming layer (code) 
-L3 Module: l3bootstrap 2015/07/31 v5729 L3 Bootstrap code
-L3 Module: l3names 2015/08/17 v5848 L3 Namespace for primitives
-L3 Module: l3basics 2015/08/28 v5897 L3 Basic definitions
-L3 Module: l3expan 2015/08/28 v5897 L3 Argument expansion
-L3 Module: l3tl 2015/09/02 v5908 L3 Token lists
-L3 Module: l3str 2015/09/05 v5920 L3 Strings
+(d:/Program Files (x86)/texlive/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+Package: expl3 2015/09/11 v6002 L3 programming layer (code) 
+L3 Module: l3bootstrap 2015/09/10 v5983 L3 Bootstrap code
+L3 Module: l3names 2015/09/07 v5939 L3 Namespace for primitives
+L3 Module: l3basics 2015/09/10 v5983 L3 Basic definitions
+L3 Module: l3expan 2015/09/10 v5983 L3 Argument expansion
+L3 Module: l3tl 2015/09/10 v5983 L3 Token lists
+L3 Module: l3str 2015/09/10 v5983 L3 Strings
 L3 Module: l3seq 2015/08/05 v5777 L3 Sequences and stacks
-L3 Module: l3int 2015/08/24 v5885 L3 Integers
+L3 Module: l3int 2015/09/11 v5987 L3 Integers
 \c_max_int=\count99
 \l_tmpa_int=\count100
 \l_tmpb_int=\count101
 \g_tmpa_int=\count102
 \g_tmpb_int=\count103
 L3 Module: l3quark 2015/08/17 v5855 L3 Quarks
-L3 Module: l3prg 2015/08/25 v5891 L3 Control structures
+L3 Module: l3prg 2015/09/10 v5983 L3 Control structures
 \g__prg_map_int=\count104
 L3 Module: l3clist 2015/09/02 v5901 L3 Comma separated lists
 L3 Module: l3token 2015/08/26 v5893 L3 Experimental token manipulation
 L3 Module: l3prop 2015/08/05 v5777 L3 Property lists
-L3 Module: l3msg 2015/08/25 v5891 L3 Messages
+L3 Module: l3msg 2015/09/10 v5983 L3 Messages
 L3 Module: l3file 2015/08/05 v5786 L3 File and I/O operations
 \l_iow_line_count_int=\count105
 \l__iow_target_count_int=\count106
 \l__iow_current_line_int=\count107
 \l__iow_current_word_int=\count108
 \l__iow_current_indentation_int=\count109
-L3 Module: l3skip 2015/08/26 v5893 L3 Dimensions and skips
+L3 Module: l3skip 2015/09/10 v5983 L3 Dimensions and skips
 \c_zero_dim=\dimen109
 \c_max_dim=\dimen110
 \l_tmpa_dim=\dimen111
@@ -554,7 +555,7 @@ L3 Module: l3skip 2015/08/26 v5893 L3 Dimensions and skips
 \l_tmpb_muskip=\muskip14
 \g_tmpa_muskip=\muskip15
 \g_tmpb_muskip=\muskip16
-L3 Module: l3keys 2015/08/20 v5869 L3 Key-value interfaces
+L3 Module: l3keys 2015/09/10 v5983 L3 Key-value interfaces
 \g__keyval_level_int=\count110
 \l_keys_choice_int=\count111
 L3 Module: l3fp 2015/08/25 v5890 L3 Floating points
@@ -594,7 +595,7 @@ L3 Module: l3coffins 2015/08/06 v5789 L3 Coffin code layer
 \l__coffin_display_x_dim=\dimen123
 \l__coffin_display_y_dim=\dimen124
 L3 Module: l3color 2014/08/23 v5354 L3 Experimental color support
-L3 Module: l3candidates 2015/09/03 v5911 L3 Experimental additions to l3kernel
+L3 Module: l3candidates 2015/09/11 v6002 L3 Experimental additions to l3kernel
 \l__box_top_dim=\dimen125
 \l__box_bottom_dim=\dimen126
 \l__box_left_dim=\dimen127
@@ -611,43 +612,45 @@ L3 Module: l3candidates 2015/09/03 v5911 L3 Experimental additions to l3kernel
 \l__coffin_top_corner_dim=\dimen137
 \l__coffin_scaled_total_height_dim=\dimen138
 \l__coffin_scaled_width_dim=\dimen139
-L3 Module: l3luatex 2015/06/30 v5646 L3 Experimental LuaTeX-specific functions
+L3 Module: [unknown name] 0000/00/00 v-1 L3 Experimental system/runtime functio
+ns
+L3 Module: l3luatex 2015/09/10 v5983 L3 Experimental LuaTeX-specific functions
 )
-(d:/Program Files/texlive/2015/texmf-dist/tex/latex/l3kernel/l3unicode-data.def
+(d:/Program Files (x86)/texlive/texmf-dist/tex/latex/l3kernel/l3unicode-data.de
+f
 File: l3unicode-data.def 2015/07/20 v5676 L3 Unicode data
-) (d:/Program Files/texlive/2015/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
-File: l3pdfmode.def 2015/06/30 v5646 L3 Experimental driver: PDF mode
+) (d:/Program Files (x86)/texlive/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
+File: l3pdfmode.def 2015/09/10 v5983 L3 Experimental driver: PDF mode
 \l__driver_color_stack_int=\count121
 ))
 Package: ctex 2015/07/01 v2.2 Chinese adapter in LaTeX (CTEX)
 
-(d:/Program Files/texlive/2015/texmf-dist/tex/latex/l3packages/xparse/xparse.st
-y
-Package: xparse 2015/09/06 v5925 L3 Experimental document command parser
+(d:/Program Files (x86)/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.s
+ty
+Package: xparse 2015/09/11 v6001 L3 Experimental document command parser
 \l__xparse_current_arg_int=\count122
 \l__xparse_m_args_int=\count123
 \l__xparse_mandatory_args_int=\count124
 \l__xparse_processor_int=\count125
 \l__xparse_v_nesting_int=\count126
 )
-(d:/Program Files/texlive/2015/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2
-e.sty
-Package: l3keys2e 2015/09/06 v5925 LaTeX2e option processing using LaTeX3 keys
-) (d:/Program Files/texlive/2015/texmf-dist/tex/latex/ctex/ctexhook.sty
+(d:/Program Files (x86)/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys
+2e.sty
+Package: l3keys2e 2015/09/11 v6001 LaTeX2e option processing using LaTeX3 keys
+) (d:/Program Files (x86)/texlive/texmf-dist/tex/latex/ctex/ctexhook.sty
 Package: ctexhook 2015/07/01 v2.2 Document and package hooks (CTEX)
-)
-(d:/Program Files/texlive/2015/texmf-dist/tex/latex/ctex/ctexpatch.sty
+) (d:/Program Files (x86)/texlive/texmf-dist/tex/latex/ctex/ctexpatch.sty
 Package: ctexpatch 2015/07/01 v2.2 Patching commands (CTEX)
 )
-(d:/Program Files/texlive/2015/texmf-dist/tex/latex/base/fix-cm.sty
+(d:/Program Files (x86)/texlive/texmf-dist/tex/latex/base/fix-cm.sty
 Package: fix-cm 2015/01/14 v1.1t fixes to LaTeX
 
-(d:/Program Files/texlive/2015/texmf-dist/tex/latex/base/ts1enc.def
+(d:/Program Files (x86)/texlive/texmf-dist/tex/latex/base/ts1enc.def
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 Now handling font encoding TS1 ...
 ... processing UTF-8 mapping file for font encoding TS1
 
-(d:/Program Files/texlive/2015/texmf-dist/tex/latex/base/ts1enc.dfu
+(d:/Program Files (x86)/texlive/texmf-dist/tex/latex/base/ts1enc.dfu
 File: ts1enc.dfu 2015/06/27 v1.1n UTF-8 support for inputenc
    defining Unicode char U+00A2 (decimal 162)
    defining Unicode char U+00A3 (decimal 163)
@@ -719,7 +722,7 @@ File: ts1enc.dfu 2015/06/27 v1.1n UTF-8 support for inputenc
    defining Unicode char U+25EF (decimal 9711)
    defining Unicode char U+266A (decimal 9834)
 )))
-(d:/Program Files/texlive/2015/texmf-dist/tex/latex/ms/everysel.sty
+(d:/Program Files (x86)/texlive/texmf-dist/tex/latex/ms/everysel.sty
 Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 )
 \l__ctex_tmp_int=\count127
@@ -727,7 +730,7 @@ Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 \l__ctex_tmp_box=\box42
 \g__file_internal_ior=\read1
 
-(d:/Program Files/texlive/2015/texmf-dist/tex/latex/ctex/config/ctexopts.cfg
+(d:/Program Files (x86)/texlive/texmf-dist/tex/latex/ctex/config/ctexopts.cfg
 File: ctexopts.cfg 2015/07/01 v2.2 Option configuration file (CTEX)
 )
 .................................................
@@ -746,11 +749,11 @@ File: ctexopts.cfg 2015/07/01 v2.2 Option configuration file (CTEX)
 . Defining command \CTEXoptions with sig. '+o' on line 371.
 .................................................
 
-(d:/Program Files/texlive/2015/texmf-dist/tex/latex/ctex/engine/ctex-engine-pdf
-tex.def
+(d:/Program Files (x86)/texlive/texmf-dist/tex/latex/ctex/engine/ctex-engine-pd
+ftex.def
 File: ctex-engine-pdftex.def 2015/07/01 v2.2 (pdf)LaTeX adapter (CTEX)
 
-(d:/Program Files/texlive/2015/texmf-dist/tex/latex/cjkpunct/CJKpunct.sty
+(d:/Program Files (x86)/texlive/texmf-dist/tex/latex/cjkpunct/CJKpunct.sty
 Package: CJKpunct 2009/05/06 4.8.2
 \CJKpunct@cnta=\count128
 \CJKpunct@cntb=\count129
@@ -764,13 +767,12 @@ Package: CJKpunct 2009/05/06 4.8.2
    defining Unicode char U+2014 (decimal 8212)
    defining Unicode char U+2026 (decimal 8230)
 )
-(d:/Program Files/texlive/2015/texmf-dist/tex/latex/cjk/texinput/CJKspace.sty
+(d:/Program Files (x86)/texlive/texmf-dist/tex/latex/cjk/texinput/CJKspace.sty
 Package: CJKspace 2015/04/18 3.8.0
-)
-(d:/Program Files/texlive/2015/texmf-dist/tex/latex/cjk/texinput/standard.bdg
+) (d:/Program Files (x86)/texlive/texmf-dist/tex/latex/cjk/texinput/standard.bd
+g
 File: standard.bdg 2015/04/18 4.8.4
-)
-(d:/Program Files/texlive/2015/texmf-dist/tex/latex/ctex/ctexspa.def
+) (d:/Program Files (x86)/texlive/texmf-dist/tex/latex/ctex/ctexspa.def
 File: ctexspa.def 2015/07/01 v2.2 Space info for CJKpunct (CTEX)
 )
 
@@ -778,7 +780,7 @@ Package hyperref Warning: Option `driverfallback' has already been used,
 (hyperref)                setting the option has no effect on input line 292.
 
 Package hyperref Info: Option `CJKbookmarks' set `true' on input line 310.
-(d:/Program Files/texlive/2015/texmf-dist/tex/latex/xcjk2uni/xCJK2uni.sty
+(d:/Program Files (x86)/texlive/texmf-dist/tex/latex/xcjk2uni/xCJK2uni.sty
 Package: xCJK2uni 2014/06/20 v0.4 Convert CJK character to Unicode.
 \l__CJKtu_i_min_int=\count133
 \l__CJKtu_i_max_int=\count134
@@ -795,15 +797,17 @@ Package hyperref Info: Option `CJKbookmarks' set `false' on input line 199.
 * 
 * It is not necessary to load xCJK2uni in UTF-8 encoding.
 *************************************************
-(d:/Program Files/texlive/2015/texmf-dist/tex/latex/xcjk2uni/xCJK2uni-UGBK.def
+
+(d:/Program Files (x86)/texlive/texmf-dist/tex/latex/xcjk2uni/xCJK2uni-UGBK.def
 File: xCJK2uni-UGBK.def 2014/06/20 v0.4 Convert CJK character to Unicode.
-)) (d:/Program Files/texlive/2015/texmf-dist/tex/latex/cjk/texinput/CJKfntef.st
-y
+))
+(d:/Program Files (x86)/texlive/texmf-dist/tex/latex/cjk/texinput/CJKfntef.sty
 Package: CJKfntef 2015/04/18 4.8.4
-(d:/Program Files/texlive/2015/texmf-dist/tex/latex/cjk/texinput/CJKulem.sty
+
+(d:/Program Files (x86)/texlive/texmf-dist/tex/latex/cjk/texinput/CJKulem.sty
 Package: CJKulem 2015/04/18 4.8.4
 
-(d:/Program Files/texlive/2015/texmf-dist/tex/generic/ulem/ulem.sty
+(d:/Program Files (x86)/texlive/texmf-dist/tex/generic/ulem/ulem.sty
 \UL@box=\box43
 \UL@hyphenbox=\box44
 \UL@skip=\skip50
@@ -850,7 +854,7 @@ Package: ulem 2012/05/18
 . Defining command \CTEXnoindent with sig. '' on line 528.
 .................................................
 
-(d:/Program Files/texlive/2015/texmf-dist/tex/latex/zhnumber/zhnumber.sty
+(d:/Program Files (x86)/texlive/texmf-dist/tex/latex/zhnumber/zhnumber.sty
 Package: zhnumber 2015/05/21 v2.2 Typesetting numbers with Chinese glyphs
 .................................................
 . LaTeX info: "xparse/define-command"
@@ -902,7 +906,7 @@ Package: zhnumber 2015/05/21 v2.2 Typesetting numbers with Chinese glyphs
 . Defining command \zhnumsetup with sig. '+m' on line 901.
 .................................................
 
-(d:/Program Files/texlive/2015/texmf-dist/tex/latex/zhnumber/zhnumber-gbk.cfg
+(d:/Program Files (x86)/texlive/texmf-dist/tex/latex/zhnumber/zhnumber-gbk.cfg
 File: zhnumber-gbk.cfg 2015/05/21 v2.2 Chinese numerals with GBK encoding
 ))
 .................................................
@@ -916,15 +920,16 @@ File: zhnumber-gbk.cfg 2015/05/21 v2.2 Chinese numerals with GBK encoding
 . Defining command \CTEXdigits with sig. 'mm' on line 545.
 .................................................
 
-(d:/Program Files/texlive/2015/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-chi
-nese.def
+(d:/Program Files (x86)/texlive/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-ch
+inese.def
 File: ctex-scheme-chinese.def 2015/07/01 v2.2 Chinese scheme for generic (CTEX)
 
 
-(d:/Program Files/texlive/2015/texmf-dist/tex/latex/ctex/config/ctex-name-gbk.c
-fg
+(d:/Program Files (x86)/texlive/texmf-dist/tex/latex/ctex/config/ctex-name-gbk.
+cfg
 File: ctex-name-gbk.cfg 2015/07/01 v2.2 Caption with encoding GBK (CTEX)
-)) (d:/Program Files/texlive/2015/texmf-dist/tex/latex/tools/indentfirst.sty
+))
+(d:/Program Files (x86)/texlive/texmf-dist/tex/latex/tools/indentfirst.sty
 Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
 )
 .................................................
@@ -938,20 +943,20 @@ Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
 . Defining command \CTeX with sig. '' on line 728.
 .................................................
 
-(d:/Program Files/texlive/2015/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-w
-indows.def
+(d:/Program Files (x86)/texlive/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-
+windows.def
 File: ctex-fontset-windows.def 2015/07/01 v2.2 Windows fonts definition (CTEX)
 
-(d:/Program Files/texlive/2015/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-w
-indowsnew.def
+(d:/Program Files (x86)/texlive/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-
+windowsnew.def
 File: ctex-fontset-windowsnew.def 2015/07/01 v2.2 Windows fonts definition for 
 Vista or later version (CTEX)
 
-(d:/Program Files/texlive/2015/texmf-dist/tex/generic/ctex/zhwindowsfonts.tex
+(d:/Program Files (x86)/texlive/texmf-dist/tex/generic/ctex/zhwindowsfonts.tex
 File: zhwindowsfonts.tex 2015/07/01 v2.2 Windows font map loader for pdfTeX and
  DVIPDFMx (CTEX)
-{d:/Program Files/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{UG
-BK.sfd}{Unicode.sfd})
+{d:/Program Files (x86)/texlive/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{U
+GBK.sfd}{Unicode.sfd})
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
@@ -988,10 +993,10 @@ BK.sfd}{Unicode.sfd})
 . Defining command \yahei with sig. '' on line 99.
 .................................................
 )))
-(d:/Program Files/texlive/2015/texmf-dist/tex/latex/ctex/config/ctex.cfg
+(d:/Program Files (x86)/texlive/texmf-dist/tex/latex/ctex/config/ctex.cfg
 File: ctex.cfg 2015/07/01 v2.2 Configuration file (CTEX)
 )
-(d:/Program Files/texlive/2015/texmf-dist/tex/latex/titlesec/titlesec.sty
+(d:/Program Files (x86)/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
 \ttl@box=\box48
 \beforetitleunit=\skip54
@@ -1003,13 +1008,12 @@ Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
 \titlewidthlast=\dimen152
 \titlewidthfirst=\dimen153
 )
-(d:/Program Files/texlive/2015/texmf-dist/tex/latex/cjk/texinput/extended.enc
+(d:/Program Files (x86)/texlive/texmf-dist/tex/latex/cjk/texinput/extended.enc
 File: extended.enc 2015/04/18 4.8.4
-)
-(d:/Program Files/texlive/2015/texmf-dist/tex/latex/cjk/texinput/extended.chr
+) (d:/Program Files (x86)/texlive/texmf-dist/tex/latex/cjk/texinput/extended.ch
+r
 File: extended.chr 2015/04/18 4.8.4
-)
-(./main.aux (./TeX_files/chapter01.aux) (./TeX_files/chapter02.aux)
+) (./main.aux (./TeX_files/chapter01.aux) (./TeX_files/chapter02.aux)
 (./TeX_files/chapter03.aux))
 \openout1 = `main.aux'.
 
@@ -1096,7 +1100,7 @@ LaTeX Font Info:    ... okay on input line 74.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 74.
 LaTeX Font Info:    ... okay on input line 74.
 
-(d:/Program Files/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
+(d:/Program Files (x86)/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count145
 \scratchdimen=\dimen154
@@ -1110,10 +1114,9 @@ LaTeX Font Info:    ... okay on input line 74.
 \makeMPintoPDFobject=\count150
 \everyMPtoPDFconversion=\toks20
 )
-(d:/Program Files/texlive/2015/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+(d:/Program Files (x86)/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
-
-(d:/Program Files/texlive/2015/texmf-dist/tex/latex/oberdiek/grfext.sty
+(d:/Program Files (x86)/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
 )
 Package grfext Info: Graphics extension search list:
@@ -1121,18 +1124,18 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 452.
 
-(d:/Program Files/texlive/2015/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cf
-g
+(d:/Program Files (x86)/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.c
+fg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 \AtBeginShipoutBox=\box50
 Package hyperref Info: Link coloring OFF on input line 74.
- (d:/Program Files/texlive/2015/texmf-dist/tex/latex/hyperref/nameref.sty
+ (d:/Program Files (x86)/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
-(d:/Program Files/texlive/2015/texmf-dist/tex/generic/oberdiek/gettitlestring.s
-ty
+(d:/Program Files (x86)/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.
+sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count151
@@ -1147,13 +1150,13 @@ LaTeX Info: Redefining \nameref on input line 74.
  ABD: EverySelectfont initializing macros
 LaTeX Info: Redefining \selectfont on input line 74.
 
-(d:/Program Files/texlive/2015/texmf-dist/tex/latex/cjk/texinput/utf8/UTF8.bdg
+(d:/Program Files (x86)/texlive/texmf-dist/tex/latex/cjk/texinput/utf8/UTF8.bdg
 File: UTF8.bdg 2015/04/18 4.8.4
-) (d:/Program Files/texlive/2015/texmf-dist/tex/latex/cjk/texinput/utf8/UTF8.en
-c
+)
+(d:/Program Files (x86)/texlive/texmf-dist/tex/latex/cjk/texinput/utf8/UTF8.enc
 File: UTF8.enc 2015/04/18 4.8.4
 )
-(d:/Program Files/texlive/2015/texmf-dist/tex/latex/cjk/texinput/utf8/UTF8.chr
+(d:/Program Files (x86)/texlive/texmf-dist/tex/latex/cjk/texinput/utf8/UTF8.chr
 File: UTF8.chr 2015/04/18 4.8.4
 )
 \c@example=\count152
@@ -1172,12 +1175,12 @@ File: UTF8.chr 2015/04/18 4.8.4
 LaTeX Font Info:    Try loading font information for C70+gbsn on input line 115
 .
 
-(d:/Program Files/texlive/2015/texmf-dist/tex/latex/cjk/texinput/utf8/c70gbsn.f
-d
+(d:/Program Files (x86)/texlive/texmf-dist/tex/latex/cjk/texinput/utf8/c70gbsn.
+fd
 File: c70gbsn.fd 2015/04/18 4.8.4
 )
-(d:/Program Files/texlive/2015/texmf-dist/tex/latex/cjk/texinput/utf8/c70gbsn.f
-dx
+(d:/Program Files (x86)/texlive/texmf-dist/tex/latex/cjk/texinput/utf8/c70gbsn.
+fdx
 File: c70gbsn.fdx 2015/04/18 4.8.4
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -1191,18 +1194,17 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 115.
 
-(d:/Program Files/texlive/2015/texmf-dist/tex/generic/ctex/zhwindowsfonts.tex
+(d:/Program Files (x86)/texlive/texmf-dist/tex/generic/ctex/zhwindowsfonts.tex
 File: zhwindowsfonts.tex 2015/07/01 v2.2 Windows font map loader for pdfTeX and
  DVIPDFMx (CTEX)
-)
-[1
+) [1
 
 
 
 ]
 LaTeX Font Info:    Try loading font information for C70+hei on input line 115.
 
- (d:/Program Files/texlive/2015/texmf-dist/tex/latex/zhmetrics/c70hei.fd
+ (d:/Program Files (x86)/texlive/texmf-dist/tex/latex/zhmetrics/c70hei.fd
 File: c70hei.fd 2009/09/23 4.8.2
 )
 Package CJKpunct Info: punctuation spaces for family 'gbsn' do not exist. Use f
@@ -1213,20 +1215,9 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 Underfull \vbox (badness 1014) has occurred while \output is active []
 
  [2]
-Overfull \hbox (314.44305pt too wide) in paragraph at lines 137--139
-|\C70/gbsn/m/n/12/ff ^^H|\C70/gbsn/m/n/12/7a 3 \C70/gbsn/m/n/12/91 Í \C70/gbsn/
-m/n/12/76 „ \C70/gbsn/m/n/12/89 Â \C70/gbsn/m/n/12/70 ¹ \C70/gbsn/m/n/12/53 ê \
-C70/gbsn/m/n/12/66 / \C70/gbsn/m/n/12/67 e \C70/gbsn/m/n/12/81 ê \C70/gbsn/m/n/
-12/62 ^^Q \C70/gbsn/m/n/12/76 „|\C70/gbsn/m/n/12/ff ^^L| \C70/gbsn/m/n/12/54 Œ 
-\C70/gbsn/m/n/12/5f ® \C70/gbsn/m/n/12/8f o \C70/gbsn/m/n/12/62 ^^V \C70/gbsn/m
-/n/12/51 v s \C70/gbsn/m/n/12/80 T \C70/gbsn/m/n/12/76 „ \C70/gbsn/m/n/12/51 l 
-\C70/gbsn/m/n/12/53 ø \C70/gbsn/m/n/12/4e ^^M ^^@ \C70/gbsn/m/n/12/5b š \C70/gb
-sn/m/n/12/76 ø \C70/gbsn/m/n/12/54 ^^L|\C70/gbsn/m/n/12/ff 	||\C70/gbsn/m/n/12/
-30 ^^B|  \OT1/cmr/m/n/12 ========================================== 
- []
+LaTeX Font Info:    Try loading font information for C70+rm on input line 145.
 
-LaTeX Font Info:    Try loading font information for C70+rm on input line 144.
-(d:/Program Files/texlive/2015/texmf-dist/tex/latex/ctex/fd/c70rm.fd
+(d:/Program Files (x86)/texlive/texmf-dist/tex/latex/ctex/fd/c70rm.fd
 File: c70rm.fd 2015/07/01 v2.2 Chinese font definition (CTEX)
 ) [3]
 [4
@@ -1267,23 +1258,23 @@ Chapter 3.
 
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 153.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 153.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 154.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 154.
  (./main.aux (./TeX_files/chapter01.aux) (./TeX_files/chapter02.aux)
 (./TeX_files/chapter03.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 153.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 153.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 154.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 154.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 7019086CB5FB71727C605CD738554614;1107.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 153.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 154.
  ) 
 Here is how much of TeX's memory you used:
- 20818 strings out of 494991
- 353767 string characters out of 6179898
- 488536 words of memory out of 5000000
- 23534 multiletter control sequences out of 15000+600000
+ 21114 strings out of 494178
+ 359018 string characters out of 6153114
+ 497972 words of memory out of 5000000
+ 23909 multiletter control sequences out of 15000+600000
  44087 words of font info for 159 fonts, out of 8000000 for 9000
- 14 hyphenation exceptions out of 8191
+ 430 hyphenation exceptions out of 8191
  40i,11n,47p,10436b,1314s stack positions out of 5000i,500n,10000p,200000b,80000s
 <c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/s
 imhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simsun.ttc><c:/Windows
@@ -1294,87 +1285,88 @@ s/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Wind
 ows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simsun.ttc>
 <c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/sim
 sun.ttc><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/f
-onts/simhei.ttf><c:/Windows/fonts/simhei.ttf><d:/Program Files/texlive/2015/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><d:/Program Files/texlive/201
-5/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><d:/Program Files/texliv
-e/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><d:/Program Files/te
-xlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><d:/Program File
-s/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><d:/Program F
-iles/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb><d:/Prog
-ram Files/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb><d:
-/Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu30.pfb><d:
-/Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu4e.pfb><d:
-/Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu4f.pfb><d:
-/Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu50.pfb><d:
-/Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu51.pfb><d:
-/Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu52.pfb><d:
-/Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu53.pfb><d:
-/Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu54.pfb><d:
-/Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu56.pfb><d:
-/Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu57.pfb><d:
-/Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu58.pfb><d:
-/Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu59.pfb><d:
-/Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu5b.pfb><d:
-/Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu5c.pfb><d:
-/Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu5d.pfb><d:
-/Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu5e.pfb><d:
-/Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu5f.pfb><d:
-/Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu60.pfb><d:
-/Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu61.pfb><d:
-/Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu62.pfb><d:
-/Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu63.pfb><d:
-/Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu64.pfb><d:
-/Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu65.pfb><d:
-/Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu66.pfb><d:
-/Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu67.pfb><d:
-/Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu68.pfb><d:
-/Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu69.pfb><d:
-/Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6a.pfb><d:
-/Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6b.pfb><d:
-/Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6c.pfb><d:
-/Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6d.pfb><d:
-/Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6e.pfb><d:
-/Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6f.pfb><d:
-/Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu70.pfb><d:
-/Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu71.pfb><d:
-/Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu72.pfb><d:
-/Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu73.pfb><d:
-/Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu74.pfb><d:
-/Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu75.pfb><d:
-/Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu76.pfb><d:
-/Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu77.pfb><d:
-/Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu78.pfb><d:
-/Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu79.pfb><d:
-/Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7a.pfb><d:
-/Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7b.pfb><d:
-/Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7c.pfb><d:
-/Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7e.pfb><d:
-/Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7f.pfb><d:
-/Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu80.pfb><d:
-/Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu81.pfb><d:
-/Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu82.pfb><d:
-/Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu83.pfb><d:
-/Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu84.pfb><d:
-/Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu86.pfb><d:
-/Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu88.pfb><d:
-/Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu89.pfb><d:
-/Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu8a.pfb><d:
-/Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu8b.pfb><d:
-/Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu8c.pfb><d:
-/Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu8d.pfb><d:
-/Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu8f.pfb><d:
-/Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu90.pfb><d:
-/Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu91.pfb><d:
-/Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu94.pfb><d:
-/Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu95.pfb><d:
-/Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu96.pfb><d:
-/Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu97.pfb><d:
-/Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu98.pfb><d:
-/Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu99.pfb><d:
-/Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu9a.pfb><d:
-/Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu9f.pfb><d:
-/Program Files/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnuff.pfb>
-Output written on main.pdf (12 pages, 477339 bytes).
+onts/simhei.ttf><c:/Windows/fonts/simhei.ttf><d:/Program Files (x86)/texlive/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><d:/Program Files (x86)/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><d:/Program Files (x86
+)/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><d:/Program Files
+ (x86)/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><d:/Program 
+Files (x86)/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><d:/Prog
+ram Files (x86)/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb><d
+:/Program Files (x86)/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.
+pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu30
+.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu4
+e.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu
+4f.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsn
+u50.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbs
+nu51.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gb
+snu52.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/g
+bsnu53.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/
+gbsnu54.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu
+/gbsnu56.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsn
+u/gbsnu57.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbs
+nu/gbsnu58.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gb
+snu/gbsnu59.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/g
+bsnu/gbsnu5b.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/
+gbsnu/gbsnu5c.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic
+/gbsnu/gbsnu5d.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphi
+c/gbsnu/gbsnu5e.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arph
+ic/gbsnu/gbsnu5f.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arp
+hic/gbsnu/gbsnu60.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/ar
+phic/gbsnu/gbsnu61.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/a
+rphic/gbsnu/gbsnu62.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/
+arphic/gbsnu/gbsnu63.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1
+/arphic/gbsnu/gbsnu64.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type
+1/arphic/gbsnu/gbsnu65.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/typ
+e1/arphic/gbsnu/gbsnu66.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/ty
+pe1/arphic/gbsnu/gbsnu67.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/t
+ype1/arphic/gbsnu/gbsnu68.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/
+type1/arphic/gbsnu/gbsnu69.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts
+/type1/arphic/gbsnu/gbsnu6a.pfb><d:/Program Files (x86)/texlive/texmf-dist/font
+s/type1/arphic/gbsnu/gbsnu6b.pfb><d:/Program Files (x86)/texlive/texmf-dist/fon
+ts/type1/arphic/gbsnu/gbsnu6c.pfb><d:/Program Files (x86)/texlive/texmf-dist/fo
+nts/type1/arphic/gbsnu/gbsnu6d.pfb><d:/Program Files (x86)/texlive/texmf-dist/f
+onts/type1/arphic/gbsnu/gbsnu6e.pfb><d:/Program Files (x86)/texlive/texmf-dist/
+fonts/type1/arphic/gbsnu/gbsnu6f.pfb><d:/Program Files (x86)/texlive/texmf-dist
+/fonts/type1/arphic/gbsnu/gbsnu70.pfb><d:/Program Files (x86)/texlive/texmf-dis
+t/fonts/type1/arphic/gbsnu/gbsnu71.pfb><d:/Program Files (x86)/texlive/texmf-di
+st/fonts/type1/arphic/gbsnu/gbsnu72.pfb><d:/Program Files (x86)/texlive/texmf-d
+ist/fonts/type1/arphic/gbsnu/gbsnu73.pfb><d:/Program Files (x86)/texlive/texmf-
+dist/fonts/type1/arphic/gbsnu/gbsnu74.pfb><d:/Program Files (x86)/texlive/texmf
+-dist/fonts/type1/arphic/gbsnu/gbsnu75.pfb><d:/Program Files (x86)/texlive/texm
+f-dist/fonts/type1/arphic/gbsnu/gbsnu76.pfb><d:/Program Files (x86)/texlive/tex
+mf-dist/fonts/type1/arphic/gbsnu/gbsnu77.pfb><d:/Program Files (x86)/texlive/te
+xmf-dist/fonts/type1/arphic/gbsnu/gbsnu78.pfb><d:/Program Files (x86)/texlive/t
+exmf-dist/fonts/type1/arphic/gbsnu/gbsnu79.pfb><d:/Program Files (x86)/texlive/
+texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7a.pfb><d:/Program Files (x86)/texlive
+/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7b.pfb><d:/Program Files (x86)/texliv
+e/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7c.pfb><d:/Program Files (x86)/texli
+ve/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7e.pfb><d:/Program Files (x86)/texl
+ive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7f.pfb><d:/Program Files (x86)/tex
+live/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu80.pfb><d:/Program Files (x86)/te
+xlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu81.pfb><d:/Program Files (x86)/t
+exlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu82.pfb><d:/Program Files (x86)/
+texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu83.pfb><d:/Program Files (x86)
+/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu84.pfb><d:/Program Files (x86
+)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu86.pfb><d:/Program Files (x8
+6)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu88.pfb><d:/Program Files (x
+86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu89.pfb><d:/Program Files (
+x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu8a.pfb><d:/Program Files 
+(x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu8b.pfb><d:/Program Files
+ (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu8c.pfb><d:/Program File
+s (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu8d.pfb><d:/Program Fil
+es (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu8f.pfb><d:/Program Fi
+les (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu90.pfb><d:/Program F
+iles (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu91.pfb><d:/Program 
+Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu94.pfb><d:/Program
+ Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu95.pfb><d:/Progra
+m Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu96.pfb><d:/Progr
+am Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu97.pfb><d:/Prog
+ram Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu98.pfb><d:/Pro
+gram Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu99.pfb><d:/Pr
+ogram Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu9a.pfb><d:/P
+rogram Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu9f.pfb><d:/
+Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnuff.pfb>
+Output written on main.pdf (12 pages, 477357 bytes).
 PDF statistics:
  623 PDF objects out of 1000 (max. 8388607)
  427 compressed objects within 5 object streams
