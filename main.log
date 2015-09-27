@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2015.9.23)  25 SEP 2015 18:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2015.9.23)  26 SEP 2015 12:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1269,19 +1269,33 @@ File: image/Figure1-1-eps-converted-to.pdf Graphic file (type pdf)
 Package pdftex.def Info: image/Figure1-1-eps-converted-to.pdf used on input lin
 e 8.
 (pdftex.def)             Requested size: 227.62204pt x 96.26563pt.
-) [1
+
+Overfull \hbox (1.29643pt too wide) in paragraph at lines 15--16
+\C70/gbsn/m/n/12/5b W \C70/gbsn/m/n/12/56 þ \C70/gbsn/m/n/12/50 Ï$\OT1/cmr/bx/n
+/12 x$\C70/gbsn/m/n/12/4f \ \C70/gbsn/bx/n/12/4e : \C70/gbsn/m/n/12/5c ^ \C70/g
+bsn/m/n/12/51 T|\C70/gbsn/m/n/12/ff ^^L| \C70/gbsn/bx/n/12/4e § \C70/gbsn/m/n/1
+2/75 ^^_ \C70/gbsn/bx/n/12/4e ^^@ * \C70/gbsn/m/n/12/8f “ \C70/gbsn/m/n/12/51 ú
+ \C70/gbsn/m/n/12/54 ^^Q \C70/gbsn/m/n/12/91 Ï$\OT1/cmr/bx/n/12 y$|\C70/gbsn/m/
+n/12/ff ^^L| \C70/gbsn/m/n/12/51 v \C70/gbsn/m/n/12/54 Œ \C70/gbsn/m/n/12/76 î 
+\C70/gbsn/m/n/12/68 ^^G \C70/gbsn/m/n/12/54 ^^Q \C70/gbsn/m/n/12/91 Ï \C70/gbsn
+/m/n/12/76 „ \C70/gbsn/m/n/12/7f ^^V \C70/gbsn/m/n/12/78 ^^A \C70/gbsn/m/n/12/7
+6 ø \C70/gbsn/m/n/12/54 ^^L|\C70/gbsn/m/n/12/30 ^^B| \C70/gbsn/m/n/12/51 ý \C70
+/gbsn/m/n/12/65 p$[]$\C70/gbsn/m/n/12/76 „
+ []
+
+[1
 
 
- <./image/Figure1-1-eps-converted-to.pdf>]
+ <./image/Figure1-1-eps-converted-to.pdf>]) [2]
 \openout2 = `./TeX_files/chapter02.aux'.
 
- (./TeX_files/chapter02.tex [2
+ (./TeX_files/chapter02.tex
+Chapter 2.
+) [3
 
 
 
 ]
-Chapter 2.
-) [3]
 \openout2 = `./TeX_files/chapter03.aux'.
 
  (./TeX_files/chapter03.tex [4
@@ -1305,17 +1319,17 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 171.
  ) 
 Here is how much of TeX's memory you used:
- 21391 strings out of 494178
- 362893 string characters out of 6153114
+ 21415 strings out of 494178
+ 363207 string characters out of 6153114
  498497 words of memory out of 5000000
- 24163 multiletter control sequences out of 15000+600000
+ 24187 multiletter control sequences out of 15000+600000
  48686 words of font info for 180 fonts, out of 8000000 for 9000
  430 hyphenation exceptions out of 8191
- 40i,11n,47p,10433b,1404s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 40i,11n,47p,10433b,1418s stack positions out of 5000i,500n,10000p,200000b,80000s
 <c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/s
-imhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simsun.ttc><c:/Windows
-/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simhei.ttf><c:
-/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simsun
+imhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows
+/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simsun.ttc><c:
+/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun
 .ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simhei.ttf><c:/Windows/font
 s/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Wind
 ows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simsun.ttc>
@@ -1408,7 +1422,7 @@ gbsnu9a.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu
 /gbsnu9f.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsn
 u/gbsnuff.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/public/ams
 fonts/symbols/msbm10.pfb>
-Output written on main.pdf (12 pages, 569945 bytes).
+Output written on main.pdf (12 pages, 578598 bytes).
 PDF statistics:
  648 PDF objects out of 1000 (max. 8388607)
  445 compressed objects within 5 object streams

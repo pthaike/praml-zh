@@ -3,7 +3,7 @@
 \contentsline {subsection}{\numberline {0.1.2}致谢}{iii}{subsection.0.1.2}
 \contentsline {section}{\numberline {0.2}数学符号}{iii}{section.0.2}
 \contentsline {chapter}{\numberline {1}介绍}{1}{chapter.1}
-\contentsline {section}{\numberline {1.1}图模型}{1}{section.1.1}
+\contentsline {section}{\numberline {1.1}图模型}{2}{section.1.1}
 \contentsline {chapter}{\numberline {2}The Second Chapter}{3}{chapter.2}
 \contentsline {section}{\numberline {2.1}密度估计}{3}{section.2.1}
 \contentsline {subsection}{\numberline {2.1.1}高斯密度}{3}{subsection.2.1.1}
