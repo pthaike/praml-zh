@@ -4,9 +4,9 @@
 \contentsline {section}{\numberline {0.2}数学符号}{iii}{section.0.2}
 \contentsline {chapter}{\numberline {1}介绍}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}例子：多项式曲线拟合}{3}{section.1.1}
-\contentsline {chapter}{\numberline {2}The Second Chapter}{5}{chapter.2}
-\contentsline {section}{\numberline {2.1}密度估计}{5}{section.2.1}
-\contentsline {subsection}{\numberline {2.1.1}高斯密度}{5}{subsection.2.1.1}
-\contentsline {subsection}{\numberline {2.1.2}高斯密度}{5}{subsection.2.1.2}
-\contentsline {chapter}{\numberline {3}The First Chapter}{7}{chapter.3}
-\contentsline {section}{\numberline {3.1}daodaodaodoa}{7}{section.3.1}
+\contentsline {chapter}{\numberline {2}The Second Chapter}{7}{chapter.2}
+\contentsline {section}{\numberline {2.1}密度估计}{7}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}高斯密度}{7}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}高斯密度}{7}{subsection.2.1.2}
+\contentsline {chapter}{\numberline {3}The First Chapter}{9}{chapter.3}
+\contentsline {section}{\numberline {3.1}daodaodaodoa}{9}{section.3.1}

@@ -27,11 +27,56 @@
 	尽管每个问题都需要自己的工具和技术，但是很多关键的想法都支撑着所有的这些问题。这章主要的目标是用相关的非形式化方法去介绍介个最重要的的概念和用简单的例子描述他们。在书的后面，我们将会看到这些想法在再出现在更加复杂的模型中，这些模型会适用于真实世界的模式识别中。这章还会包含三个重要工具的介绍，它们会在整本书中都用到，叫做概率理论，决策理论和信息理论。尽管这些听起来像令人畏惧的话题，但是它们事实上是直接的，并且如果将机器学习技术用到实践应用中，清晰地理解它们是必要的。
 	
 \section{例子：多项式曲线拟合}
-	我们通过引入一个简单的回归问题来开始，我们将会用它作为一个运行的例子来贯穿整章来激励一些关键概念。假设我们观察一个真实值输入变量$x$，我们希望使用这个观察值去预测真实值目标变量$t$的值。目前的目的是
+	我们通过引入一个简单的回归问题来开始，我们将会用它作为一个运行的例子来贯穿整章来激励一些关键概念。假设我们观察一个真实值输入变量$x$，我们希望使用这个观察值去预测真实值目标变量$t$的值。对于目前的目的，使用合成的方法产生人造样本是具有启发性的，因为当我们进行学习模型比较时候，我们能知道生成数据的精确过程。样本的数据是由在目标值中包含随机噪声的的函数$sin(2 \pi x)$产生的，具体描述见附录A.
 
+	现在假设我们有一个训练集$\mathbf{x} \equiv (x_1, \dots x_N)^T $，包含N个x的观察值，对应的t的观察值表示为$\mathbf{t} \equiv (t_1, \dots t_N)^T $。图1.2展示了包含 N = 10 的训练集的点图。图1.2中的输入数据集$\mathbf{x}$是选择$x_n$的值产生的，对于$n = 1, \dots ,N$，取值范围为[0,1]，目标数据集$\mathbf{t}$是通过计算函数数$sin(2 \pi x)$得到的对应值，并对每一个点添加一个低水平的服从高斯分布随机噪声（高斯分布会在1.2.4节介绍）可得到$t_n$。通过这种方式产生数据，我们可以得到很多真实数据集的性质，也就是说这些数据存在潜在的规律，我们希望去学习这种规律，但这种独立的观察值受到随机噪声的干扰。这种平噪声可能从本质上体现随机过程，例如放射性衰变，但是通常是因为变量本省是不可观测的。
+	
 \begin{figure}
 	\centering
 	\includegraphics[width=8cm]{Figure1-2.eps}
 	\caption{Plot of a training data set of N = 10 points, shown as blue} 
 	\label{fig:endb-flow} 
+	
 \end{figure}
+	我们的目标是通过利用训练集，对于一些新的输入变量$\hat{x}$做出预测变量的目标值$\hat{t}$.我们后面可以看到的，这包含隐含地试图找到潜在函数$sin(2 \pi x)$.当我们从有限的数据集中概括时，在本质上是一个棘手的问题。更多的，观察数据集受到噪声的干扰，因此对于一个给定的$\hat{x}$，对应的近似值$\hat{t}$是不确定的。在1.2节中讨论的概率理论提供了一个用精确和定量的方法来表达这种不确定性的框架，在1.5节中讨论的决策理论重现了这种概率的利用，为了根据似然准则做出优化决策。
+	
+	就目前而言，我们将会非正式地进行和考虑基于曲线拟合的的简单方法，我们使用多项式函数来拟合数据得到形式
+	
+	\begin{equation}
+	y(x,\mathbf{w}) = w_0 + w_1x + w_2x^2 + \dots + w_Mx^M = \sum_{j = 0}^{M}w_jx^j
+	\end{equation}
+	
+	其中M是多项式的阶，$x^j$表示x的j次幂。多项式的系数$w_0, \dots ,w_M$可以使用向量$\mathbf{w}$表示。注意，尽管多项式函数$y(x,\mathbf{w})$是x非线性的函数，但对于w是线性函数。如多项式之类的函数，对于未知参数是线性的，具有重要的性质，称为线性模型，我们将会在3.4节来扩展介绍。
+	
+	参数的值由对训练数据的多项式拟合确定。这可以表示为通过最小化损失函数（error function），对于任意的值$\mathbf(w)$和训练集数据点，损失函数用来测量函数$y(x,\mathbf{w})$的失配。简单选择被广泛地使用损失函数，通过对每个数据点$x_n$的预测值$y(x,\mathbf{w})$和对应的目标值$t_n$误差平方和,因此我们最小化
+	
+	\begin{equation}
+	E(w) = \frac{1}{2} \sum_{n = 1}^{N}\{ y(x_n,\mathbf{w}) - t_n\}^2
+	\end{equation}
+	
+	其中包含的因子1/2是为了后面计算的方便。我们将会在这个章节的后面讨论使用这个损失函数的原因。现在我们简单地注意到它是一个非负的的等式，当且仅当函数$y(x,\mathbf{w})$精确地通过每一个训练数据点的时候为0。函数平方误差和的几何解析表示为图1.3。
+	
+	
+\begin{figure}
+	\centering
+	\includegraphics[width=8cm]{Figure1-3.png}
+	\caption{The error function (1.2) corresponds to (one half of) the sum of the squares of the displacements (shown by the vertical green bars) of each data point from the function $y(x,\mathbf{w})$ } 
+	\label{fig:endb-flow} 
+\end{figure}
+
+	我们可以通过选择$\mathbf{w}$的值来解决曲线拟合问题，其中$E(\mathbf{w})$尽可能小。因为损失函数是参数为$\mathbf{w}$的一个二次函数，它的导数是相对于系数在元素$\mathbf{w}$下是线性的，因此最小化损失函数有唯一的解，可以用紧凑的形式表示为$\mathbf{w}^{\star}$。多项式的结果表示为函数$y(x,\mathbf{w}^{\star})$。
+	
+	这里存在的问题是如何选择多项式的阶M，我们会看到这会转化为一个重要概念的例子，称为模型对比和模型选择(model comparison or model selection)。在图1.4中，我们展示了对于图1.2中展示的数据集的多项式拟合结果的4个例子，其中多项式的阶数为M = 0,1,3,9。
+
+\begin{figure}
+	
+	\includegraphics[width=8cm]{Figure1-4a.eps}
+	\includegraphics[width=8cm]{Figure1-4b.eps}
+	\includegraphics[width=8cm]{Figure1-4c.eps}
+	\includegraphics[width=8cm]{Figure1-4d.eps}
+	\caption{Plots of polynomials having various orders M, shown as red curves, fitted to the data set shown in
+		Figure 1.2. } 
+	\label{fig:endb-flow} 
+\end{figure}
+
+	我们注意到常量（M = 0）和一次（M = 1）的多项式对于数据得到相当糟糕的拟合
