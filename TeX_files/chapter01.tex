@@ -32,12 +32,10 @@
 	现在假设我们有一个训练集$\mathbf{x} \equiv (x_1, \dots x_N)^T $，包含N个x的观察值，对应的t的观察值表示为$\mathbf{t} \equiv (t_1, \dots t_N)^T $。图1.2展示了包含 N = 10 的训练集的点图。图1.2中的输入数据集$\mathbf{x}$是选择$x_n$的值产生的，对于$n = 1, \dots ,N$，取值范围为[0,1]，目标数据集$\mathbf{t}$是通过计算函数数$sin(2 \pi x)$得到的对应值，并对每一个点添加一个低水平的服从高斯分布随机噪声（高斯分布会在1.2.4节介绍）可得到$t_n$。通过这种方式产生数据，我们可以得到很多真实数据集的性质，也就是说这些数据存在潜在的规律，我们希望去学习这种规律，但这种独立的观察值受到随机噪声的干扰。这种平噪声可能从本质上体现随机过程，例如放射性衰变，但是通常是因为变量本省是不可观测的。
 	
 \begin{figure}
-	\centering
-	\includegraphics[width=8cm]{Figure1-2.eps}
-	\caption{Plot of a training data set of N = 10 points, shown as blue} 
-	\label{fig:endb-flow} 
-	
+	\parbox{.4\textwidth}{\caption{Plot of a training data set of N = 10 points, shown as blue}}
+	\parbox{.5\textwidth}{\includegraphics[width=8cm]{Figure1-2.eps}}
 \end{figure}
+
 	我们的目标是通过利用训练集，对于一些新的输入变量$\hat{x}$做出预测变量的目标值$\hat{t}$.我们后面可以看到的，这包含隐含地试图找到潜在函数$sin(2 \pi x)$.当我们从有限的数据集中概括时，在本质上是一个棘手的问题。更多的，观察数据集受到噪声的干扰，因此对于一个给定的$\hat{x}$，对应的近似值$\hat{t}$是不确定的。在1.2节中讨论的概率理论提供了一个用精确和定量的方法来表达这种不确定性的框架，在1.5节中讨论的决策理论重现了这种概率的利用，为了根据似然准则做出优化决策。
 	
 	就目前而言，我们将会非正式地进行和考虑基于曲线拟合的的简单方法，我们使用多项式函数来拟合数据得到形式
@@ -58,9 +56,8 @@
 	
 	
 \begin{figure}
-	\centering
-	\includegraphics[width=8cm]{Figure1-3.png}
-	\caption{The error function (1.2) corresponds to (one half of) the sum of the squares of the displacements (shown by the vertical green bars) of each data point from the function $y(x,\mathbf{w})$ } 
+	\parbox{.4\textwidth}{\caption{The error function (1.2) corresponds to (one half of) the sum of the squares of the displacements (shown by the vertical green bars) of each data point from the function $y(x,\mathbf{w})$ } }
+	\parbox{.5\textwidth}{\includegraphics[width=8cm]{Figure1-3.png}}
 	\label{fig:endb-flow} 
 \end{figure}
 
@@ -68,7 +65,7 @@
 	
 	这里存在的问题是如何选择多项式的阶M，我们会看到这会转化为一个重要概念的例子，称为模型对比和模型选择(model comparison or model selection)。在图1.4中，我们展示了对于图1.2中展示的数据集的多项式拟合结果的4个例子，其中多项式的阶数为M = 0,1,3,9。
 
-\begin{figure}
+\begin{figure}[t]
 	
 	\includegraphics[width=8cm]{Figure1-4a.eps}
 	\includegraphics[width=8cm]{Figure1-4b.eps}
@@ -76,7 +73,6 @@
 	\includegraphics[width=8cm]{Figure1-4d.eps}
 	\caption{Plots of polynomials having various orders M, shown as red curves, fitted to the data set shown in
 		Figure 1.2. } 
-	\label{fig:endb-flow} 
 \end{figure}
 
 	我们注意到常量（M = 0）和一次（M = 1）的多项式对于数据得到相当糟糕的拟合,并且对于函数$sin(2 \pi x)$表示也表现很差。如图1.4所示的例子，三次多项式对于函数$sin(2 \pi x)$似乎得到了最好的拟合。当我们采用更高次的多项式(M = 9)时，对于训练数据，我们得到了一个较好的拟合。事实上，多项式精确地通过每个点，并且$E(\mathbf{w}^{\star}) = 0$。反而，拟合曲线较大范围的波动对于函数$sin(2 \pi x)$会得到较差的表示。后面这种行为称为过拟合（over-fitting）。
@@ -89,13 +85,22 @@
 	
 	其中除数M允许我们可以同等地比较不同大小的数据集，并且平方根确保$E_{RMS}$可以和变量t在同一尺度上进行测量。对于不同的M值，训练和测试数据集的REM误差可以在展示在图1.5中。测试数据集是用来测量对于新数据x的观察结果，得到的预测值t的效果如何。我们从图1.5中可以观察到，对于小的M值，会得到相对较大的测试误差。这可以归因于得到的多项式是相当平滑的，并且不能捕获函数$sin(2 \pi x)$的震荡。真如我们所看到的对于图1.4中 M = 3 的例子，M在$3 \leq M \leq 8$范围内时会得到较小的测试误差，并且这也合理地给出了生成函数$sin(2 \pi x)$的表示。
 
+\begin{figure}
+	\parbox{.4\textwidth}{\caption{均方根误差的图，定义（1.3），对于不同的M值，用训练集和独立的测试集评估}}
+	\parbox{.5\textwidth}{\includegraphics[width=8cm]{Figure1-5.eps}}
+	\label{fig:endb-flow} 
+\end{figure}
+
 	对于 M = 9，正如我们所预料的，训练集误差为0，因为多项式对应的10个系数包含10个自由度$w_1,\dots,w_9$，所以可以精确地被协调到10个训练数据点。然而，如图1.4所示，测试集误差变得非常大时，对应的函数$y(x, w^{\star})$波动很大。
 	
 	这似乎是矛盾的，因为一个给定阶数的多项式包含所有低阶的的例子。M = 9 的多项式因此能和 M = 3 的多项式产生一样好的结果。此外，我们或许可以假设对于新数据的最好预测可能是函数来自于函数$sin(2 \pi x)$，其中的数据是由函数生成的（我们后面可以看到这确实是这样的）。我们知道函数$sin(2 \pi x)$的一个幂级数展开包含所有的阶，因此我们期望当我们增加M时，性能会单调地提升。
 	
-	我们可以通过检验从各种阶数的多项式得到的系数值来得到一些深入的问题，如表1.1所示
-
-	\begin{table}[t]
+	我们可以通过检验从各种阶数的多项式得到的系数值来得到一些深入的问题，如表1.1所示，我们可以看到，当M增加时，系数的增幅会变得更大。尤其对于M = 9 的多项式，系数完美地在很大的正数和负数之间变换，从而使得多项式函数可以精确地匹配每个数据。但在数据之间，如图1.4中所看到的，函数出现很大的波动。直观地，有很大值M的多项式越平滑，目标值得到的随机噪声越大。
+	
+	%table1.1
+	\begin{table}[b]
+		\parbox{.3\textwidth}{\caption{不同阶数的多项式的系数$w^{\star})$，观察当多项式阶数增加时，系数是如何增加的}}
+		\parbox{.5\textwidth}{
 		\begin{tabular}{r|rrrr}
 			& M = 0 & M = 1 & M = 6 & M = 9\\
 			\hline
@@ -111,6 +116,60 @@
 			$w_9^{\star}$ &  	 & 		 &		&  125201.43
 			
 		\end{tabular}
-		
-		\caption{不同阶数的.}
+	}
 	\end{table}
+	
+	当数据集大小变动时，检验一个给定模型的的行为也是一件有趣的事情，如图1.6所示。我们可以看到，对于一个给定的模型复杂度，当数据集的大小增加时，过拟合问题会变得更小。换句话说，数据集越大时，我们需要的模型就越复杂去拟合数据。一个粗略的启发是，数据点的数量不应该少于模型参数个数的几倍（可能5或者10）。然而，我们可以在第3章中看到，参数的个数并不是衡量模型复杂程度的最合适标准。
+	
+	\begin{figure}
+		
+		\includegraphics[width=8cm]{Figure1-6a.eps}
+		\includegraphics[width=8cm]{Figure1-6b.eps}
+
+		\caption{使用 M =9 的多项式，对于 N = 15（左图） 和 N =100（右图） 的点个数得到的结果，我们可以看到当数据集越大时，过拟合问题越小} 
+		\label{fig:endb-flow} 
+	\end{figure}
+	
+	这里也有一些令人很不满意的事，就是必须要根据训练数据集的大小来限制模型参数的个数。这似乎很有道理，根据需要解决的问题的复杂度大小来选择模型的复杂程度。我们可以看到用最小二乘法来找模型参数展现了最大似然估计的一个特殊例子（在1.2.5节中讨论），并且过拟合问题可以理解为最大似然估计的一个通用属性。通过使用贝叶斯方法，过拟合问题可以避免。我们可以发现在模型中利用贝叶斯的方法可以使得参数的个数超过数据点个数。在贝叶斯模型中，真实的参数个数会根据数据集的大小自动调整。
+	
+	目前，继续用现在的方法和考虑在实践中如何将其应用到有限数据集中是具有指导性意义的，其中我们希望可以使用相对复杂和灵活的模型。通常用来控制过拟合现象的一种技术是正则化（regularization），其中通过添加一个惩罚项到误差函数（1.2）中，可以避免系数达到较大的值。这个惩罚项形式是所有系数的平方和，修改后的误差函数为
+	
+	\begin{equation}
+	\tilde{E}(w) = \frac{1}{2} \sum_{n = 1}^{N}\{ y(x_n,\mathbf{w}) - t_n\}^2 + \frac{\lambda}{2} \parallel \mathbf{w} \parallel^2
+	\end{equation}
+	
+	其中$\parallel \mathbf{w} \parallel^2 \equiv \mathbf{w}^T\mathbf{w} = w_0^2 + w_1^2 + \dots +w_M^2 $，和平方和误差项相比，系数$\lambda$控制正则项的相关重要性。通常系数$w_0$会在正则化中忽略掉，因为将其纳入选择的范围取决于初始变量的选择（Hastie et al., 2001）,或者它可以被包含，但是只是正则化它自己的系数（我们将会在5.5.1节详细地讨论这个话题）。式1.4的误差函数可以再次最小化到更接近的形式。这种技术在统计学中称为缩减（shrinkage）方法，因为减少了系数的值。尤其在二次方程正则化中称为岭回归（ridge regression）。在神经网络的环境下，这种方法称为权值衰减（weight decay）。
+	
+	图1.7展示了9次多项式的拟合结果，数据和之前的一样，但是使用了（1.4）式给出的正则化的误差函数。我们可以看到，对于$\ln \lambda = -18$，过拟合已经被压制了，我们可以得到一个更加接近函数$sin(2 \pi x)$的表达式。然而，当我们使用较大的$\lambda$值时，我们会得到比较差的拟合，如图1.7所示，对于$\ln \lambda = 0$。拟合的多项式对应的系数在表1.2中给出，表明正则化对减少系数的数量级具有所希望的效果。
+	
+	\begin{figure}
+		
+		\includegraphics[width=8cm]{Figure1-7a.eps}
+		\includegraphics[width=8cm]{Figure1-7b.eps}
+		
+		\caption{对在图1.2中展示的数据集用M=9的多项式拟合，使用（1.4）的正则化误差函数，两个正则化参数$\lambda$对应$\lambda = -18$ 和$\lambda = 0$} 
+		\label{fig:endb-flow} 
+	\end{figure}
+	
+	%table1.2
+	\begin{table}[b]
+		\parbox{.4\textwidth}{\caption{对于M = 9的多项式，不同的正则化参数$\lambda$值的系数$w^{\star}$。注意当$\ln \lambda = -\inf$时对应的模型没有正则项，即对应图1.4的右下角的图，我们看到，当$\lambda$的值增加时，系数的数量级变得更小}}
+		\parbox{.5\textwidth}{
+			\begin{tabular}{r|rrr}
+				& $\ln \lambda = -\inf$ & $\ln \lambda = -18$ & $\ln \lambda = 0$ \\
+				\hline
+				$w_0^{\star}$ & 0.35 & 0.35 & 0.13\\
+				$w_1^{\star}$ & 232.37 & 4.74 & -0.05 \\
+				$w_2^{\star}$ & -5321.83 & -0.77 & -0.06 \\
+				$w_3^{\star}$ & 48568.31 & -31.97 & -0.05 \\
+				$w_4^{\star}$ & -231639.30 & -3.89 & -0.03 \\
+				$w_5^{\star}$ & 640042.26 & 55.28 & -0.02\\
+				$w_6^{\star}$ & -1061800.52 & 41.32 & -0.01 \\
+				$w_7^{\star}$ & 1042400.18 & -45.95 & -0.00 \\
+				$w_8^{\star}$ & -557682.99 & -91.53 & 0.00 \\
+				$w_9^{\star}$ & 125201.43 & 72.68 & 0.01
+			\end{tabular}
+		}
+	\end{table}
+	
+	
