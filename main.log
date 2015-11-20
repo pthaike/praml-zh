@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2015.9.23)  20 NOV 2015 09:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2015.9.23)  20 NOV 2015 20:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1351,7 +1351,7 @@ Package epstopdf Info: Source file: <image/Figure1-1.eps>
 ted-to.pdf image/Figure1-1.eps>
 (epstopdf)             \includegraphics on input line 8.
 Package epstopdf Info: Output file is already uptodate.
-<image/Figure1-1-eps-converted-to.pdf, id=273, 227.85126pt x 96.36pt>
+<image/Figure1-1-eps-converted-to.pdf, id=278, 227.85126pt x 96.36pt>
 File: image/Figure1-1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use image/Figure1-1-eps-converted-to.pdf>
@@ -1379,16 +1379,16 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
  <./image/Figure1-1-eps-converted-to.pdf>]
-Overfull \hbox (1.10968pt too wide) in paragraph at lines 21--22
+Overfull \hbox (0.34238pt too wide) in paragraph at lines 21--22
 []\C70/gbsn/m/n/12/8b ­ \C70/gbsn/bx/n/12/7e Ã \C70/gbsn/m/n/12/65 p \C70/gbsn/
-m/n/12/63 n \C70/gbsn/m/n/12/53 ^^E \C70/gbsn/m/n/12/54 + \C70/gbsn/m/n/12/76 „
- \C70/gbsn/m/n/12/68 7 \C70/gbsn/m/n/12/67 , \C70/gbsn/m/n/12/66 / \C70/gbsn/m/
-n/12/8f “ \C70/gbsn/m/n/12/51 e \C70/gbsn/m/n/12/54 ^^Q \C70/gbsn/m/n/12/91 Ï \
-C70/gbsn/m/n/12/5b ù \C70/gbsn/bx/n/12/4e Ž \C70/gbsn/m/n/12/76 î \C70/gbsn/m/n
-/12/68 ^^G \C70/gbsn/m/n/12/54 ^^Q \C70/gbsn/m/n/12/91 Ï \C70/gbsn/m/n/12/76 „ 
-\C70/gbsn/m/n/12/5e ” \C70/gbsn/m/n/12/75 ( \C70/gbsn/m/n/12/66 / \C70/gbsn/m/n
-/12/76 Ñ \C70/gbsn/m/n/12/77 c \C70/gbsn/m/n/12/5b f \C70/gbsn/bx/n/12/4e `\OT1
-/cmr/m/n/12 (supervised
+bx/n/12/63 n \C70/gbsn/bx/n/12/53 ^^E \C70/gbsn/m/n/12/54 + \C70/gbsn/bx/n/12/7
+6 „ \C70/gbsn/m/n/12/68 7 \C70/gbsn/m/n/12/67 , \C70/gbsn/m/n/12/66 / \C70/gbsn
+/m/n/12/8f “ \C70/gbsn/m/n/12/51 e \C70/gbsn/m/n/12/54 ^^Q \C70/gbsn/m/n/12/91 
+Ï \C70/gbsn/bx/n/12/5b ù \C70/gbsn/bx/n/12/4e Ž \C70/gbsn/bx/n/12/76 î \C70/gbs
+n/m/n/12/68 ^^G \C70/gbsn/m/n/12/54 ^^Q \C70/gbsn/m/n/12/91 Ï \C70/gbsn/bx/n/12
+/76 „ \C70/gbsn/m/n/12/5e ” \C70/gbsn/m/n/12/75 ( \C70/gbsn/m/n/12/66 / \C70/gb
+sn/bx/n/12/76 Ñ[][] \C70/gbsn/bx/n/12/77 c[][] \C70/gbsn/bx/n/12/5b f[][] \C70/
+gbsn/bx/n/12/4e `[][]\OT1/cmr/m/n/12 (\OT1/cmr/m/it/12 supervised
  []
 
 
@@ -1408,7 +1408,7 @@ ted-to.pdf image/Figure1-2.eps>
 (epstopdf)             \includegraphics on input line 36.
 Package epstopdf Info: Output file is already uptodate.
 
-<image/Figure1-2-eps-converted-to.pdf, id=290, 209.78375pt x 155.58125pt>
+<image/Figure1-2-eps-converted-to.pdf, id=296, 209.78375pt x 155.58125pt>
 File: image/Figure1-2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use image/Figure1-2-eps-converted-to.pdf>
@@ -1422,7 +1422,7 @@ Overfull \hbox (19.0633pt too wide) in paragraph at lines 36--36
 
 Package CJKpunct Info: use punctuation spaces for family 'rm' with punctstyle (
 quanjiao) on input line 40.
-[3] <image/Figure1-3.png, id=309, 207.77625pt x 156.585pt>
+[3] <image/Figure1-3.png, id=315, 207.77625pt x 156.585pt>
 File: image/Figure1-3.png Graphic file (type png)
 
 <use image/Figure1-3.png>
@@ -1445,7 +1445,7 @@ rted-to.pdf image/Figure1-4a.eps>
 (epstopdf)             \includegraphics on input line 70.
 Package epstopdf Info: Output file is already uptodate.
 
-<image/Figure1-4a-eps-converted-to.pdf, id=329, 209.78375pt x 155.58125pt>
+<image/Figure1-4a-eps-converted-to.pdf, id=335, 209.78375pt x 155.58125pt>
 File: image/Figure1-4a-eps-converted-to.pdf Graphic file (type pdf)
 
 <use image/Figure1-4a-eps-converted-to.pdf>
@@ -1463,7 +1463,7 @@ rted-to.pdf image/Figure1-4b.eps>
 (epstopdf)             \includegraphics on input line 71.
 Package epstopdf Info: Output file is already uptodate.
 
-<image/Figure1-4b-eps-converted-to.pdf, id=330, 209.78375pt x 155.58125pt>
+<image/Figure1-4b-eps-converted-to.pdf, id=336, 209.78375pt x 155.58125pt>
 File: image/Figure1-4b-eps-converted-to.pdf Graphic file (type pdf)
 
 <use image/Figure1-4b-eps-converted-to.pdf>
@@ -1481,7 +1481,7 @@ rted-to.pdf image/Figure1-4c.eps>
 (epstopdf)             \includegraphics on input line 72.
 Package epstopdf Info: Output file is already uptodate.
 
-<image/Figure1-4c-eps-converted-to.pdf, id=331, 209.78375pt x 155.58125pt>
+<image/Figure1-4c-eps-converted-to.pdf, id=337, 209.78375pt x 155.58125pt>
 File: image/Figure1-4c-eps-converted-to.pdf Graphic file (type pdf)
 
 <use image/Figure1-4c-eps-converted-to.pdf>
@@ -1499,7 +1499,7 @@ rted-to.pdf image/Figure1-4d.eps>
 (epstopdf)             \includegraphics on input line 73.
 Package epstopdf Info: Output file is already uptodate.
 
-<image/Figure1-4d-eps-converted-to.pdf, id=332, 209.78375pt x 155.58125pt>
+<image/Figure1-4d-eps-converted-to.pdf, id=338, 209.78375pt x 155.58125pt>
 File: image/Figure1-4d-eps-converted-to.pdf Graphic file (type pdf)
 
 <use image/Figure1-4d-eps-converted-to.pdf>
@@ -1528,7 +1528,7 @@ ted-to.pdf image/Figure1-5.eps>
 (epstopdf)             \includegraphics on input line 90.
 Package epstopdf Info: Output file is already uptodate.
 
-<image/Figure1-5-eps-converted-to.pdf, id=340, 206.7725pt x 150.5625pt>
+<image/Figure1-5-eps-converted-to.pdf, id=347, 206.7725pt x 150.5625pt>
 File: image/Figure1-5-eps-converted-to.pdf Graphic file (type pdf)
 
 <use image/Figure1-5-eps-converted-to.pdf>
@@ -1560,7 +1560,7 @@ Package epstopdf Info: Source file: <image/Figure1-6a.eps>
 rted-to.pdf image/Figure1-6a.eps>
 (epstopdf)             \includegraphics on input line 126.
 Package epstopdf Info: Output file is already uptodate.
-<image/Figure1-6a-eps-converted-to.pdf, id=389, 209.78375pt x 155.58125pt>
+<image/Figure1-6a-eps-converted-to.pdf, id=395, 209.78375pt x 155.58125pt>
 File: image/Figure1-6a-eps-converted-to.pdf Graphic file (type pdf)
 
 <use image/Figure1-6a-eps-converted-to.pdf>
@@ -1578,7 +1578,7 @@ rted-to.pdf image/Figure1-6b.eps>
 (epstopdf)             \includegraphics on input line 127.
 Package epstopdf Info: Output file is already uptodate.
 
-<image/Figure1-6b-eps-converted-to.pdf, id=390, 209.78375pt x 155.58125pt>
+<image/Figure1-6b-eps-converted-to.pdf, id=396, 209.78375pt x 155.58125pt>
 File: image/Figure1-6b-eps-converted-to.pdf Graphic file (type pdf)
 
 <use image/Figure1-6b-eps-converted-to.pdf>
@@ -1606,7 +1606,7 @@ rted-to.pdf image/Figure1-7a.eps>
 (epstopdf)             \includegraphics on input line 147.
 Package epstopdf Info: Output file is already uptodate.
 
-<image/Figure1-7a-eps-converted-to.pdf, id=475, 209.78375pt x 155.58125pt>
+<image/Figure1-7a-eps-converted-to.pdf, id=481, 209.78375pt x 155.58125pt>
 File: image/Figure1-7a-eps-converted-to.pdf Graphic file (type pdf)
 
 <use image/Figure1-7a-eps-converted-to.pdf>
@@ -1624,7 +1624,7 @@ rted-to.pdf image/Figure1-7b.eps>
 (epstopdf)             \includegraphics on input line 148.
 Package epstopdf Info: Output file is already uptodate.
 
-<image/Figure1-7b-eps-converted-to.pdf, id=476, 209.78375pt x 155.58125pt>
+<image/Figure1-7b-eps-converted-to.pdf, id=482, 209.78375pt x 155.58125pt>
 File: image/Figure1-7b-eps-converted-to.pdf Graphic file (type pdf)
 
 <use image/Figure1-7b-eps-converted-to.pdf>
@@ -1651,7 +1651,7 @@ Package epstopdf Info: Source file: <image/Figure1-8.eps>
 ted-to.pdf image/Figure1-8.eps>
 (epstopdf)             \includegraphics on input line 179.
 Package epstopdf Info: Output file is already uptodate.
-<image/Figure1-8-eps-converted-to.pdf, id=477, 206.7725pt x 150.5625pt>
+<image/Figure1-8-eps-converted-to.pdf, id=483, 206.7725pt x 150.5625pt>
 File: image/Figure1-8-eps-converted-to.pdf Graphic file (type pdf)
 
 <use image/Figure1-8-eps-converted-to.pdf>
@@ -1676,7 +1676,7 @@ ted-to.pdf image/Figure1-9.eps>
 (epstopdf)             \includegraphics on input line 191.
 Package epstopdf Info: Output file is already uptodate.
 
-<image/Figure1-9-eps-converted-to.pdf, id=518, 203.76125pt x 133.49875pt>
+<image/Figure1-9-eps-converted-to.pdf, id=524, 203.76125pt x 133.49875pt>
 File: image/Figure1-9-eps-converted-to.pdf Graphic file (type pdf)
 
 <use image/Figure1-9-eps-converted-to.pdf>
@@ -1689,7 +1689,7 @@ Overfull \hbox (19.0633pt too wide) in paragraph at lines 191--191
  []
 
 [10 <./image/Figure1-8-eps-converted-to.pdf> <./image/Figure1-9-eps-converted-t
-o.pdf>] <image/Figure1-10.png, id=549, 568.37344pt x 386.94562pt>
+o.pdf>] <image/Figure1-10.png, id=555, 568.37344pt x 386.94562pt>
 File: image/Figure1-10.png Graphic file (type png)
 
 <use image/Figure1-10.png>
@@ -1709,15 +1709,15 @@ Package epstopdf Info: Source file: <image/Figure1-11a.eps>
 (epstopdf)                    size: 9545 bytes
 (epstopdf)             Command: <repstopdf --outfile=image/Figure1-11a-eps-conv
 erted-to.pdf image/Figure1-11a.eps>
-(epstopdf)             \includegraphics on input line 273.
+(epstopdf)             \includegraphics on input line 276.
 Package epstopdf Info: Output file is already uptodate.
 
-<image/Figure1-11a-eps-converted-to.pdf, id=574, 212.795pt x 147.55125pt>
+<image/Figure1-11a-eps-converted-to.pdf, id=579, 212.795pt x 147.55125pt>
 File: image/Figure1-11a-eps-converted-to.pdf Graphic file (type pdf)
 
 <use image/Figure1-11a-eps-converted-to.pdf>
 Package pdftex.def Info: image/Figure1-11a-eps-converted-to.pdf used on input l
-ine 273.
+ine 276.
 (pdftex.def)             Requested size: 227.62204pt x 157.83998pt.
 Package epstopdf Info: Source file: <image/Figure1-11b.eps>
 (epstopdf)                    date: 2008-06-17 11:12:08
@@ -1727,15 +1727,15 @@ Package epstopdf Info: Source file: <image/Figure1-11b.eps>
 (epstopdf)                    size: 5187 bytes
 (epstopdf)             Command: <repstopdf --outfile=image/Figure1-11b-eps-conv
 erted-to.pdf image/Figure1-11b.eps>
-(epstopdf)             \includegraphics on input line 274.
+(epstopdf)             \includegraphics on input line 277.
 Package epstopdf Info: Output file is already uptodate.
 
-<image/Figure1-11b-eps-converted-to.pdf, id=575, 212.795pt x 147.55125pt>
+<image/Figure1-11b-eps-converted-to.pdf, id=580, 212.795pt x 147.55125pt>
 File: image/Figure1-11b-eps-converted-to.pdf Graphic file (type pdf)
 
 <use image/Figure1-11b-eps-converted-to.pdf>
 Package pdftex.def Info: image/Figure1-11b-eps-converted-to.pdf used on input l
-ine 274.
+ine 277.
 (pdftex.def)             Requested size: 227.62204pt x 157.83998pt.
 Package epstopdf Info: Source file: <image/Figure1-11c.eps>
 (epstopdf)                    date: 2008-06-17 11:12:08
@@ -1745,15 +1745,15 @@ Package epstopdf Info: Source file: <image/Figure1-11c.eps>
 (epstopdf)                    size: 5426 bytes
 (epstopdf)             Command: <repstopdf --outfile=image/Figure1-11c-eps-conv
 erted-to.pdf image/Figure1-11c.eps>
-(epstopdf)             \includegraphics on input line 275.
+(epstopdf)             \includegraphics on input line 278.
 Package epstopdf Info: Output file is already uptodate.
 
-<image/Figure1-11c-eps-converted-to.pdf, id=576, 212.795pt x 147.55125pt>
+<image/Figure1-11c-eps-converted-to.pdf, id=581, 212.795pt x 147.55125pt>
 File: image/Figure1-11c-eps-converted-to.pdf Graphic file (type pdf)
 
 <use image/Figure1-11c-eps-converted-to.pdf>
 Package pdftex.def Info: image/Figure1-11c-eps-converted-to.pdf used on input l
-ine 275.
+ine 278.
 (pdftex.def)             Requested size: 227.62204pt x 157.83998pt.
 Package epstopdf Info: Source file: <image/Figure1-11d.eps>
 (epstopdf)                    date: 2008-06-17 11:12:08
@@ -1763,79 +1763,73 @@ Package epstopdf Info: Source file: <image/Figure1-11d.eps>
 (epstopdf)                    size: 6689 bytes
 (epstopdf)             Command: <repstopdf --outfile=image/Figure1-11d-eps-conv
 erted-to.pdf image/Figure1-11d.eps>
-(epstopdf)             \includegraphics on input line 276.
+(epstopdf)             \includegraphics on input line 279.
 Package epstopdf Info: Output file is already uptodate.
 
-<image/Figure1-11d-eps-converted-to.pdf, id=577, 212.795pt x 147.55125pt>
+<image/Figure1-11d-eps-converted-to.pdf, id=582, 212.795pt x 147.55125pt>
 File: image/Figure1-11d-eps-converted-to.pdf Graphic file (type pdf)
 
 <use image/Figure1-11d-eps-converted-to.pdf>
 Package pdftex.def Info: image/Figure1-11d-eps-converted-to.pdf used on input l
-ine 276.
+ine 279.
 (pdftex.def)             Requested size: 227.62204pt x 157.83998pt.
 
-Overfull \hbox (40.73767pt too wide) in paragraph at lines 273--277
+Overfull \hbox (40.73767pt too wide) in paragraph at lines 276--280
 [][] []
  []
 
 
-Overfull \hbox (40.73767pt too wide) in paragraph at lines 273--277
+Overfull \hbox (40.73767pt too wide) in paragraph at lines 276--280
 [] [] 
  []
 
-[13 <./image/Figure1-11a-eps-converted-to.pdf> <./image/Figure1-11b-eps-convert
-ed-to.pdf> <./image/Figure1-11c-eps-converted-to.pdf> <./image/Figure1-11d-eps-
-converted-to.pdf>]
-Overfull \hbox (24.3511pt too wide) detected at line 325
-[] []
- []
+[13] [14 <./image/Figure1-11a-eps-converted-to.pdf> <./image/Figure1-11b-eps-co
+nverted-to.pdf> <./image/Figure1-11c-eps-converted-to.pdf> <./image/Figure1-11d
+-eps-converted-to.pdf>] [15]
+<image/Figure1-12.png, id=636, 682.04813pt x 493.0922pt>
+File: image/Figure1-12.png Graphic file (type png)
 
-[14] [15]
-Package epstopdf Info: Source file: <image/Figure1-12.eps>
-(epstopdf)                    date: 2008-06-17 16:46:36
-(epstopdf)                    size: 18646 bytes
-(epstopdf)             Output file: <image/Figure1-12-eps-converted-to.pdf>
-(epstopdf)             Command: <repstopdf --outfile=image/Figure1-12-eps-conve
-rted-to.pdf image/Figure1-12.eps>
-(epstopdf)             \includegraphics on input line 351.
-runsystem(repstopdf --outfile=image/Figure1-12-eps-converted-to.pdf image/Figur
-e1-12.eps)...executed safely (allowed).
+<use image/Figure1-12.png>
+Package pdftex.def Info: image/Figure1-12.png used on input line 354.
+(pdftex.def)             Requested size: 227.62204pt x 164.5643pt.
 
-Package epstopdf Info: Result file: <image/Figure1-12-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-11-20 09:38:48
-(epstopdf)                    size: 8276 bytes.
-
-<image/Figure1-12-eps-converted-to.pdf, id=632, 217.81375pt x 153.57375pt>
-File: image/Figure1-12-eps-converted-to.pdf Graphic file (type pdf)
-
-<use image/Figure1-12-eps-converted-to.pdf>
-Package pdftex.def Info: image/Figure1-12-eps-converted-to.pdf used on input li
-ne 351.
-(pdftex.def)             Requested size: 227.62204pt x 160.48856pt.
-
-Overfull \hbox (19.0633pt too wide) in paragraph at lines 351--351
+Overfull \hbox (19.0633pt too wide) in paragraph at lines 354--354
 [][] 
  []
 
-) [16 <./image/Figure1-12-eps-converted-to.pdf>]
+[16 <./image/Figure1-12.png>] [17] [18])
+Overfull \hbox (15.11986pt too wide) in paragraph at lines 479--167
+[]\C70/gbsn/m/n/12/59 ‚ \C70/gbsn/bx/n/12/67 œ \C70/gbsn/m/n/12/62 ^^Q \C70/gbs
+n/bx/n/12/4e ì \C70/gbsn/bx/n/12/80 ^^C \C70/gbsn/m/n/12/86 Q \C70/gbsn/m/n/12/
+54 ^^Q \C70/gbsn/bx/n/12/91 Ï\OT1/cmr/bx/n/12 x\C70/gbsn/m/n/12/54 Œ \C70/gbsn/
+m/n/12/81 ê \C70/gbsn/m/n/12/8e « \C70/gbsn/bx/n/12/76 „ \C70/gbsn/bx/n/12/53 O
+ \C70/gbsn/bx/n/12/65 ¹ \C70/gbsn/bx/n/12/5d î|\C70/gbsn/m/n/12/ff ^^L| \C70/gb
+sn/m/n/12/62 ^^Q \C70/gbsn/bx/n/12/4e ì \C70/gbsn/bx/n/12/53 ï \C70/gbsn/bx/n/1
+2/4e å \C70/gbsn/bx/n/12/4f ^^? \C70/gbsn/m/n/12/75 ( \C70/gbsn/m/n/12/7b € \C7
+0/gbsn/bx/n/12/53 U \C70/gbsn/bx/n/12/76 „ \C70/gbsn/m/n/12/7b & \C70/gbsn/bx/n
+/12/53 ÷ \C70/gbsn/bx/n/12/67 e \C70/gbsn/bx/n/12/88 h \C70/gbsn/m/n/12/79 :$[]
+\OT1/cmr/m/n/12 [[]] \OMS/cmsy/m/n/12 ^^Q
+ []
+
+[19]
 \openout2 = `./TeX_files/chapter02.aux'.
 
- (./TeX_files/chapter02.tex
-Chapter 2.
-) [17
+ (./TeX_files/chapter02.tex [20
 
 
 
 ]
+Chapter 2.
+) [21]
 \openout2 = `./TeX_files/chapter03.aux'.
 
- (./TeX_files/chapter03.tex [18
+ (./TeX_files/chapter03.tex [22
 
 
 
 ]
 Chapter 3.
-) [19] [20
+) [23] [24
 
 
 ]
@@ -1846,7 +1840,7 @@ es/chapter03.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 174.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 174.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: F313861E01F93FD2AC57401456E9B098;1320.
+(rerunfilecheck)             Checksum: 95009050852F5E5958C58E5EB9E89201;1422.
 
 
 LaTeX Warning: There were multiply-defined labels.
@@ -1854,21 +1848,21 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 174.
  ) 
 Here is how much of TeX's memory you used:
- 23372 strings out of 494178
- 395865 string characters out of 6153114
- 526325 words of memory out of 5000000
- 25898 multiletter control sequences out of 15000+600000
- 69039 words of font info for 255 fonts, out of 8000000 for 9000
+ 23565 strings out of 494178
+ 399199 string characters out of 6153114
+ 527678 words of memory out of 5000000
+ 26026 multiletter control sequences out of 15000+600000
+ 70425 words of font info for 261 fonts, out of 8000000 for 9000
  430 hyphenation exceptions out of 8191
- 40i,12n,47p,10433b,1666s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 40i,12n,47p,10433b,1673s stack positions out of 5000i,500n,10000p,200000b,80000s
 <c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/s
-imsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows
+imhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simsun.ttc><c:/Windows
 /fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:
 /Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun
 .ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/font
-s/simsun.ttc><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Wind
-ows/fonts/simhei.ttf><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc>
-<c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/sim
+s/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Wind
+ows/fonts/simsun.ttc><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf>
+<c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/sim
 sun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/f
 onts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/W
 indows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.t
@@ -1884,115 +1878,118 @@ msun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/
 fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/
 Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.
 ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts
-/simsun.ttc><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windo
-ws/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><
-c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/sims
-un.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fo
+/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windo
+ws/fonts/simsun.ttc><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><
+c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simh
+ei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fo
 nts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Wi
 ndows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.tt
 c><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/s
-imsun.ttc><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows
-/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:
-/Windows/fonts/simhei.ttf><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun
-.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/font
-s/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Wind
-ows/fonts/simhei.ttf><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmbx12.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmbx8.pfb><d:/Program Files (x86)/texlive/texmf-dist/font
-s/type1/public/amsfonts/cm/cmex10.pfb><d:/Program Files (x86)/texlive/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmmi10.pfb><d:/Program Files (x86)/texlive/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><d:/Program Files (x86)/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><d:/Program Files (x86)/
-texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><d:/Program Files (
-x86)/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><d:/Program Fi
-les (x86)/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><d:/Progr
-am Files (x86)/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><d:/P
-rogram Files (x86)/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><
-d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12
-.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmsy10.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmti12.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmtt12.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/a
-rphic/gbsnu/gbsnu30.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/
-arphic/gbsnu/gbsnu4e.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1
-/arphic/gbsnu/gbsnu4f.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type
-1/arphic/gbsnu/gbsnu50.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/typ
-e1/arphic/gbsnu/gbsnu51.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/ty
-pe1/arphic/gbsnu/gbsnu52.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/t
-ype1/arphic/gbsnu/gbsnu53.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/
-type1/arphic/gbsnu/gbsnu54.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts
-/type1/arphic/gbsnu/gbsnu55.pfb><d:/Program Files (x86)/texlive/texmf-dist/font
-s/type1/arphic/gbsnu/gbsnu56.pfb><d:/Program Files (x86)/texlive/texmf-dist/fon
-ts/type1/arphic/gbsnu/gbsnu57.pfb><d:/Program Files (x86)/texlive/texmf-dist/fo
-nts/type1/arphic/gbsnu/gbsnu58.pfb><d:/Program Files (x86)/texlive/texmf-dist/f
-onts/type1/arphic/gbsnu/gbsnu59.pfb><d:/Program Files (x86)/texlive/texmf-dist/
-fonts/type1/arphic/gbsnu/gbsnu5b.pfb><d:/Program Files (x86)/texlive/texmf-dist
-/fonts/type1/arphic/gbsnu/gbsnu5c.pfb><d:/Program Files (x86)/texlive/texmf-dis
-t/fonts/type1/arphic/gbsnu/gbsnu5d.pfb><d:/Program Files (x86)/texlive/texmf-di
-st/fonts/type1/arphic/gbsnu/gbsnu5e.pfb><d:/Program Files (x86)/texlive/texmf-d
-ist/fonts/type1/arphic/gbsnu/gbsnu5f.pfb><d:/Program Files (x86)/texlive/texmf-
-dist/fonts/type1/arphic/gbsnu/gbsnu60.pfb><d:/Program Files (x86)/texlive/texmf
--dist/fonts/type1/arphic/gbsnu/gbsnu61.pfb><d:/Program Files (x86)/texlive/texm
-f-dist/fonts/type1/arphic/gbsnu/gbsnu62.pfb><d:/Program Files (x86)/texlive/tex
-mf-dist/fonts/type1/arphic/gbsnu/gbsnu63.pfb><d:/Program Files (x86)/texlive/te
-xmf-dist/fonts/type1/arphic/gbsnu/gbsnu64.pfb><d:/Program Files (x86)/texlive/t
-exmf-dist/fonts/type1/arphic/gbsnu/gbsnu65.pfb><d:/Program Files (x86)/texlive/
-texmf-dist/fonts/type1/arphic/gbsnu/gbsnu66.pfb><d:/Program Files (x86)/texlive
-/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu67.pfb><d:/Program Files (x86)/texliv
-e/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu68.pfb><d:/Program Files (x86)/texli
-ve/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu69.pfb><d:/Program Files (x86)/texl
-ive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6a.pfb><d:/Program Files (x86)/tex
-live/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6b.pfb><d:/Program Files (x86)/te
-xlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6c.pfb><d:/Program Files (x86)/t
-exlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6d.pfb><d:/Program Files (x86)/
-texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6e.pfb><d:/Program Files (x86)
-/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6f.pfb><d:/Program Files (x86
-)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu70.pfb><d:/Program Files (x8
-6)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu71.pfb><d:/Program Files (x
-86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu72.pfb><d:/Program Files (
-x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu73.pfb><d:/Program Files 
-(x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu74.pfb><d:/Program Files
- (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu75.pfb><d:/Program File
-s (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu76.pfb><d:/Program Fil
-es (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu77.pfb><d:/Program Fi
-les (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu78.pfb><d:/Program F
-iles (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu79.pfb><d:/Program 
-Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7a.pfb><d:/Program
- Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7b.pfb><d:/Progra
-m Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7c.pfb><d:/Progr
-am Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7d.pfb><d:/Prog
-ram Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7e.pfb><d:/Pro
-gram Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7f.pfb><d:/Pr
-ogram Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu80.pfb><d:/P
-rogram Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu81.pfb><d:/
-Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu82.pfb><d:
-/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu83.pfb><d
-:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu84.pfb><
-d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu86.pfb>
-<d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu88.pfb
-><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu89.pf
-b><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu8a.p
-fb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu8b.
-pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu8c
+imsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows
+/fonts/simsun.ttc><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:
+/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei
+.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simsun.ttc><c:/Windows/font
+s/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Wind
+ows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf>
+<c:/Windows/fonts/simhei.ttf><d:/Program Files (x86)/texlive/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmbx12.pfb><d:/Program Files (x86)/texlive/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmbx8.pfb><d:/Program Files (x86)/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmex10.pfb><d:/Program Files (x86)/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><d:/Program Files (x86)/tex
+live/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><d:/Program Files (x8
+6)/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><d:/Program File
+s (x86)/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><d:/Program
+ Files (x86)/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><d:/Pr
+ogram Files (x86)/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><d
+:/Program Files (x86)/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pf
+b><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cms
+l12.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmsy10.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmsy8.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmti12.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmtt12.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts
+/type1/arphic/gbsnu/gbsnu20.pfb><d:/Program Files (x86)/texlive/texmf-dist/font
+s/type1/arphic/gbsnu/gbsnu30.pfb><d:/Program Files (x86)/texlive/texmf-dist/fon
+ts/type1/arphic/gbsnu/gbsnu4e.pfb><d:/Program Files (x86)/texlive/texmf-dist/fo
+nts/type1/arphic/gbsnu/gbsnu4f.pfb><d:/Program Files (x86)/texlive/texmf-dist/f
+onts/type1/arphic/gbsnu/gbsnu50.pfb><d:/Program Files (x86)/texlive/texmf-dist/
+fonts/type1/arphic/gbsnu/gbsnu51.pfb><d:/Program Files (x86)/texlive/texmf-dist
+/fonts/type1/arphic/gbsnu/gbsnu52.pfb><d:/Program Files (x86)/texlive/texmf-dis
+t/fonts/type1/arphic/gbsnu/gbsnu53.pfb><d:/Program Files (x86)/texlive/texmf-di
+st/fonts/type1/arphic/gbsnu/gbsnu54.pfb><d:/Program Files (x86)/texlive/texmf-d
+ist/fonts/type1/arphic/gbsnu/gbsnu55.pfb><d:/Program Files (x86)/texlive/texmf-
+dist/fonts/type1/arphic/gbsnu/gbsnu56.pfb><d:/Program Files (x86)/texlive/texmf
+-dist/fonts/type1/arphic/gbsnu/gbsnu57.pfb><d:/Program Files (x86)/texlive/texm
+f-dist/fonts/type1/arphic/gbsnu/gbsnu58.pfb><d:/Program Files (x86)/texlive/tex
+mf-dist/fonts/type1/arphic/gbsnu/gbsnu59.pfb><d:/Program Files (x86)/texlive/te
+xmf-dist/fonts/type1/arphic/gbsnu/gbsnu5b.pfb><d:/Program Files (x86)/texlive/t
+exmf-dist/fonts/type1/arphic/gbsnu/gbsnu5c.pfb><d:/Program Files (x86)/texlive/
+texmf-dist/fonts/type1/arphic/gbsnu/gbsnu5d.pfb><d:/Program Files (x86)/texlive
+/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu5e.pfb><d:/Program Files (x86)/texliv
+e/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu5f.pfb><d:/Program Files (x86)/texli
+ve/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu60.pfb><d:/Program Files (x86)/texl
+ive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu61.pfb><d:/Program Files (x86)/tex
+live/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu62.pfb><d:/Program Files (x86)/te
+xlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu63.pfb><d:/Program Files (x86)/t
+exlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu64.pfb><d:/Program Files (x86)/
+texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu65.pfb><d:/Program Files (x86)
+/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu66.pfb><d:/Program Files (x86
+)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu67.pfb><d:/Program Files (x8
+6)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu68.pfb><d:/Program Files (x
+86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu69.pfb><d:/Program Files (
+x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6a.pfb><d:/Program Files 
+(x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6b.pfb><d:/Program Files
+ (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6c.pfb><d:/Program File
+s (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6d.pfb><d:/Program Fil
+es (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6e.pfb><d:/Program Fi
+les (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6f.pfb><d:/Program F
+iles (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu70.pfb><d:/Program 
+Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu71.pfb><d:/Program
+ Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu72.pfb><d:/Progra
+m Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu73.pfb><d:/Progr
+am Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu74.pfb><d:/Prog
+ram Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu75.pfb><d:/Pro
+gram Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu76.pfb><d:/Pr
+ogram Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu77.pfb><d:/P
+rogram Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu78.pfb><d:/
+Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu79.pfb><d:
+/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7a.pfb><d
+:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7b.pfb><
+d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7c.pfb>
+<d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7d.pfb
+><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7e.pf
+b><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7f.p
+fb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu80.
+pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu81
 .pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu8
-d.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu
-8f.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsn
-u90.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbs
-nu91.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gb
-snu94.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/g
-bsnu95.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/
-gbsnu96.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu
-/gbsnu97.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsn
-u/gbsnu98.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbs
-nu/gbsnu99.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gb
-snu/gbsnu9a.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/g
-bsnu/gbsnu9f.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/
-gbsnu/gbsnuff.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/public
-/amsfonts/symbols/msbm10.pfb>
-Output written on main.pdf (26 pages, 1055847 bytes).
+2.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu
+83.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsn
+u84.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbs
+nu86.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gb
+snu88.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/g
+bsnu89.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/
+gbsnu8a.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu
+/gbsnu8b.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsn
+u/gbsnu8c.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbs
+nu/gbsnu8d.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gb
+snu/gbsnu8e.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/g
+bsnu/gbsnu8f.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/
+gbsnu/gbsnu90.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic
+/gbsnu/gbsnu91.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphi
+c/gbsnu/gbsnu94.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arph
+ic/gbsnu/gbsnu95.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arp
+hic/gbsnu/gbsnu96.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/ar
+phic/gbsnu/gbsnu97.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/a
+rphic/gbsnu/gbsnu98.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/
+arphic/gbsnu/gbsnu99.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1
+/arphic/gbsnu/gbsnu9a.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type
+1/arphic/gbsnu/gbsnu9f.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/typ
+e1/arphic/gbsnu/gbsnuff.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/ty
+pe1/public/amsfonts/symbols/msbm10.pfb>
+Output written on main.pdf (30 pages, 1115286 bytes).
 PDF statistics:
- 1241 PDF objects out of 1440 (max. 8388607)
- 910 compressed objects within 10 object streams
- 79 named destinations out of 1000 (max. 500000)
- 509 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1303 PDF objects out of 1440 (max. 8388607)
+ 961 compressed objects within 10 object streams
+ 102 named destinations out of 1000 (max. 500000)
+ 525 words of extra memory for PDF output out of 10000 (max. 10000000)
 

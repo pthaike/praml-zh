@@ -5,10 +5,11 @@
 \contentsline {chapter}{\numberline {1}介绍}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}例子：多项式曲线拟合}{3}{section.1.1}
 \contentsline {section}{\numberline {1.2}概率论}{10}{section.1.2}
-\contentsline {subsection}{\numberline {1.2.1}概率密度}{15}{subsection.1.2.1}
-\contentsline {chapter}{\numberline {2}The Second Chapter}{17}{chapter.2}
-\contentsline {section}{\numberline {2.1}密度估计}{17}{section.2.1}
-\contentsline {subsection}{\numberline {2.1.1}高斯密度}{17}{subsection.2.1.1}
-\contentsline {subsection}{\numberline {2.1.2}高斯密度}{17}{subsection.2.1.2}
-\contentsline {chapter}{\numberline {3}The First Chapter}{19}{chapter.3}
-\contentsline {section}{\numberline {3.1}daodaodaodoa}{19}{section.3.1}
+\contentsline {subsection}{\numberline {1.2.1}概率密度}{16}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}期望和方差}{17}{subsection.1.2.2}
+\contentsline {chapter}{\numberline {2}The Second Chapter}{21}{chapter.2}
+\contentsline {section}{\numberline {2.1}密度估计}{21}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}高斯密度}{21}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}高斯密度}{21}{subsection.2.1.2}
+\contentsline {chapter}{\numberline {3}The First Chapter}{23}{chapter.3}
+\contentsline {section}{\numberline {3.1}daodaodaodoa}{23}{section.3.1}
