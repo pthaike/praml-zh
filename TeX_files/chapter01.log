@@ -1,11 +1,15 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2015.11.8)  20 NOV 2015 00:07
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2015.9.23)  16 NOV 2015 20:46
+>>>>>>> origin/master
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **./chapter01.tex
 (./chapter01.tex
-LaTeX2e <2015/10/01> patch level 2
-Babel <3.9m> and hyphenation patterns for 79 languages loaded.
+LaTeX2e <2015/01/01> patch level 2
+Babel <3.9m> and hyphenation patterns for 45 languages loaded.
 ! Undefined control sequence.
 l.1 \chapter
             {ä»‹ç»}
@@ -22293,6 +22297,115 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
+<<<<<<< HEAD
+=======
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 191--195
+[]
+ []
+
+
+Overfull \hbox (3276.74998pt too wide) in paragraph at lines 191--195
+[]$
+ []
+
+
+Overfull \hbox (4095.99998pt too wide) in paragraph at lines 191--195
+[]$
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.196 	å
+        œ¨è¿™ä¸ªä¾‹å­ä¸­ï¼Œé€‰æ‹©çš„ç®±å­çš„æ ‡è¯†æ˜¯ä¸€ä¸ªéšæœºå˜é‡ï¼Œ...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no å in font nullfont!
+Missing character: There is no œ in font nullfont!
+Missing character: There is no ¨ in font nullfont!
+Missing character: There is no è in font nullfont!
+Missing character: There is no ¿ in font nullfont!
+Missing character: There is no ™ in font nullfont!
+Missing character: There is no ä in font nullfont!
+Missing character: There is no ¸ in font nullfont!
+Missing character: There is no ª in font nullfont!
+Missing character: There is no ä in font nullfont!
+Missing character: There is no ¾ in font nullfont!
+Missing character: There is no ‹ in font nullfont!
+Missing character: There is no å in font nullfont!
+Missing character: There is no ­ in font nullfont!
+Missing character: There is no  in font nullfont!
+Missing character: There is no ä in font nullfont!
+Missing character: There is no ¸ in font nullfont!
+Missing character: There is no ­ in font nullfont!
+Missing character: There is no ï in font nullfont!
+Missing character: There is no ¼ in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no é in font nullfont!
+Missing character: There is no € in font nullfont!
+Missing character: There is no ‰ in font nullfont!
+Missing character: There is no æ in font nullfont!
+Missing character: There is no ‹ in font nullfont!
+Missing character: There is no © in font nullfont!
+Missing character: There is no ç in font nullfont!
+Missing character: There is no š in font nullfont!
+Missing character: There is no „ in font nullfont!
+Missing character: There is no ç in font nullfont!
+Missing character: There is no ® in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no å in font nullfont!
+Missing character: There is no ­ in font nullfont!
+Missing character: There is no  in font nullfont!
+Missing character: There is no ç in font nullfont!
+Missing character: There is no š in font nullfont!
+Missing character: There is no „ in font nullfont!
+Missing character: There is no æ in font nullfont!
+Missing character: There is no   in font nullfont!
+Missing character: There is no ‡ in font nullfont!
+Missing character: There is no è in font nullfont!
+Missing character: There is no ¯ in font nullfont!
+Missing character: There is no † in font nullfont!
+Missing character: There is no æ in font nullfont!
+Missing character: There is no ˜ in font nullfont!
+Missing character: There is no ¯ in font nullfont!
+Missing character: There is no ä in font nullfont!
+Missing character: There is no ¸ in font nullfont!
+Missing character: There is no € in font nullfont!
+Missing character: There is no ä in font nullfont!
+Missing character: There is no ¸ in font nullfont!
+Missing character: There is no ª in font nullfont!
+Missing character: There is no é in font nullfont!
+Missing character: There is no š in font nullfont!
+Missing character: There is no  in font nullfont!
+Missing character: There is no æ in font nullfont!
+Missing character: There is no œ in font nullfont!
+Missing character: There is no º in font nullfont!
+Missing character: There is no å in font nullfont!
+Missing character: There is no  in font nullfont!
+Missing character: There is no ˜ in font nullfont!
+Missing character: There is no é in font nullfont!
+Missing character: There is no ‡ in font nullfont!
+Missing character: There is no  in font nullfont!
+Missing character: There is no ï in font nullfont!
+Missing character: There is no ¼ in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no æ in font nullfont!
+Missing character: There is no   in font nullfont!
+Missing character: There is no ‡ in font nullfont!
+Missing character: There is no è in font nullfont!
+Missing character: There is no ¯ in font nullfont!
+Missing character: There is no † in font nullfont!
+Missing character: There is no ä in font nullfont!
+Missing character: There is no ¸ in font nullfont!
+Missing character: There is no º in font nullfont!
+>>>>>>> origin/master
 )
 ! Emergency stop.
 <*> ./chapter01.tex
@@ -22301,11 +22414,20 @@ or  <return>  to continue without it.
 
  
 Here is how much of TeX's memory you used:
+<<<<<<< HEAD
  19 strings out of 493054
  278 string characters out of 6132059
  67374 words of memory out of 5000000
  3639 multiletter control sequences out of 15000+600000
  4567 words of font info for 17 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
+=======
+ 21 strings out of 494178
+ 299 string characters out of 6153114
+ 63005 words of memory out of 5000000
+ 3435 multiletter control sequences out of 15000+600000
+ 4913 words of font info for 18 fonts, out of 8000000 for 9000
+ 430 hyphenation exceptions out of 8191
+>>>>>>> origin/master
  18i,10n,18p,1598b,141s stack positions out of 5000i,500n,10000p,200000b,80000s
 !  ==> Fatal error occurred, no output PDF file produced!
