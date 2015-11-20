@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2015.9.23)  18 NOV 2015 22:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2015.9.23)  20 NOV 2015 09:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1790,16 +1790,43 @@ Overfull \hbox (24.3511pt too wide) detected at line 325
 [] []
  []
 
-[14]) [15]
+[14] [15]
+Package epstopdf Info: Source file: <image/Figure1-12.eps>
+(epstopdf)                    date: 2008-06-17 16:46:36
+(epstopdf)                    size: 18646 bytes
+(epstopdf)             Output file: <image/Figure1-12-eps-converted-to.pdf>
+(epstopdf)             Command: <repstopdf --outfile=image/Figure1-12-eps-conve
+rted-to.pdf image/Figure1-12.eps>
+(epstopdf)             \includegraphics on input line 351.
+runsystem(repstopdf --outfile=image/Figure1-12-eps-converted-to.pdf image/Figur
+e1-12.eps)...executed safely (allowed).
+
+Package epstopdf Info: Result file: <image/Figure1-12-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-11-20 09:38:48
+(epstopdf)                    size: 8276 bytes.
+
+<image/Figure1-12-eps-converted-to.pdf, id=632, 217.81375pt x 153.57375pt>
+File: image/Figure1-12-eps-converted-to.pdf Graphic file (type pdf)
+
+<use image/Figure1-12-eps-converted-to.pdf>
+Package pdftex.def Info: image/Figure1-12-eps-converted-to.pdf used on input li
+ne 351.
+(pdftex.def)             Requested size: 227.62204pt x 160.48856pt.
+
+Overfull \hbox (19.0633pt too wide) in paragraph at lines 351--351
+[][] 
+ []
+
+) [16 <./image/Figure1-12-eps-converted-to.pdf>]
 \openout2 = `./TeX_files/chapter02.aux'.
 
- (./TeX_files/chapter02.tex [16
+ (./TeX_files/chapter02.tex
+Chapter 2.
+) [17
 
 
 
 ]
-Chapter 2.
-) [17]
 \openout2 = `./TeX_files/chapter03.aux'.
 
  (./TeX_files/chapter03.tex [18
@@ -1827,10 +1854,10 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 174.
  ) 
 Here is how much of TeX's memory you used:
- 23365 strings out of 494178
- 395658 string characters out of 6153114
+ 23372 strings out of 494178
+ 395865 string characters out of 6153114
  526325 words of memory out of 5000000
- 25894 multiletter control sequences out of 15000+600000
+ 25898 multiletter control sequences out of 15000+600000
  69039 words of font info for 255 fonts, out of 8000000 for 9000
  430 hyphenation exceptions out of 8191
  40i,12n,47p,10433b,1666s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1962,10 +1989,10 @@ snu/gbsnu9a.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/g
 bsnu/gbsnu9f.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/
 gbsnu/gbsnuff.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/public
 /amsfonts/symbols/msbm10.pfb>
-Output written on main.pdf (26 pages, 1047161 bytes).
+Output written on main.pdf (26 pages, 1055847 bytes).
 PDF statistics:
- 1235 PDF objects out of 1440 (max. 8388607)
- 905 compressed objects within 10 object streams
- 77 named destinations out of 1000 (max. 500000)
- 504 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1241 PDF objects out of 1440 (max. 8388607)
+ 910 compressed objects within 10 object streams
+ 79 named destinations out of 1000 (max. 500000)
+ 509 words of extra memory for PDF output out of 10000 (max. 10000000)
 
