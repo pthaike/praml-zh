@@ -36,7 +36,7 @@
 \renewcommand\section{\@startsection{section}{1}{\z@}%
 	{-1.5ex \@plus -.5ex \@minus -.2ex}%
 	{.5ex \@plus .1ex}%
-	{\normalfont\foursize\CJKfamily{hei}}}
+	{\normalfont\foursize\color{blue}\CJKfamily{hei}}}
 \makeatother
 
 %%%% 设置 subsection 属性 %%%%
@@ -44,7 +44,7 @@
 \renewcommand\subsection{\@startsection{subsection}{1}{\z@}%
 	{-1.25ex \@plus -.5ex \@minus -.2ex}%
 	{.4ex \@plus .1ex}%
-	{\normalfont\mfoursize\CJKfamily{hei}}}
+	{\normalfont\mfoursize\color{blue}\CJKfamily{hei}}}
 \makeatother
 
 %%%% 设置 subsubsection 属性 %%%%
@@ -73,7 +73,7 @@
 %%%% 下面的命令设置行间距与段落间距 %%%%
 \linespread{1.2}
 % \setlength{\parskip}{1ex}
-\setlength{\parskip}{0.5\baselineskip}
+%\setlength{\parskip}{0.5\baselineskip}
 
 
 \begin{document}
@@ -116,6 +116,7 @@
 
 \frontmatter
 %%%% 以下部分是正文 %%%%  
+\fivesize
 \maketitle
 \section{引言}
 尽管机器学习发展在计算机科学之外了，但是模式识别仍然根源于工程。然而，这些行为可以被看做一个领域的两面性，在过去的十年里，他们都已经经历了很长的发展。尤其是贝叶斯方法，已经从专业领域发展成为主流，同时图模型已经发展成为一个描述和应用概率模型的通用框架。通过估计推理算法范围的发展，如变分贝叶斯（ variational Bayes）和期望传播，贝叶斯的实践运用已经大大增强。同样的，基于核（kernel）的新方法已经对算法和应用产生重要影响。

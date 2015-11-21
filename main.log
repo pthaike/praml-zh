@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2015.9.23)  20 NOV 2015 20:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2015.9.23)  21 NOV 2015 20:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1272,7 +1272,7 @@ File: UTF8.chr 2015/04/18 4.8.4
 \c@condition=\count175
 \c@conclusion=\count176
 \c@assumption=\count177
-LaTeX Font Info:    Try loading font information for C70+gbsn on input line 120
+LaTeX Font Info:    Try loading font information for C70+gbsn on input line 121
 .
 
 (d:/Program Files (x86)/texlive/texmf-dist/tex/latex/cjk/texinput/utf8/c70gbsn.
@@ -1283,11 +1283,11 @@ File: c70gbsn.fd 2015/04/18 4.8.4
 fdx
 File: c70gbsn.fdx 2015/04/18 4.8.4
 )
-LaTeX Font Info:    Try loading font information for U+msa on input line 120.
+LaTeX Font Info:    Try loading font information for U+msa on input line 121.
  (d:/Program Files (x86)/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 120.
+LaTeX Font Info:    Try loading font information for U+msb on input line 121.
 
 (d:/Program Files (x86)/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -1300,41 +1300,45 @@ File: zhwindowsfonts.tex 2015/07/01 v2.2 Windows font map loader for pdfTeX and
 
 
 ]
-LaTeX Font Info:    Try loading font information for C70+hei on input line 120.
+LaTeX Font Info:    Try loading font information for C70+hei on input line 121.
 
  (d:/Program Files (x86)/texlive/texmf-dist/tex/latex/zhmetrics/c70hei.fd
 File: c70hei.fd 2009/09/23 4.8.2
 )
 Package CJKpunct Info: punctuation spaces for family 'gbsn' do not exist. Use f
-amily 'def' instead. on input line 121.
+amily 'def' instead. on input line 122.
+LaTeX Font Info:    Calculating math sizes for size <10.5> on input line 130.
 
-Underfull \vbox (badness 6641) has occurred while \output is active []
-
- [2]
-Overfull \hbox (2.22328pt too wide) in paragraph at lines 157--158
-[]\C70/gbsn/m/n/12/7b & \C70/gbsn/m/n/12/53 ÷$\OML/cmm/m/it/12 g\OT1/cmr/m/n/12
- (\OML/cmm/m/it/12 x\OT1/cmr/m/n/12 ) = \OML/cmm/m/it/12 O\OT1/cmr/m/n/12 (\OML
-/cmm/m/it/12 f\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 x\OT1/cmr/m/n/12 ))$\C70/gbsn/m
-/n/12/88 h \C70/gbsn/m/n/12/79 :$\OMS/cmsy/m/n/12 j\OML/cmm/m/it/12 f\OT1/cmr/m
-/n/12 (\OML/cmm/m/it/12 x\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 =g\OT1/cmr/m/n/12 (\
-OML/cmm/m/it/12 x\OT1/cmr/m/n/12 )\OMS/cmsy/m/n/12 j$\C70/gbsn/m/n/12/5f S$\OML
-/cmm/m/it/12 x \OMS/cmsy/m/n/12 ! []$\C70/gbsn/m/n/12/65 ö \C70/gbsn/m/n/12/66 
-/ \C70/gbsn/m/n/12/67 	 \C70/gbsn/m/n/12/75 L \C70/gbsn/m/n/12/76 „|\C70/gbsn/m
-/n/12/30 ^^B| \C70/gbsn/m/n/12/4f ‹ \C70/gbsn/m/n/12/59 ‚ \C70/gbsn/m/n/12/5f S
-$\OML/cmm/m/it/12 g\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 x\OT1/cmr/m/n/12 ) =
+[2]
+Overfull \hbox (10.20572pt too wide) in paragraph at lines 162--163
+\C70/gbsn/m/n/10.5/67 œ$\OML/cmm/m/it/10.5 x$\C70/gbsn/m/n/10.5/66 / \C70/gbsn/
+m/n/10.5/4e å$\OML/cmm/m/it/10.5 z$\C70/gbsn/m/n/10.5/4e : \C70/gbsn/m/n/10.5/6
+7 a \C70/gbsn/m/n/10.5/4e ö \C70/gbsn/m/n/10.5/76 „ \C70/gbsn/m/n/10.5/52 ^^F \
+C70/gbsn/m/n/10.5/5e ^^C|\C70/gbsn/m/n/10.5/ff ^^L| \C70/gbsn/m/n/10.5/90 £ \C7
+0/gbsn/m/n/10.5/4e H \C70/gbsn/m/n/10.5/5b ù \C70/gbsn/m/n/10.5/5e ” \C70/gbsn/
+m/n/10.5/76 „ \C70/gbsn/m/n/10.5/67 a \C70/gbsn/m/n/10.5/4e ö \C70/gbsn/m/n/10.
+5/67 ^^_ ^^[ \C70/gbsn/m/n/10.5/51 ™ \C70/gbsn/m/n/10.5/4f \$\U/msb/m/n/10.5 E[
+]\OT1/cmr/m/n/10.5 [\OML/cmm/m/it/10.5 f\OT1/cmr/m/n/10.5 (\OML/cmm/m/it/10.5 x
+\OT1/cmr/m/n/10.5 )\OMS/cmsy/m/n/10.5 j\OML/cmm/m/it/10.5 z\OT1/cmr/m/n/10.5 ]$
+|\C70/gbsn/m/n/10.5/30 ^^B| \C70/gbsn/m/n/10.5/54 ^^L \C70/gbsn/m/n/10.5/68 7 \
+C70/gbsn/m/n/10.5/57 0|\C70/gbsn/m/n/10.5/ff ^^L| \C70/gbsn/m/n/10.5/53 Ø \C70/
+gbsn/m/n/10.5/91 Ï \C70/gbsn/m/n/10.5/88 h \C70/gbsn/m/n/10.5/79 : \C70/gbsn/m/
+n/10.5/4e :$\OML/cmm/m/it/10.5 var\OT1/cmr/m/n/10.5 [\OML/cmm/m/it/10.5 f\OT1/c
+mr/m/n/10.5 (\OML/cmm/m/it/10.5 x\OT1/cmr/m/n/10.5 )]$|\C70/gbsn/m/n/10.5/ff ^^
+L|
  []
 
-LaTeX Font Info:    Try loading font information for C70+rm on input line 165.
+LaTeX Font Info:    Try loading font information for C70+rm on input line 166.
 (d:/Program Files (x86)/texlive/texmf-dist/tex/latex/ctex/fd/c70rm.fd
 File: c70rm.fd 2015/07/01 v2.2 Chinese font definition (CTEX)
 ) [3]
-[4] (./main.toc)
+[4
+
+] (./main.toc)
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
- [5
-
-] [6
+ [5] [6
 
 ]
 \openout2 = `./TeX_files/chapter01.aux'.
@@ -1351,50 +1355,32 @@ Package epstopdf Info: Source file: <image/Figure1-1.eps>
 ted-to.pdf image/Figure1-1.eps>
 (epstopdf)             \includegraphics on input line 8.
 Package epstopdf Info: Output file is already uptodate.
-<image/Figure1-1-eps-converted-to.pdf, id=278, 227.85126pt x 96.36pt>
+<image/Figure1-1-eps-converted-to.pdf, id=289, 227.85126pt x 96.36pt>
 File: image/Figure1-1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use image/Figure1-1-eps-converted-to.pdf>
 Package pdftex.def Info: image/Figure1-1-eps-converted-to.pdf used on input lin
 e 8.
 (pdftex.def)             Requested size: 227.62204pt x 96.26563pt.
-
-Overfull \hbox (1.29643pt too wide) in paragraph at lines 15--16
-\C70/gbsn/m/n/12/5b W \C70/gbsn/m/n/12/56 þ \C70/gbsn/m/n/12/50 Ï$\OT1/cmr/bx/n
-/12 x$\C70/gbsn/m/n/12/4f \ \C70/gbsn/bx/n/12/4e : \C70/gbsn/m/n/12/5c ^ \C70/g
-bsn/m/n/12/51 T|\C70/gbsn/m/n/12/ff ^^L| \C70/gbsn/bx/n/12/4e § \C70/gbsn/m/n/1
-2/75 ^^_ \C70/gbsn/bx/n/12/4e ^^@ * \C70/gbsn/m/n/12/8f “ \C70/gbsn/m/n/12/51 ú
- \C70/gbsn/m/n/12/54 ^^Q \C70/gbsn/m/n/12/91 Ï$\OT1/cmr/bx/n/12 y$|\C70/gbsn/m/
-n/12/ff ^^L| \C70/gbsn/m/n/12/51 v \C70/gbsn/m/n/12/54 Œ \C70/gbsn/m/n/12/76 î 
-\C70/gbsn/m/n/12/68 ^^G \C70/gbsn/m/n/12/54 ^^Q \C70/gbsn/m/n/12/91 Ï \C70/gbsn
-/m/n/12/76 „ \C70/gbsn/m/n/12/7f ^^V \C70/gbsn/m/n/12/78 ^^A \C70/gbsn/m/n/12/7
-6 ø \C70/gbsn/m/n/12/54 ^^L|\C70/gbsn/m/n/12/30 ^^B| \C70/gbsn/m/n/12/51 ý \C70
-/gbsn/m/n/12/65 p$[]$\C70/gbsn/m/n/12/76 „
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
  [1
 
 
  <./image/Figure1-1-eps-converted-to.pdf>]
-Overfull \hbox (0.34238pt too wide) in paragraph at lines 21--22
-[]\C70/gbsn/m/n/12/8b ­ \C70/gbsn/bx/n/12/7e Ã \C70/gbsn/m/n/12/65 p \C70/gbsn/
-bx/n/12/63 n \C70/gbsn/bx/n/12/53 ^^E \C70/gbsn/m/n/12/54 + \C70/gbsn/bx/n/12/7
-6 „ \C70/gbsn/m/n/12/68 7 \C70/gbsn/m/n/12/67 , \C70/gbsn/m/n/12/66 / \C70/gbsn
-/m/n/12/8f “ \C70/gbsn/m/n/12/51 e \C70/gbsn/m/n/12/54 ^^Q \C70/gbsn/m/n/12/91 
-Ï \C70/gbsn/bx/n/12/5b ù \C70/gbsn/bx/n/12/4e Ž \C70/gbsn/bx/n/12/76 î \C70/gbs
-n/m/n/12/68 ^^G \C70/gbsn/m/n/12/54 ^^Q \C70/gbsn/m/n/12/91 Ï \C70/gbsn/bx/n/12
-/76 „ \C70/gbsn/m/n/12/5e ” \C70/gbsn/m/n/12/75 ( \C70/gbsn/m/n/12/66 / \C70/gb
-sn/bx/n/12/76 Ñ[][] \C70/gbsn/bx/n/12/77 c[][] \C70/gbsn/bx/n/12/5b f[][] \C70/
-gbsn/bx/n/12/4e `[][]\OT1/cmr/m/n/12 (\OT1/cmr/m/it/12 supervised
+Overfull \hbox (4.06738pt too wide) in paragraph at lines 21--22
+[]\C70/gbsn/m/n/10.5/8b ­ \C70/gbsn/bx/n/10.5/7e Ã \C70/gbsn/m/n/10.5/65 p \C70
+/gbsn/bx/n/10.5/63 n \C70/gbsn/bx/n/10.5/53 ^^E \C70/gbsn/m/n/10.5/54 + \C70/gb
+sn/bx/n/10.5/76 „ \C70/gbsn/m/n/10.5/68 7 \C70/gbsn/m/n/10.5/67 , \C70/gbsn/m/n
+/10.5/66 / \C70/gbsn/m/n/10.5/8f “ \C70/gbsn/m/n/10.5/51 e \C70/gbsn/m/n/10.5/5
+4 ^^Q \C70/gbsn/m/n/10.5/91 Ï \C70/gbsn/bx/n/10.5/5b ù \C70/gbsn/bx/n/10.5/4e Ž
+ \C70/gbsn/bx/n/10.5/76 î \C70/gbsn/m/n/10.5/68 ^^G \C70/gbsn/m/n/10.5/54 ^^Q \
+C70/gbsn/m/n/10.5/91 Ï \C70/gbsn/bx/n/10.5/76 „ \C70/gbsn/m/n/10.5/5e ” \C70/gb
+sn/m/n/10.5/75 ( \C70/gbsn/m/n/10.5/66 / \C70/gbsn/bx/n/10.5/76 Ñ[][] \C70/gbsn
+/bx/n/10.5/77 c[][] \C70/gbsn/bx/n/10.5/5b f[][] \C70/gbsn/bx/n/10.5/4e `[][]\O
+T1/cmr/m/n/10.5 (\OT1/cmr/m/it/10.5 supervised learn-ing\OT1/cmr/m/n/10.5 )\C70
+/gbsn/bx/n/10.5/95 î
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [2]
+[2]
 Package CJKpunct Info: punctuation spaces for family 'hei' do not exist. Use fa
 mily 'def' instead. on input line 29.
 Package epstopdf Info: Source file: <image/Figure1-2.eps>
@@ -1407,8 +1393,7 @@ Package epstopdf Info: Source file: <image/Figure1-2.eps>
 ted-to.pdf image/Figure1-2.eps>
 (epstopdf)             \includegraphics on input line 36.
 Package epstopdf Info: Output file is already uptodate.
-
-<image/Figure1-2-eps-converted-to.pdf, id=296, 209.78375pt x 155.58125pt>
+ <image/Figure1-2-eps-converted-to.pdf, id=308, 209.78375pt x 155.58125pt>
 File: image/Figure1-2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use image/Figure1-2-eps-converted-to.pdf>
@@ -1421,8 +1406,8 @@ Overfull \hbox (19.0633pt too wide) in paragraph at lines 36--36
  []
 
 Package CJKpunct Info: use punctuation spaces for family 'rm' with punctstyle (
-quanjiao) on input line 40.
-[3] <image/Figure1-3.png, id=315, 207.77625pt x 156.585pt>
+quanjiao) on input line 42.
+[3] <image/Figure1-3.png, id=327, 207.77625pt x 156.585pt>
 File: image/Figure1-3.png Graphic file (type png)
 
 <use image/Figure1-3.png>
@@ -1433,7 +1418,6 @@ Overfull \hbox (19.0633pt too wide) in paragraph at lines 60--60
 [][] 
  []
 
-[4 <./image/Figure1-2-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <image/Figure1-4a.eps>
 (epstopdf)                    date: 2008-06-17 10:52:12
 (epstopdf)                    size: 172927 bytes
@@ -1444,8 +1428,7 @@ Package epstopdf Info: Source file: <image/Figure1-4a.eps>
 rted-to.pdf image/Figure1-4a.eps>
 (epstopdf)             \includegraphics on input line 70.
 Package epstopdf Info: Output file is already uptodate.
-
-<image/Figure1-4a-eps-converted-to.pdf, id=335, 209.78375pt x 155.58125pt>
+<image/Figure1-4a-eps-converted-to.pdf, id=329, 209.78375pt x 155.58125pt>
 File: image/Figure1-4a-eps-converted-to.pdf Graphic file (type pdf)
 
 <use image/Figure1-4a-eps-converted-to.pdf>
@@ -1463,7 +1446,7 @@ rted-to.pdf image/Figure1-4b.eps>
 (epstopdf)             \includegraphics on input line 71.
 Package epstopdf Info: Output file is already uptodate.
 
-<image/Figure1-4b-eps-converted-to.pdf, id=336, 209.78375pt x 155.58125pt>
+<image/Figure1-4b-eps-converted-to.pdf, id=330, 209.78375pt x 155.58125pt>
 File: image/Figure1-4b-eps-converted-to.pdf Graphic file (type pdf)
 
 <use image/Figure1-4b-eps-converted-to.pdf>
@@ -1481,7 +1464,7 @@ rted-to.pdf image/Figure1-4c.eps>
 (epstopdf)             \includegraphics on input line 72.
 Package epstopdf Info: Output file is already uptodate.
 
-<image/Figure1-4c-eps-converted-to.pdf, id=337, 209.78375pt x 155.58125pt>
+<image/Figure1-4c-eps-converted-to.pdf, id=331, 209.78375pt x 155.58125pt>
 File: image/Figure1-4c-eps-converted-to.pdf Graphic file (type pdf)
 
 <use image/Figure1-4c-eps-converted-to.pdf>
@@ -1499,7 +1482,7 @@ rted-to.pdf image/Figure1-4d.eps>
 (epstopdf)             \includegraphics on input line 73.
 Package epstopdf Info: Output file is already uptodate.
 
-<image/Figure1-4d-eps-converted-to.pdf, id=338, 209.78375pt x 155.58125pt>
+<image/Figure1-4d-eps-converted-to.pdf, id=332, 209.78375pt x 155.58125pt>
 File: image/Figure1-4d-eps-converted-to.pdf Graphic file (type pdf)
 
 <use image/Figure1-4d-eps-converted-to.pdf>
@@ -1516,7 +1499,40 @@ Overfull \hbox (40.73767pt too wide) in paragraph at lines 70--75
 [] [] 
  []
 
-[5 <./image/Figure1-3.png (PNG copy)>]
+[4 <./image/Figure1-2-eps-converted-to.pdf>]
+Overfull \hbox (0.94215pt too wide) in paragraph at lines 78--79
+\C70/gbsn/bx/n/10.5/4e ^^T \C70/gbsn/bx/n/10.5/5b ù \C70/gbsn/bx/n/10.5/4e Ž \C
+70/gbsn/m/n/10.5/51 ý \C70/gbsn/m/n/10.5/65 p$\OML/cmm/m/it/10.5 sin\OT1/cmr/m/
+n/10.5 (2\OML/cmm/m/it/10.5 ^^Yx\OT1/cmr/m/n/10.5 )$\C70/gbsn/m/n/10.5/88 h \C7
+0/gbsn/m/n/10.5/79 : \C70/gbsn/bx/n/10.5/4e _ \C70/gbsn/m/n/10.5/88 h \C70/gbsn
+/m/n/10.5/73 ° \C70/gbsn/bx/n/10.5/5f ˆ \C70/gbsn/m/n/10.5/5d î|\C70/gbsn/m/n/1
+0.5/30 ^^B| \C70/gbsn/m/n/10.5/59 ‚ \C70/gbsn/bx/n/10.5/56 þ\OT1/cmr/m/n/10.5 1
+.4\C70/gbsn/m/n/10.5/62 @ \C70/gbsn/m/n/10.5/79 : \C70/gbsn/bx/n/10.5/76 „ \C70
+/gbsn/bx/n/10.5/4f ‹ \C70/gbsn/bx/n/10.5/5b P|\C70/gbsn/m/n/10.5/ff ^^L| \C70/g
+bsn/bx/n/10.5/4e 	 \C70/gbsn/m/n/10.5/6b ! \C70/gbsn/m/n/10.5/59 ^^Z \C70/gbsn/
+bx/n/10.5/98 y \C70/gbsn/bx/n/10.5/5f ^^O \C70/gbsn/bx/n/10.5/5b ù \C70/gbsn/bx
+/n/10.5/4e Ž \C70/gbsn/m/n/10.5/51 ý \C70/gbsn/m/n/10.5/65 p$\OML/cmm/m/it/10.5
+ sin\OT1/cmr/m/n/10.5 (2\OML/cmm/m/it/10.5 ^^Yx\OT1/cmr/m/n/10.5 )$\C70/gbsn/bx
+/n/10.5/4f <
+ []
+
+
+Overfull \hbox (8.56372pt too wide) in paragraph at lines 80--81
+\C70/gbsn/m/n/10.5/50 <$\OML/cmm/m/it/10.5 E\OT1/cmr/m/n/10.5 (\OT1/cmr/bx/n/10
+.5 w[]\OT1/cmr/m/n/10.5 )$|\C70/gbsn/m/n/10.5/ff ^^L| \C70/gbsn/bx/n/10.5/5e v 
+\C70/gbsn/bx/n/10.5/4e ^^T \C70/gbsn/m/n/10.5/62 ^^Q \C70/gbsn/bx/n/10.5/4e ì _
+ \C70/gbsn/bx/n/10.5/53 ï \C70/gbsn/bx/n/10.5/4e å \C70/gbsn/bx/n/10.5/5b ù \C7
+0/gbsn/bx/n/10.5/4e Ž \C70/gbsn/m/n/10.5/6d K \C70/gbsn/bx/n/10.5/8b Õ \C70/gbs
+n/m/n/10.5/65 p \C70/gbsn/bx/n/10.5/63 n \C70/gbsn/m/n/10.5/96 Æ \C70/gbsn/m/n/
+10.5/67 e \C70/gbsn/bx/n/10.5/8b Ä \C70/gbsn/bx/n/10.5/4e ÷$\OML/cmm/m/it/10.5 
+E\OT1/cmr/m/n/10.5 (\OT1/cmr/bx/n/10.5 w[]\OT1/cmr/m/n/10.5 )$|\C70/gbsn/m/n/10
+.5/30 ^^B| \C70/gbsn/m/n/10.5/90 ^^Z \C70/gbsn/bx/n/10.5/5e 8 \C70/gbsn/m/n/10.
+5/62 ^^Q \C70/gbsn/bx/n/10.5/4e ì \C70/gbsn/bx/n/10.5/4f ^^? \C70/gbsn/m/n/10.5
+/75 ( \C70/gbsn/m/n/10.5/57 G \C70/gbsn/m/n/10.5/65 ¹ \C70/gbsn/m/n/10.5/68 9 \
+C70/gbsn/bx/n/10.5/8b ï \C70/gbsn/m/n/10.5/5d î\OT1/cmr/m/n/10.5 (RMS)\C70/gbsn
+/m/n/10.5/67 e
+ []
+
 Package epstopdf Info: Source file: <image/Figure1-5.eps>
 (epstopdf)                    date: 2008-06-17 10:52:14
 (epstopdf)                    size: 164671 bytes
@@ -1527,8 +1543,7 @@ Package epstopdf Info: Source file: <image/Figure1-5.eps>
 ted-to.pdf image/Figure1-5.eps>
 (epstopdf)             \includegraphics on input line 90.
 Package epstopdf Info: Output file is already uptodate.
-
-<image/Figure1-5-eps-converted-to.pdf, id=347, 206.7725pt x 150.5625pt>
+<image/Figure1-5-eps-converted-to.pdf, id=353, 206.7725pt x 150.5625pt>
 File: image/Figure1-5-eps-converted-to.pdf Graphic file (type pdf)
 
 <use image/Figure1-5-eps-converted-to.pdf>
@@ -1540,16 +1555,33 @@ Overfull \hbox (19.0633pt too wide) in paragraph at lines 90--90
 [][] 
  []
 
+[5 <./image/Figure1-3.png (PNG copy)>]
+Overfull \hbox (4.7493pt too wide) in paragraph at lines 98--99
+[]\C70/gbsn/m/n/10.5/62 ^^Q \C70/gbsn/bx/n/10.5/4e ì \C70/gbsn/bx/n/10.5/53 ï \
+C70/gbsn/bx/n/10.5/4e å \C70/gbsn/m/n/10.5/90 ^^Z \C70/gbsn/m/n/10.5/8f Ç \C70/
+gbsn/m/n/10.5/68 À \C70/gbsn/m/n/10.5/9a Œ \C70/gbsn/bx/n/10.5/4e Î \C70/gbsn/m
+/n/10.5/54 ^^D \C70/gbsn/m/n/10.5/79 Í \C70/gbsn/m/n/10.5/96 6 \C70/gbsn/m/n/10
+.5/65 p \C70/gbsn/bx/n/10.5/76 „ \C70/gbsn/m/n/10.5/59 ^^Z \C70/gbsn/bx/n/10.5/
+98 y \C70/gbsn/bx/n/10.5/5f ^^O — \C70/gbsn/bx/n/10.5/52 0 \C70/gbsn/bx/n/10.5/
+76 „ \C70/gbsn/bx/n/10.5/7c û \C70/gbsn/m/n/10.5/65 p \C70/gbsn/m/n/10.5/50 < \
+C70/gbsn/m/n/10.5/67 e \C70/gbsn/bx/n/10.5/5f — \C70/gbsn/bx/n/10.5/52 0 \C70/g
+bsn/bx/n/10.5/4e ^^@ › \C70/gbsn/m/n/10.5/6d ñ \C70/gbsn/m/n/10.5/51 e \C70/gbs
+n/bx/n/10.5/76 „ \C70/gbsn/bx/n/10.5/95 î \C70/gbsn/bx/n/10.5/98 ˜|\C70/gbsn/m/
+n/10.5/ff ^^L| \C70/gbsn/m/n/10.5/59 ‚ \C70/gbsn/m/n/10.5/88 h\OT1/cmr/m/n/10.5
+ 1.1\C70/gbsn/m/n/10.5/62 @
+ []
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [6 <./image/Figure1-4a-eps-converted-to.pdf> <./image/Figure1-4b-eps-converted
--to.pdf> <./image/Figure1-4c-eps-converted-to.pdf> <./image/Figure1-4d-eps-conv
-erted-to.pdf>]
 Overfull \hbox (26.20906pt too wide) in paragraph at lines 119--119
 [][] 
  []
 
+
+Underfull \vbox (badness 2460) has occurred while \output is active []
+
+ [6 <./image/Figure1-4a-eps-converted-to.pdf> <./image/Figure1-4b-eps-converted
+-to.pdf> <./image/Figure1-4c-eps-converted-to.pdf> <./image/Figure1-4d-eps-conv
+erted-to.pdf>]
 Package epstopdf Info: Source file: <image/Figure1-6a.eps>
 (epstopdf)                    date: 2008-06-17 10:52:48
 (epstopdf)                    size: 173379 bytes
@@ -1560,7 +1592,7 @@ Package epstopdf Info: Source file: <image/Figure1-6a.eps>
 rted-to.pdf image/Figure1-6a.eps>
 (epstopdf)             \includegraphics on input line 126.
 Package epstopdf Info: Output file is already uptodate.
-<image/Figure1-6a-eps-converted-to.pdf, id=395, 209.78375pt x 155.58125pt>
+ <image/Figure1-6a-eps-converted-to.pdf, id=408, 209.78375pt x 155.58125pt>
 File: image/Figure1-6a-eps-converted-to.pdf Graphic file (type pdf)
 
 <use image/Figure1-6a-eps-converted-to.pdf>
@@ -1578,7 +1610,7 @@ rted-to.pdf image/Figure1-6b.eps>
 (epstopdf)             \includegraphics on input line 127.
 Package epstopdf Info: Output file is already uptodate.
 
-<image/Figure1-6b-eps-converted-to.pdf, id=396, 209.78375pt x 155.58125pt>
+<image/Figure1-6b-eps-converted-to.pdf, id=409, 209.78375pt x 155.58125pt>
 File: image/Figure1-6b-eps-converted-to.pdf Graphic file (type pdf)
 
 <use image/Figure1-6b-eps-converted-to.pdf>
@@ -1591,10 +1623,9 @@ Overfull \hbox (40.73767pt too wide) in paragraph at lines 126--128
  []
 
 
-Underfull \vbox (badness 1460) has occurred while \output is active []
+Underfull \vbox (badness 4108) has occurred while \output is active []
 
- [7 <./image/Figure1-5-eps-converted-to.pdf>] [8 <./image/Figure1-6a-eps-conver
-ted-to.pdf> <./image/Figure1-6b-eps-converted-to.pdf>]
+ [7 <./image/Figure1-5-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <image/Figure1-7a.eps>
 (epstopdf)                    date: 2008-06-17 10:52:16
 (epstopdf)                    size: 223546 bytes
@@ -1606,7 +1637,7 @@ rted-to.pdf image/Figure1-7a.eps>
 (epstopdf)             \includegraphics on input line 147.
 Package epstopdf Info: Output file is already uptodate.
 
-<image/Figure1-7a-eps-converted-to.pdf, id=481, 209.78375pt x 155.58125pt>
+<image/Figure1-7a-eps-converted-to.pdf, id=459, 209.78375pt x 155.58125pt>
 File: image/Figure1-7a-eps-converted-to.pdf Graphic file (type pdf)
 
 <use image/Figure1-7a-eps-converted-to.pdf>
@@ -1624,7 +1655,7 @@ rted-to.pdf image/Figure1-7b.eps>
 (epstopdf)             \includegraphics on input line 148.
 Package epstopdf Info: Output file is already uptodate.
 
-<image/Figure1-7b-eps-converted-to.pdf, id=482, 209.78375pt x 155.58125pt>
+<image/Figure1-7b-eps-converted-to.pdf, id=460, 209.78375pt x 155.58125pt>
 File: image/Figure1-7b-eps-converted-to.pdf Graphic file (type pdf)
 
 <use image/Figure1-7b-eps-converted-to.pdf>
@@ -1651,7 +1682,7 @@ Package epstopdf Info: Source file: <image/Figure1-8.eps>
 ted-to.pdf image/Figure1-8.eps>
 (epstopdf)             \includegraphics on input line 179.
 Package epstopdf Info: Output file is already uptodate.
-<image/Figure1-8-eps-converted-to.pdf, id=483, 206.7725pt x 150.5625pt>
+<image/Figure1-8-eps-converted-to.pdf, id=461, 206.7725pt x 150.5625pt>
 File: image/Figure1-8-eps-converted-to.pdf Graphic file (type pdf)
 
 <use image/Figure1-8-eps-converted-to.pdf>
@@ -1663,7 +1694,7 @@ Overfull \hbox (19.0633pt too wide) in paragraph at lines 179--179
 [][] 
  []
 
-[9 <./image/Figure1-7a-eps-converted-to.pdf> <./image/Figure1-7b-eps-converted-
+[8 <./image/Figure1-6a-eps-converted-to.pdf> <./image/Figure1-6b-eps-converted-
 to.pdf>]
 Package epstopdf Info: Source file: <image/Figure1-9.eps>
 (epstopdf)                    date: 2008-06-17 16:46:36
@@ -1676,7 +1707,7 @@ ted-to.pdf image/Figure1-9.eps>
 (epstopdf)             \includegraphics on input line 191.
 Package epstopdf Info: Output file is already uptodate.
 
-<image/Figure1-9-eps-converted-to.pdf, id=524, 203.76125pt x 133.49875pt>
+<image/Figure1-9-eps-converted-to.pdf, id=498, 203.76125pt x 133.49875pt>
 File: image/Figure1-9-eps-converted-to.pdf Graphic file (type pdf)
 
 <use image/Figure1-9-eps-converted-to.pdf>
@@ -1688,8 +1719,25 @@ Overfull \hbox (19.0633pt too wide) in paragraph at lines 191--191
 [][] 
  []
 
+[9 <./image/Figure1-7a-eps-converted-to.pdf> <./image/Figure1-7b-eps-converted-
+to.pdf>]
+Overfull \hbox (4.65938pt too wide) in paragraph at lines 198--199
+\C70/gbsn/bx/n/10.5/7e ¢ \C70/gbsn/m/n/10.5/7b ± \C70/gbsn/bx/n/10.5/5b P \C70/
+gbsn/bx/n/10.5/76 „ \C70/gbsn/m/n/10.5/69 ‚ \C70/gbsn/m/n/10.5/73 ‡ \C70/gbsn/b
+x/n/10.5/4e :\OT1/cmr/m/n/10.5 4/10.\C70/gbsn/m/n/10.5/90 	 \C70/gbsn/m/n/10.5/
+62 é \C70/gbsn/m/n/10.5/84 Ý \C70/gbsn/m/n/10.5/7b ± \C70/gbsn/bx/n/10.5/5b P \
+C70/gbsn/bx/n/10.5/76 „ \C70/gbsn/m/n/10.5/69 ‚ \C70/gbsn/m/n/10.5/73 ‡ \C70/gb
+sn/bx/n/10.5/4e :\OT1/cmr/m/n/10.5 6/10|\C70/gbsn/m/n/10.5/30 ^^B| \C70/gbsn/m/
+n/10.5/62 ^^Q \C70/gbsn/bx/n/10.5/4e ì \C70/gbsn/m/n/10.5/75 ( \C70/gbsn/m/n/10
+.5/69 ‚ \C70/gbsn/m/n/10.5/73 ‡ \C70/gbsn/bx/n/10.5/67 e \C70/gbsn/bx/n/10.5/51
+ ™ \C70/gbsn/m/n/10.5/62 ^^P$\OML/cmm/m/it/10.5 p\OT1/cmr/m/n/10.5 (\OML/cmm/m/
+it/10.5 B \OT1/cmr/m/n/10.5 = \OML/cmm/m/it/10.5 r\OT1/cmr/m/n/10.5 ) = 4\OML/c
+mm/m/it/10.5 =\OT1/cmr/m/n/10.5 10$\C70/gbsn/m/n/10.5/54 Œ$\OML/cmm/m/it/10.5 p
+\OT1/cmr/m/n/10.5 (\OML/cmm/m/it/10.5 B \OT1/cmr/m/n/10.5 =
+ []
+
 [10 <./image/Figure1-8-eps-converted-to.pdf> <./image/Figure1-9-eps-converted-t
-o.pdf>] <image/Figure1-10.png, id=555, 568.37344pt x 386.94562pt>
+o.pdf>] <image/Figure1-10.png, id=572, 568.37344pt x 386.94562pt>
 File: image/Figure1-10.png Graphic file (type png)
 
 <use image/Figure1-10.png>
@@ -1700,7 +1748,7 @@ Overfull \hbox (102.48552pt too wide) in paragraph at lines 204--204
 [][] 
  []
 
-[11 <./image/Figure1-10.png>] [12]
+[11 <./image/Figure1-10.png>]
 Package epstopdf Info: Source file: <image/Figure1-11a.eps>
 (epstopdf)                    date: 2008-06-17 11:12:08
 (epstopdf)                    size: 229888 bytes
@@ -1712,7 +1760,7 @@ erted-to.pdf image/Figure1-11a.eps>
 (epstopdf)             \includegraphics on input line 276.
 Package epstopdf Info: Output file is already uptodate.
 
-<image/Figure1-11a-eps-converted-to.pdf, id=579, 212.795pt x 147.55125pt>
+<image/Figure1-11a-eps-converted-to.pdf, id=587, 212.795pt x 147.55125pt>
 File: image/Figure1-11a-eps-converted-to.pdf Graphic file (type pdf)
 
 <use image/Figure1-11a-eps-converted-to.pdf>
@@ -1730,7 +1778,7 @@ erted-to.pdf image/Figure1-11b.eps>
 (epstopdf)             \includegraphics on input line 277.
 Package epstopdf Info: Output file is already uptodate.
 
-<image/Figure1-11b-eps-converted-to.pdf, id=580, 212.795pt x 147.55125pt>
+<image/Figure1-11b-eps-converted-to.pdf, id=588, 212.795pt x 147.55125pt>
 File: image/Figure1-11b-eps-converted-to.pdf Graphic file (type pdf)
 
 <use image/Figure1-11b-eps-converted-to.pdf>
@@ -1748,7 +1796,7 @@ erted-to.pdf image/Figure1-11c.eps>
 (epstopdf)             \includegraphics on input line 278.
 Package epstopdf Info: Output file is already uptodate.
 
-<image/Figure1-11c-eps-converted-to.pdf, id=581, 212.795pt x 147.55125pt>
+<image/Figure1-11c-eps-converted-to.pdf, id=589, 212.795pt x 147.55125pt>
 File: image/Figure1-11c-eps-converted-to.pdf Graphic file (type pdf)
 
 <use image/Figure1-11c-eps-converted-to.pdf>
@@ -1766,7 +1814,7 @@ erted-to.pdf image/Figure1-11d.eps>
 (epstopdf)             \includegraphics on input line 279.
 Package epstopdf Info: Output file is already uptodate.
 
-<image/Figure1-11d-eps-converted-to.pdf, id=582, 212.795pt x 147.55125pt>
+<image/Figure1-11d-eps-converted-to.pdf, id=590, 212.795pt x 147.55125pt>
 File: image/Figure1-11d-eps-converted-to.pdf Graphic file (type pdf)
 
 <use image/Figure1-11d-eps-converted-to.pdf>
@@ -1783,10 +1831,10 @@ Overfull \hbox (40.73767pt too wide) in paragraph at lines 276--280
 [] [] 
  []
 
-[13] [14 <./image/Figure1-11a-eps-converted-to.pdf> <./image/Figure1-11b-eps-co
+[12] [13 <./image/Figure1-11a-eps-converted-to.pdf> <./image/Figure1-11b-eps-co
 nverted-to.pdf> <./image/Figure1-11c-eps-converted-to.pdf> <./image/Figure1-11d
--eps-converted-to.pdf>] [15]
-<image/Figure1-12.png, id=636, 682.04813pt x 493.0922pt>
+-eps-converted-to.pdf>] [14]
+<image/Figure1-12.png, id=647, 682.04813pt x 493.0922pt>
 File: image/Figure1-12.png Graphic file (type png)
 
 <use image/Figure1-12.png>
@@ -1797,74 +1845,108 @@ Overfull \hbox (19.0633pt too wide) in paragraph at lines 354--354
 [][] 
  []
 
-[16 <./image/Figure1-12.png>] [17] [18])
-Overfull \hbox (15.11986pt too wide) in paragraph at lines 479--167
-[]\C70/gbsn/m/n/12/59 ‚ \C70/gbsn/bx/n/12/67 œ \C70/gbsn/m/n/12/62 ^^Q \C70/gbs
-n/bx/n/12/4e ì \C70/gbsn/bx/n/12/80 ^^C \C70/gbsn/m/n/12/86 Q \C70/gbsn/m/n/12/
-54 ^^Q \C70/gbsn/bx/n/12/91 Ï\OT1/cmr/bx/n/12 x\C70/gbsn/m/n/12/54 Œ \C70/gbsn/
-m/n/12/81 ê \C70/gbsn/m/n/12/8e « \C70/gbsn/bx/n/12/76 „ \C70/gbsn/bx/n/12/53 O
- \C70/gbsn/bx/n/12/65 ¹ \C70/gbsn/bx/n/12/5d î|\C70/gbsn/m/n/12/ff ^^L| \C70/gb
-sn/m/n/12/62 ^^Q \C70/gbsn/bx/n/12/4e ì \C70/gbsn/bx/n/12/53 ï \C70/gbsn/bx/n/1
-2/4e å \C70/gbsn/bx/n/12/4f ^^? \C70/gbsn/m/n/12/75 ( \C70/gbsn/m/n/12/7b € \C7
-0/gbsn/bx/n/12/53 U \C70/gbsn/bx/n/12/76 „ \C70/gbsn/m/n/12/7b & \C70/gbsn/bx/n
-/12/53 ÷ \C70/gbsn/bx/n/12/67 e \C70/gbsn/bx/n/12/88 h \C70/gbsn/m/n/12/79 :$[]
-\OT1/cmr/m/n/12 [[]] \OMS/cmsy/m/n/12 ^^Q
+[15 <./image/Figure1-12.png>] [16] [17]
+Overfull \hbox (5.21584pt too wide) in paragraph at lines 485--486
+[]\C70/gbsn/m/n/10.5/59 ‚ \C70/gbsn/bx/n/10.5/67 œ \C70/gbsn/m/n/10.5/62 ^^Q \C
+70/gbsn/bx/n/10.5/4e ì \C70/gbsn/bx/n/10.5/80 ^^C \C70/gbsn/m/n/10.5/86 Q \C70/
+gbsn/m/n/10.5/54 ^^Q \C70/gbsn/bx/n/10.5/91 Ï\OT1/cmr/bx/n/10.5 x\C70/gbsn/m/n/
+10.5/54 Œ \C70/gbsn/m/n/10.5/81 ê \C70/gbsn/m/n/10.5/8e « \C70/gbsn/bx/n/10.5/7
+6 „ \C70/gbsn/bx/n/10.5/53 O \C70/gbsn/bx/n/10.5/65 ¹ \C70/gbsn/bx/n/10.5/5d î|
+\C70/gbsn/m/n/10.5/ff ^^L| \C70/gbsn/m/n/10.5/62 ^^Q \C70/gbsn/bx/n/10.5/4e ì \
+C70/gbsn/bx/n/10.5/53 ï \C70/gbsn/bx/n/10.5/4e å \C70/gbsn/bx/n/10.5/4f ^^? \C7
+0/gbsn/m/n/10.5/75 ( \C70/gbsn/m/n/10.5/7b € \C70/gbsn/bx/n/10.5/53 U \C70/gbsn
+/bx/n/10.5/76 „ \C70/gbsn/m/n/10.5/7b & \C70/gbsn/bx/n/10.5/53 ÷ \C70/gbsn/bx/n
+/10.5/67 e \C70/gbsn/bx/n/10.5/88 h \C70/gbsn/m/n/10.5/79 :$[]\OT1/cmr/m/n/10.5
+ [[]] \OMS/cmsy/m/n/10.5 ^^Q []\OT1/cmr/m/n/10.5 [[]\OML/cmm/m/it/10.5 ; []\OT1
+/cmr/m/n/10.5 ]$. 
  []
 
-[19]
+[18] [19]
+Overfull \hbox (4.65079pt too wide) in paragraph at lines 522--523
+\C70/gbsn/bx/n/10.5/51 v \C70/gbsn/bx/n/10.5/4e - \C70/gbsn/bx/n/10.5/59 ^^Z \C
+70/gbsn/bx/n/10.5/4e * \C70/gbsn/bx/n/10.5/65 p \C70/gbsn/bx/n/10.5/63 n \C70/g
+bsn/m/n/10.5/96 Æ \C70/gbsn/m/n/10.5/90 ^^Z \C70/gbsn/m/n/10.5/8f Ç \C70/gbsn/b
+x/n/10.5/4e  \C70/gbsn/m/n/10.5/97 b \C70/gbsn/bx/n/10.5/76 „ \C70/gbsn/bx/n/1
+0.5/65 ¹ \C70/gbsn/bx/n/10.5/5f ^^O \C70/gbsn/bx/n/10.5/67 e \C70/gbsn/bx/n/10.
+5/4e § \C70/gbsn/m/n/10.5/75 ^^_|\C70/gbsn/m/n/10.5/30 ^^B| \C70/gbsn/bx/n/10.5
+/50 G \C70/gbsn/bx/n/10.5/8b ¾ \C70/gbsn/m/n/10.5/62 ^^Q \C70/gbsn/bx/n/10.5/4e
+ ì \C70/gbsn/bx/n/10.5/53 Ÿ \C70/gbsn/bx/n/10.5/59 Ë \C70/gbsn/bx/n/10.5/65 p \
+C70/gbsn/bx/n/10.5/63 n \C70/gbsn/m/n/10.5/96 Æ \C70/gbsn/bx/n/10.5/53 ^^E \C70
+/gbsn/m/n/10.5/54 +\OT1/cmr/m/it/10.5 N \C70/gbsn/bx/n/10.5/4e * \C70/gbsn/m/n/
+10.5/70 ¹$[] \OT1/cmr/m/n/10.5 = \OMS/cmsy/m/n/10.5 f[][]\OML/cmm/m/it/10.5 ; [
+] ; [][]\OMS/cmsy/m/n/10.5 g$|\C70/gbsn/m/n/10.5/30 ^^B|
+ []
+
+
+Overfull \hbox (2.1958pt too wide) in paragraph at lines 522--523
+\C70/gbsn/m/n/10.5/57 ($[][]$\C70/gbsn/bx/n/10.5/4e - \C70/gbsn/m/n/10.5/66 / \
+C70/gbsn/bx/n/10.5/91 Í \C70/gbsn/bx/n/10.5/59 ^^M \C70/gbsn/bx/n/10.5/76 „|\C7
+0/gbsn/m/n/10.5/ff ^^L| \C70/gbsn/bx/n/10.5/53 Í \C70/gbsn/bx/n/10.5/4e K|\C70/
+gbsn/m/n/10.5/ff ^^L| \C70/gbsn/m/n/10.5/57 ($[]$\C70/gbsn/bx/n/10.5/4e - \C70/
+gbsn/bx/n/10.5/76 „ \C70/gbsn/bx/n/10.5/67 	 \C70/gbsn/bx/n/10.5/4e › \C70/gbsn
+/m/n/10.5/70 ¹ \C70/gbsn/bx/n/10.5/4e ^^M \C70/gbsn/bx/n/10.5/4f ^^Z \C70/gbsn/
+bx/n/10.5/51 ú \C70/gbsn/bx/n/10.5/73 ° \C70/gbsn/m/n/10.5/57 ($[][]$\C70/gbsn/
+bx/n/10.5/4e -|\C70/gbsn/m/n/10.5/30 ^^B| \C70/gbsn/m/n/10.5/8f Ù \C70/gbsn/bx/
+n/10.5/4e * \C70/gbsn/m/n/10.5/8f Ç \C70/gbsn/m/n/10.5/7a  \C70/gbsn/bx/n/10.5
+/53 ï \C70/gbsn/bx/n/10.5/4e å \C70/gbsn/bx/n/10.5/91 Í \C70/gbsn/bx/n/10.5/59 
+^^M\OT1/cmr/m/it/10.5 L\C70/gbsn/m/n/10.5/6b ! \C70/gbsn/bx/n/10.5/4e § \C70/gb
+sn/m/n/10.5/75 ^^_\OT1/cmr/m/it/10.5 L\C70/gbsn/bx/n/10.5/4e *
+ []
+
+[20]) [21]
 \openout2 = `./TeX_files/chapter02.aux'.
 
- (./TeX_files/chapter02.tex [20
+ (./TeX_files/chapter02.tex [22
 
 
 
 ]
 Chapter 2.
-) [21]
+) [23]
 \openout2 = `./TeX_files/chapter03.aux'.
 
- (./TeX_files/chapter03.tex [22
+ (./TeX_files/chapter03.tex [24
 
 
 
 ]
 Chapter 3.
-) [23] [24
+) [25] [26
 
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 174.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 174.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 175.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 175.
  (./main.aux (./TeX_files/chapter01.aux) (./TeX_files/chapter02.aux) (./TeX_fil
 es/chapter03.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 174.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 174.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 175.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 175.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 95009050852F5E5958C58E5EB9E89201;1422.
+(rerunfilecheck)             Checksum: 9820CA7A1CDEAC764DA1DE72D9794FDA;1618.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 174.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 175.
  ) 
 Here is how much of TeX's memory you used:
- 23565 strings out of 494178
- 399199 string characters out of 6153114
- 527678 words of memory out of 5000000
- 26026 multiletter control sequences out of 15000+600000
- 70425 words of font info for 261 fonts, out of 8000000 for 9000
+ 23760 strings out of 494178
+ 402311 string characters out of 6153114
+ 525617 words of memory out of 5000000
+ 26187 multiletter control sequences out of 15000+600000
+ 79806 words of font info for 295 fonts, out of 8000000 for 9000
  430 hyphenation exceptions out of 8191
- 40i,12n,47p,10433b,1673s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 40i,12n,47p,10433b,1738s stack positions out of 5000i,500n,10000p,200000b,80000s
 <c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/s
-imhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simsun.ttc><c:/Windows
-/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:
+imhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows
+/fonts/simhei.ttf><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:
 /Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun
 .ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/font
 s/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Wind
-ows/fonts/simsun.ttc><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf>
-<c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/sim
-sun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/f
-onts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/W
+ows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc>
+<c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/sim
+sun.ttc><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/f
+onts/simhei.ttf><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/W
 indows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.t
 tc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/
 simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Window
@@ -1879,117 +1961,122 @@ fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/
 Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.
 ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts
 /simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windo
-ws/fonts/simsun.ttc><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><
+ws/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><
 c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simh
 ei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fo
-nts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Wi
+nts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simsun.ttc><c:/Wi
 ndows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.tt
 c><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/s
 imsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows
-/fonts/simsun.ttc><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:
+/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:
 /Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei
-.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simsun.ttc><c:/Windows/font
-s/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Wind
-ows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf>
-<c:/Windows/fonts/simhei.ttf><d:/Program Files (x86)/texlive/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmbx12.pfb><d:/Program Files (x86)/texlive/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmbx8.pfb><d:/Program Files (x86)/texlive/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmex10.pfb><d:/Program Files (x86)/texlive/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><d:/Program Files (x86)/tex
-live/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><d:/Program Files (x8
-6)/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><d:/Program File
-s (x86)/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><d:/Program
- Files (x86)/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><d:/Pr
-ogram Files (x86)/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><d
-:/Program Files (x86)/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pf
-b><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cms
-l12.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmsy10.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmsy8.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmti12.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmtt12.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts
-/type1/arphic/gbsnu/gbsnu20.pfb><d:/Program Files (x86)/texlive/texmf-dist/font
-s/type1/arphic/gbsnu/gbsnu30.pfb><d:/Program Files (x86)/texlive/texmf-dist/fon
-ts/type1/arphic/gbsnu/gbsnu4e.pfb><d:/Program Files (x86)/texlive/texmf-dist/fo
-nts/type1/arphic/gbsnu/gbsnu4f.pfb><d:/Program Files (x86)/texlive/texmf-dist/f
-onts/type1/arphic/gbsnu/gbsnu50.pfb><d:/Program Files (x86)/texlive/texmf-dist/
-fonts/type1/arphic/gbsnu/gbsnu51.pfb><d:/Program Files (x86)/texlive/texmf-dist
-/fonts/type1/arphic/gbsnu/gbsnu52.pfb><d:/Program Files (x86)/texlive/texmf-dis
-t/fonts/type1/arphic/gbsnu/gbsnu53.pfb><d:/Program Files (x86)/texlive/texmf-di
-st/fonts/type1/arphic/gbsnu/gbsnu54.pfb><d:/Program Files (x86)/texlive/texmf-d
-ist/fonts/type1/arphic/gbsnu/gbsnu55.pfb><d:/Program Files (x86)/texlive/texmf-
-dist/fonts/type1/arphic/gbsnu/gbsnu56.pfb><d:/Program Files (x86)/texlive/texmf
--dist/fonts/type1/arphic/gbsnu/gbsnu57.pfb><d:/Program Files (x86)/texlive/texm
-f-dist/fonts/type1/arphic/gbsnu/gbsnu58.pfb><d:/Program Files (x86)/texlive/tex
-mf-dist/fonts/type1/arphic/gbsnu/gbsnu59.pfb><d:/Program Files (x86)/texlive/te
-xmf-dist/fonts/type1/arphic/gbsnu/gbsnu5b.pfb><d:/Program Files (x86)/texlive/t
-exmf-dist/fonts/type1/arphic/gbsnu/gbsnu5c.pfb><d:/Program Files (x86)/texlive/
-texmf-dist/fonts/type1/arphic/gbsnu/gbsnu5d.pfb><d:/Program Files (x86)/texlive
-/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu5e.pfb><d:/Program Files (x86)/texliv
-e/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu5f.pfb><d:/Program Files (x86)/texli
-ve/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu60.pfb><d:/Program Files (x86)/texl
-ive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu61.pfb><d:/Program Files (x86)/tex
-live/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu62.pfb><d:/Program Files (x86)/te
-xlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu63.pfb><d:/Program Files (x86)/t
-exlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu64.pfb><d:/Program Files (x86)/
-texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu65.pfb><d:/Program Files (x86)
-/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu66.pfb><d:/Program Files (x86
-)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu67.pfb><d:/Program Files (x8
-6)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu68.pfb><d:/Program Files (x
-86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu69.pfb><d:/Program Files (
-x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6a.pfb><d:/Program Files 
-(x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6b.pfb><d:/Program Files
- (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6c.pfb><d:/Program File
-s (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6d.pfb><d:/Program Fil
-es (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6e.pfb><d:/Program Fi
-les (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6f.pfb><d:/Program F
-iles (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu70.pfb><d:/Program 
-Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu71.pfb><d:/Program
- Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu72.pfb><d:/Progra
-m Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu73.pfb><d:/Progr
-am Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu74.pfb><d:/Prog
-ram Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu75.pfb><d:/Pro
-gram Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu76.pfb><d:/Pr
-ogram Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu77.pfb><d:/P
-rogram Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu78.pfb><d:/
-Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu79.pfb><d:
-/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7a.pfb><d
-:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7b.pfb><
-d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7c.pfb>
-<d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7d.pfb
-><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7e.pf
-b><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7f.p
-fb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu80.
-pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu81
+.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/font
+s/simhei.ttf><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Wind
+ows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simhei.ttf>
+<c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/sim
+hei.ttf><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmbx10.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmbx12.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmbx7.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmex10.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmmi10.pfb><d:/Program Files (x86)/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmmi12.pfb><d:/Program Files (x86)/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><d:/Program Files (x86)/texlive
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><d:/Program Files (x86)/te
+xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><d:/Program Files (x8
+6)/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><d:/Program File
+s (x86)/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><d:/Program 
+Files (x86)/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><d:/Prog
+ram Files (x86)/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb><d
+:/Program Files (x86)/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.
+pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+msy7.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmti10.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmti12.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmtt10.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/typ
+e1/arphic/gbsnu/gbsnu20.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/ty
+pe1/arphic/gbsnu/gbsnu30.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/t
+ype1/arphic/gbsnu/gbsnu4e.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/
+type1/arphic/gbsnu/gbsnu4f.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts
+/type1/arphic/gbsnu/gbsnu50.pfb><d:/Program Files (x86)/texlive/texmf-dist/font
+s/type1/arphic/gbsnu/gbsnu51.pfb><d:/Program Files (x86)/texlive/texmf-dist/fon
+ts/type1/arphic/gbsnu/gbsnu52.pfb><d:/Program Files (x86)/texlive/texmf-dist/fo
+nts/type1/arphic/gbsnu/gbsnu53.pfb><d:/Program Files (x86)/texlive/texmf-dist/f
+onts/type1/arphic/gbsnu/gbsnu54.pfb><d:/Program Files (x86)/texlive/texmf-dist/
+fonts/type1/arphic/gbsnu/gbsnu55.pfb><d:/Program Files (x86)/texlive/texmf-dist
+/fonts/type1/arphic/gbsnu/gbsnu56.pfb><d:/Program Files (x86)/texlive/texmf-dis
+t/fonts/type1/arphic/gbsnu/gbsnu57.pfb><d:/Program Files (x86)/texlive/texmf-di
+st/fonts/type1/arphic/gbsnu/gbsnu58.pfb><d:/Program Files (x86)/texlive/texmf-d
+ist/fonts/type1/arphic/gbsnu/gbsnu59.pfb><d:/Program Files (x86)/texlive/texmf-
+dist/fonts/type1/arphic/gbsnu/gbsnu5b.pfb><d:/Program Files (x86)/texlive/texmf
+-dist/fonts/type1/arphic/gbsnu/gbsnu5c.pfb><d:/Program Files (x86)/texlive/texm
+f-dist/fonts/type1/arphic/gbsnu/gbsnu5d.pfb><d:/Program Files (x86)/texlive/tex
+mf-dist/fonts/type1/arphic/gbsnu/gbsnu5e.pfb><d:/Program Files (x86)/texlive/te
+xmf-dist/fonts/type1/arphic/gbsnu/gbsnu5f.pfb><d:/Program Files (x86)/texlive/t
+exmf-dist/fonts/type1/arphic/gbsnu/gbsnu60.pfb><d:/Program Files (x86)/texlive/
+texmf-dist/fonts/type1/arphic/gbsnu/gbsnu61.pfb><d:/Program Files (x86)/texlive
+/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu62.pfb><d:/Program Files (x86)/texliv
+e/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu63.pfb><d:/Program Files (x86)/texli
+ve/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu64.pfb><d:/Program Files (x86)/texl
+ive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu65.pfb><d:/Program Files (x86)/tex
+live/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu66.pfb><d:/Program Files (x86)/te
+xlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu67.pfb><d:/Program Files (x86)/t
+exlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu68.pfb><d:/Program Files (x86)/
+texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu69.pfb><d:/Program Files (x86)
+/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6a.pfb><d:/Program Files (x86
+)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6b.pfb><d:/Program Files (x8
+6)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6c.pfb><d:/Program Files (x
+86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6d.pfb><d:/Program Files (
+x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6e.pfb><d:/Program Files 
+(x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6f.pfb><d:/Program Files
+ (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu70.pfb><d:/Program File
+s (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu71.pfb><d:/Program Fil
+es (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu72.pfb><d:/Program Fi
+les (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu73.pfb><d:/Program F
+iles (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu74.pfb><d:/Program 
+Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu75.pfb><d:/Program
+ Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu76.pfb><d:/Progra
+m Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu77.pfb><d:/Progr
+am Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu78.pfb><d:/Prog
+ram Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu79.pfb><d:/Pro
+gram Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7a.pfb><d:/Pr
+ogram Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7b.pfb><d:/P
+rogram Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7c.pfb><d:/
+Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7d.pfb><d:
+/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7e.pfb><d
+:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7f.pfb><
+d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu80.pfb>
+<d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu81.pfb
+><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu82.pf
+b><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu83.p
+fb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu84.
+pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu86
 .pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu8
-2.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu
-83.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsn
-u84.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbs
-nu86.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gb
-snu88.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/g
-bsnu89.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/
-gbsnu8a.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu
-/gbsnu8b.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsn
-u/gbsnu8c.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbs
-nu/gbsnu8d.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gb
-snu/gbsnu8e.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/g
-bsnu/gbsnu8f.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/
-gbsnu/gbsnu90.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic
-/gbsnu/gbsnu91.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphi
-c/gbsnu/gbsnu94.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arph
-ic/gbsnu/gbsnu95.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arp
-hic/gbsnu/gbsnu96.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/ar
-phic/gbsnu/gbsnu97.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/a
-rphic/gbsnu/gbsnu98.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/
-arphic/gbsnu/gbsnu99.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1
-/arphic/gbsnu/gbsnu9a.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type
-1/arphic/gbsnu/gbsnu9f.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/typ
-e1/arphic/gbsnu/gbsnuff.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/ty
-pe1/public/amsfonts/symbols/msbm10.pfb>
-Output written on main.pdf (30 pages, 1115286 bytes).
+7.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu
+88.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsn
+u89.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbs
+nu8a.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gb
+snu8b.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/g
+bsnu8c.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/
+gbsnu8d.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu
+/gbsnu8e.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsn
+u/gbsnu8f.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbs
+nu/gbsnu90.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gb
+snu/gbsnu91.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/g
+bsnu/gbsnu94.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/
+gbsnu/gbsnu95.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic
+/gbsnu/gbsnu96.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphi
+c/gbsnu/gbsnu97.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arph
+ic/gbsnu/gbsnu98.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arp
+hic/gbsnu/gbsnu99.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/ar
+phic/gbsnu/gbsnu9a.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/a
+rphic/gbsnu/gbsnu9f.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/
+arphic/gbsnu/gbsnuff.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1
+/public/amsfonts/symbols/msbm10.pfb>
+Output written on main.pdf (32 pages, 1205736 bytes).
 PDF statistics:
- 1303 PDF objects out of 1440 (max. 8388607)
- 961 compressed objects within 10 object streams
- 102 named destinations out of 1000 (max. 500000)
- 525 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1359 PDF objects out of 1440 (max. 8388607)
+ 1007 compressed objects within 11 object streams
+ 110 named destinations out of 1000 (max. 500000)
+ 545 words of extra memory for PDF output out of 10000 (max. 10000000)
 
