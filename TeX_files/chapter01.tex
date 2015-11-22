@@ -534,4 +534,62 @@
 	 最近，一些高效的确定性近似方案如变分贝叶斯和期望传播已经发展起来（在第10章会讨论）。这些对抽样方法进行了补充，并且允许贝叶斯技术在大规模的应用中使用(Blei et al., 2003)。
 	 
 \subsection{高斯分布}
+	 整个第二章的是学习各种概率分布和他们的主要性质。这里方便介绍一个最重要的连续变量概率分布，称为\textbf{正态分布}(\textit{normal distribution})或者\textbf{高斯分布}(\textit{Guassian distribution})，我们会在本章剩余部分来介绍这个分布的使用，并且会贯穿整本书的很多内容。
 	 
+	 对于单实数变量\textit{x}，高斯分布可以表示为
+	 
+	 \begin{equation}
+	 \mathcal{N}(x | \mu, \sigma^2) = \frac{1}{(2 \pi \sigma^2)^(1/2)} \mathrm{exp}\{- \frac{1}{2 \sigma^2}(x - \mu)^2\}
+	 \end{equation}
+
+	公式由两个参数确定，一个是均值$\mu$，一个是方差$\sigma^2$。方差的开方$\sigma$称为\textbf{标准差}(\textit{standard deviation})，方差的倒数$\beta = 1/\sigma^2$称为\textbf{精确度}(\textit{precision})，我们将会简要地看到这些项的动机。图1.13显示了高斯分布的点图。
+	
+	\begin{figure}[b]
+		\parbox{.4\textwidth}{\caption{ 单变量高斯分布显示了均值$\mu$和标准差$\sigma$ }}
+		\parbox{.5\textwidth}{\includegraphics[width=8cm]{Figure1-13.png}}
+	\end{figure}
+	
+	从式子（1.46）中我们可以看到高斯分布满足
+	
+	\begin{equation}
+	\mathcal{N}(x | \mu, \sigma^2) > 0.
+	\end{equation}
+	
+	这也直接看出高斯是标准化的，因此
+	
+	\begin{equation}
+	\int_{- \infty}^{\infty} \mathcal{N}(x | \mu, \sigma^2) dx = 1.
+	\end{equation}
+	
+	因此公式（1.46）满足概率密度的两个要求。
+	
+	我们可以容易地找到\textit{x}的函数在高斯分布下的期望，特别地，\textit{x}的平均值为
+	
+	\begin{equation}
+	\mathbb{E}[x] = \int_{- \infty}^{\infty} \mathcal{N}(x | \mu, \sigma^2) x dx = \mu.
+	\end{equation}
+	
+	因为参数$\mu$反映的是\textit{x}在分布下的平均值，称为均值。同样的，对于二阶矩
+	
+	\begin{equation}
+	\mathbb{E}[x^2] = \int_{- \infty}^{\infty} \mathcal{N}(x | \mu, \sigma^2) x^2 dx = \mu^2 + \sigma^2.
+	\end{equation}
+	
+	从式子（1.49）和（1.50）可以得到\textit{x}的方差为
+	
+	\begin{equation}
+	\mathrm{var}[x] = \mathbb{E}[x^2] - \mathbb{E}[x]^2 = \sigma^2
+	\end{equation}
+	
+	因此$\sigma^2$称为方差变量。分布的最大值称为模式。对于高斯分布，模式与均值具有一致性。
+	
+	我们也感兴趣定义在D维向量随机变量\textbf{x}上的高斯分布，可以得到
+	
+	\begin{equation}
+	\mathcal{N}( \mathbf{x}  |  \mathbf{\mu} , \mathbf{ \Sigma }) = \frac{1}{(2\pi)^{D/2}} \frac{1}{ |\mathbf{\Sigma}|^{1/2} }\mathrm{exp} \{ -\frac{1}{2}(\mathbf{ x } - \mathbf{ \mu })^T \mathbf{\Sigma}^{-1}(\mathbf{x} - \mathbf{\mu}) \}
+	\end{equation}
+	
+	\textit{D}维向量$\mathbf{\mu}$称为均值，$D \times D$举证$\mathbf{\Sigma}$称为协方差，$|\mathbf{\Sigma}|$表示$\mathbf{\Sigma}$的行列式。高斯分布的属性会在2.3节中学习，但在这章我们会简单地使用多维高斯分布。
+	
+	现在假设我们有观察值的一个数据集$\mathsf{x} = (x_1, \dots, x_N)^T$，表示N个标量的观测值。我们使用字体$\mathsf{x}$区分向量值变量$(x_1, \dots, x_D)^T$的一个观测值，表示为\textbf{x}。
+	
