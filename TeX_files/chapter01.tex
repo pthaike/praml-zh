@@ -653,4 +653,69 @@
 	注意到当数据点的数量N增加时，最大似然结果的偏差会变得越小，并且在极限$N \to \infty$时最大似然的结果方差会等于正真产生这些数据的分布的方差。在实际中，除了小N，这种偏差并不是大问题。然而，在整本书中，我们对有很多参数的复杂模型感兴趣，对于和最大似然相关的偏差问题会变得很严重。事实上，正如我们所看到的，最大似然中的偏差问题位于过拟合的基础上，过拟合问题在前面的多项式曲线拟合中遇到。
 	
 \subsection{曲线拟合}
+	我们已经看到多项式曲线拟合可以表达为误差的最小化。现在我们回到曲线拟合的例子，然后用概率的视角来看，从而思考误差函数和归一化，也将我们带入全贝叶斯处理。
+	
+	曲线拟合问题的目标是可以对给定的新的输入变量x，做出预测目标变量t，基于一个包含N个输入值$\mathsf{x} = (x_1, \dots, x_N)^T$的训练数据集，对应的目标值为$\mathsf{t} = (t_1, \dots, t_N)^T$。我们可以使用概率分布来表达我们的不确定性。这样一来，我们可以假设给定的值\textit{x}，对应的值\textit{t}具有均值为$y(x, \textbf{w})$的高斯分布，其中均值是来自于公式（1.1）给出的多项式曲线。因此我们能得到
+	
+	\begin{equation}
+	p(t |x, \textbf{w}, \beta) = \mathcal{N}(t| y(x,\textbf{w}, \beta^{-1}))
+	\end{equation}
+
+	对于连续的标识会在后面的章节来介绍，我们已经定义了精确度参数$\beta$，对应到分布方差的逆。在图1.16中会示意性地描述。
+	
+	\begin{figure}[t]
+		\parbox{.4\textwidth}{\caption{  图解描述了（1.60）给出的给定\textit{x}时关于\textit{t}的高斯条件分布，其中均值由多项式函数$y(x, \textbf{w})$给出，精确度为$\beta$，对应于方差$\beta^{-1} = \sigma^2$ }}
+		\parbox{.5\textwidth}{\includegraphics[width=8cm]{Figure1-16.png}}
+	\end{figure}
+	
+	现在我们使用训练数据$\{ \mathsf{x, t} \}$来通过最大似然函数来确定未知参数\textbf{w}和$\beta$的值。假设数据是从分布（1.60）中独立地提取出来的，那么似然函数为
+	
+	\begin{equation}
+	p(\mathsf{t|x}, \textbf{w}, \beta) = \prod_{n = 1}^{N} \mathcal{N}(t_n| y(x_n, \textbf{w}), \beta^{-1}).
+	\end{equation}
+	
+	正如前面我们对简单高斯分布的例子所做的那样，很容易最大化似然函数的对数。由公式（1.46）给出的高斯分布的替代形式，我们得到对数似然函数的形式
+	
+	\begin{equation}
+	\ln p(\mathsf{t|x}, \textbf{w}, \beta) = -\frac{\beta}{2} \sum_{n = 1}^{N} \{ y(x_n, \textbf{w}) - t_n \}^2 + \frac{N}{2}\ln \beta - \frac{N}{2} \ln (2 \pi).
+	\end{equation}
+	
+	考虑确定多项式系数的最大似然结果，可以表示为$\textbf{w}_{ML}$。这可以通过最大化关于w的式子(1.62)。我们可以忽略右边的最后两项，因为它们和\textbf{w}无关。我们也可以注意到用正常数对对数似然函数进行缩放不会改变关于w的最大化值位置。我们可以用1/2来代替$\beta/2$。最后我们并不是最大化对数似然函数，而是最小化等价的负数对数似然函数。因此我们可以看到最大化似然函数等价于最小化（1.2）定义的\textbf{误差平方和函数}(\textit{sum-of-squares error function})来确定\textbf{w}。因此误差平方和函数在假定满足高斯噪声分布下最大化似然函数下提出。
+	
+	我们也可以使用最大化似然函数来确定高斯条件分布的精度参数$\beta$。最大化关于$\beta$的(1.62)
+	
+	\begin{equation}
+	\frac{1}{\beta_{ML}} = \frac{1}{N} \sum_{n = 1}^{N}\{ y(x_n, \textbf{w}_{ML}) - t_n \}^2
+	\end{equation}
+
+	我们首先调整均值来确定参数向量$\textbf{w}_{ML}$，接着使用它确定精度$\beta_{ML}$，和之前的简单高斯分布一样。
+	
+	已经确定了参数\textbf{w}和$\beta$后，我们可以对于新的值做出决策。因为我们现在有一个概率模型，这可以表示为预测分布，给出了关于t的概率分布，而不是简单的点估计，这可以通过将最大似然参数带入式子(1.60)得到
+	
+	\begin{equation}
+	p(t|x, \textbf{w}_{ML}, \beta_{ML}) = \mathcal{N}(t|y(x, \textbf{w}_ML), \beta_{ML}^{-1})
+	\end{equation}
+	
+	现在让我们来采用更接近贝叶斯方法的步骤来介绍在多项式系数\textbf{w}上的先验分布。简单来说，让我们考虑高斯分布的形式
+	
+	\begin{equation}
+	p(\textbf{w}|\alpha) = \mathcal{N}(\textbf{w}|\textbf{0}, \alpha^{-1}\textbf{I}) = (\frac{\aleph}{2 \pi})^{(M+1)/2} \mathrm{exp}\{ -\frac{\alpha}{2}\textbf{w}^T\textbf{w} \}
+	\end{equation}
+	
+	其中$\alpha$是分布的参数，$M+1$是\textit{M}阶多项式的向量\textbf{w}的元素个数。参数如$\alpha$控制模型分布的参数，称为\textbf{超参数}(\textit{hyperparameters})。使用贝叶斯定理，\textbf{w}的后验分布正比于先验分布和似然函数的乘积。
+	
+	\begin{equation}
+	p(\textbf{w}|\mathsf{x,t},\alpha, \beta) \propto p(\mathsf{t}|\mathsf{x}, w, \beta)p(\textbf{w}|\alpha).
+	\end{equation}
+	
+	现在我们可以确定\textbf{w}，找到给定数据条件下最可能的\textbf{w}值，换句话说就是最大化后验分布。这种方法称为\textbf{最大后验概率}(\textit{maximum posterior})，简写为\textit{MAP}。采用(1.66)的负对数，并且结合(1.62)和(1.65)，我们可以得到最大的后验概率，通过最小化下面式子
+	
+	\begin{equation}
+	\frac{\beta}{2} \sum_{n = 1}^{N} \{ y(x_n, \textbf{w}) - t_n \}^2 + \frac{\alpha}{2} \textbf{w}^T\textbf{w}
+	\end{equation}  
+	
+	因此我们看到最大化后验分布等价于最小化归一化的误差平方和函数，我们在之前遇到过的(1.4)，使用归一化参数为$\lambda = \alpha / \beta$。
+	
+\subsection{贝叶斯曲线拟合}
+	
 	
