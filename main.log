@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2015.9.23)  23 NOV 2015 15:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2015.9.23)  24 NOV 2015 23:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1994,25 +1994,25 @@ $|\C70/gbsn/m/n/10.5/30 ^^B| \C70/gbsn/bx/n/10.5/67 ^^@ \C70/gbsn/bx/n/10.5/59
 \OML/cmm/m/it/10.5 ^^L$\C70/gbsn/bx/n/10.5/76 „\OT1/cmr/m/n/10.5 (1.62) 
  []
 
-[25 <./image/Figure1-16.png>]) [26]
+[25 <./image/Figure1-16.png>] [26]) [27]
 \openout2 = `./TeX_files/chapter02.aux'.
 
- (./TeX_files/chapter02.tex
-Chapter 2.
-) [27
+ (./TeX_files/chapter02.tex [28
 
 
 
 ]
+Chapter 2.
+) [29]
 \openout2 = `./TeX_files/chapter03.aux'.
 
- (./TeX_files/chapter03.tex [28
+ (./TeX_files/chapter03.tex [30
 
 
 
 ]
 Chapter 3.
-) [29] [30
+) [31] [32
 
 
 ]
@@ -2031,10 +2031,10 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 175.
  ) 
 Here is how much of TeX's memory you used:
- 23941 strings out of 494178
- 405327 string characters out of 6153114
+ 23950 strings out of 494178
+ 405442 string characters out of 6153114
  526298 words of memory out of 5000000
- 26310 multiletter control sequences out of 15000+600000
+ 26312 multiletter control sequences out of 15000+600000
  83778 words of font info for 309 fonts, out of 8000000 for 9000
  430 hyphenation exceptions out of 8191
  40i,12n,47p,10433b,1778s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2178,10 +2178,10 @@ e/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu9a.pfb><d:/Program Files (x86)/texli
 ve/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu9f.pfb><d:/Program Files (x86)/texl
 ive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnuff.pfb><d:/Program Files (x86)/tex
 live/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on main.pdf (36 pages, 1358154 bytes).
+Output written on main.pdf (38 pages, 1363206 bytes).
 PDF statistics:
- 1453 PDF objects out of 1728 (max. 8388607)
- 1084 compressed objects within 11 object streams
- 142 named destinations out of 1000 (max. 500000)
+ 1471 PDF objects out of 1728 (max. 8388607)
+ 1100 compressed objects within 11 object streams
+ 149 named destinations out of 1000 (max. 500000)
  585 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -509,7 +509,7 @@
 	 \mathrm{posterior \propto likelihood \times prior}
 	 \end{equation}
 	 
-	 其中所有的量化值都是\textbf{w}的函数。在式子（1.43）中的分母是常数，确保了再左边的后验概率是有效的概率密度，并且和为1.我们相对于\textbf{w}整合公式(1.43)两端，我们可以用贝叶斯定理的后验分布和似然函数来表达分母
+	 其中所有的量化值都是\textbf{w}的函数。在式子（1.43）中的分母是常数，确保了再左边的后验概率是有效的概率密度，并且和为1.我们相对于\textbf{w}公式(1.43)两端进行积分，我们可以用贝叶斯定理的后验分布和似然函数来表达分母
 	 
 	 \begin{equation}
 	 p(\mathcal{D}) = \int p(\mathcal{D} | \textbf{w}) p(\textbf{w}) d\textbf{w}.
@@ -717,5 +717,39 @@
 	因此我们看到最大化后验分布等价于最小化归一化的误差平方和函数，我们在之前遇到过的(1.4)，使用归一化参数为$\lambda = \alpha / \beta$。
 	
 \subsection{贝叶斯曲线拟合}
+	尽管我们已经包含了后验分布$p(\textbf{w}|\alpha)$，但是我们目前还是只进行\textbf{w}的点估计，并没有等于用贝叶斯方法。在全贝叶斯方法里面，我们应该连续地使用概率加法和乘法准则。这要求我们对所有的\textbf{w}值进行积分。这种边缘化位于模式识别贝叶斯方法的核心。
+	
+	在曲线拟合问题中，我们给出了训练数据$\mathsf{x}$和$\mathsf{t}$，对于一个新测试点\textit{x}，我们的目标是预测\textit{t}值。我们因此希望估计预测分布$p(t|x,\mathsf{x},\mathsf{t})$。这里我们假设参数$\alpha$和$\beta$是固定的，并且是已知的。在后面的章节中我们会讨论如何使用贝叶斯方法来推理得到这些参数。
+	
+	贝叶斯方法仅仅对应于连续使用概率的加法和乘法准则，这允许预测分布可以写为如下形式
+	
+	\begin{equation}
+	p(t|x, \mathsf{x}, \mathsf{t}) = \int p(t| x, \textbf{w}) p(\textbf{w}| \mathsf{x}, \mathsf{t})d\textbf{w}
+	\end{equation}
+	
+	其中$p(t|x, \textbf{w})$可以由(1.60)得到，并且我们忽略$\alpha$和$\beta$之间的依赖性，只是简单地当做符号。这里$p(\textbf{w}|\mathsf{x}, \mathsf{t})$是参数的后验分布，可以通过(1.66)的右端得到。在3.3节中我们可以看到对于这种如曲线拟合的问题，后验分布是一个高斯分布，并且可以同分分析来评估。同样的，对公式(1.68)进行积分也可以分析得到这样的结果，预测分布可以通过高斯分布来得到下面形式
+	
+	\begin{equation}
+	p(t|x, \mathsf{x}, \mathsf{t}) = \mathcal{N}(t|m(x),s^2(x)
+	\end{equation}
+	
+	其中均值和方差可以通过下面式子得到
+	
+	\begin{equation}
+	m(x) = \beta \phi (x)^T \textbf{S} \sum_{n = 1}^{N} \phi (x_n) t_n
+	\end{equation}
+	\begin{equation}
+	s^2(x) = \beta^{-1} + \phi (x)^T \textbf{S} \phi (x).
+	\end{equation}
+	
+	这里的矩阵\textbf{S}为
+	
+	\begin{equation}
+	\textbf{S}^{-1} = \alpha \textbf{I} + \beta \sum_{n = 1}^{N} \phi (x_n) \phi (x)^T
+	\end{equation}
+	
+	式子中的\textbf{I}为单位矩阵，我们定义向量$\phi(x)$ 为$\phi (x) = x^i, i = 0, \dots, M$。
+	
+	我们看到预测分布的均值和方差是依赖于\textit{x}的。式子(1.71)中的首项表达了预测值\textit{t}的不确定性，因为目标变量的噪声，并且通过$\beta_{ML}^{-1}$用最大似然预测分布(1.64)来表达。然而第二项是从参数\textbf{w}的不确定性中提出，是贝叶斯方法的结果。在图1.17中描述了合成正弦曲线回归问题的预测分布。
 	
 	
