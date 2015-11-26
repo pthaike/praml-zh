@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2015.9.23)  25 NOV 2015 17:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2015.9.23)  25 NOV 2015 20:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2032,17 +2032,40 @@ Overfull \hbox (19.0633pt too wide) in paragraph at lines 757--757
 [][] 
  []
 
-[27] [28 <./image/Figure1-17-eps-converted-to.pdf>]) [29]
+[27] [28 <./image/Figure1-17-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <image/Figure1-19.eps>
+(epstopdf)                    date: 2008-06-17 10:51:56
+(epstopdf)                    size: 167450 bytes
+(epstopdf)             Output file: <image/Figure1-19-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-11-25 19:51:36
+(epstopdf)                    size: 51951 bytes
+(epstopdf)             Command: <repstopdf --outfile=image/Figure1-19-eps-conve
+rted-to.pdf image/Figure1-19.eps>
+(epstopdf)             \includegraphics on input line 782.
+Package epstopdf Info: Output file is already uptodate.
+
+<image/Figure1-19-eps-converted-to.pdf, id=826, 213.79875pt x 200.75pt>
+File: image/Figure1-19-eps-converted-to.pdf Graphic file (type pdf)
+
+<use image/Figure1-19-eps-converted-to.pdf>
+Package pdftex.def Info: image/Figure1-19-eps-converted-to.pdf used on input li
+ne 782.
+(pdftex.def)             Requested size: 227.62204pt x 213.72824pt.
+
+Overfull \hbox (19.0633pt too wide) in paragraph at lines 782--782
+[][] 
+ []
+
+[29 <./image/Figure1-19-eps-converted-to.pdf>]) [30]
 \openout2 = `./TeX_files/chapter02.aux'.
 
-
-(./TeX_files/chapter02.tex [30
+ (./TeX_files/chapter02.tex
+Chapter 2.
+) [31
 
 
 
 ]
-Chapter 2.
-) [31]
 \openout2 = `./TeX_files/chapter03.aux'.
 
  (./TeX_files/chapter03.tex [32
@@ -2070,28 +2093,28 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 176.
  ) 
 Here is how much of TeX's memory you used:
- 24127 strings out of 494178
- 408533 string characters out of 6153114
+ 24169 strings out of 494178
+ 409266 string characters out of 6153114
  526804 words of memory out of 5000000
- 26436 multiletter control sequences out of 15000+600000
- 94024 words of font info for 347 fonts, out of 8000000 for 9000
+ 26474 multiletter control sequences out of 15000+600000
+ 94294 words of font info for 348 fonts, out of 8000000 for 9000
  430 hyphenation exceptions out of 8191
  40i,12n,47p,10433b,1778s stack positions out of 5000i,500n,10000p,200000b,80000s
 <c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/s
 imsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows
-/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:
-/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun
+/fonts/simsun.ttc><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:
+/Windows/fonts/simhei.ttf><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun
 .ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/font
 s/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Wind
-ows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf>
+ows/fonts/simsun.ttc><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf>
 <c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/sim
-hei.ttf><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/f
+hei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simsun.ttc><c:/Windows/f
 onts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/W
 indows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.t
 tc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/
 simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Window
-s/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c
-:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsu
+s/fonts/simsun.ttc><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c
+:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsu
 n.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fon
 ts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Win
 dows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc
@@ -2101,18 +2124,18 @@ fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/
 Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.
 ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts
 /simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windo
-ws/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><
+ws/fonts/simsun.ttc><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><
 c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simh
-ei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simsun.ttc><c:/Windows/fo
+ei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fo
 nts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Wi
 ndows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.tt
 c><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/s
-imsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simhei.ttf><c:/Windows
+imsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows
 /fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:
-/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simsun
-.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/font
-s/simsun.ttc><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Wind
-ows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simsun.ttc>
+/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei
+.ttf><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/font
+s/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simhei.ttf><c:/Wind
+ows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf>
 <c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/sim
 sun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/f
 onts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/W
@@ -2120,112 +2143,113 @@ indows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.t
 tc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/
 simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Window
 s/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c
-:/Windows/fonts/simsun.ttc><d:/Program Files (x86)/texlive/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmbx10.pfb><d:/Program Files (x86)/texlive/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmbx12.pfb><d:/Program Files (x86)/texlive/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmbx7.pfb><d:/Program Files (x86)/texlive/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><d:/Program Files (x86)/tex
-live/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><d:/Program Files (x8
-6)/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><d:/Program Fil
-es (x86)/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><d:/Progr
-am Files (x86)/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><d:/
-Program Files (x86)/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb
-><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr1
-0.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmr12.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmr7.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmr8.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmsl12.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmss10.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmsy10.pfb><d:/Program Files (x86)/texlive/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmsy7.pfb><d:/Program Files (x86)/texlive/texmf
--dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><d:/Program Files (x86)/texlive/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><d:/Program Files (x86)/te
-xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb><d:/Program Files (x
-86)/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><d:/Program Fi
-les (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu20.pfb><d:/Program F
-iles (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu30.pfb><d:/Program 
-Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu4e.pfb><d:/Program
- Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu4f.pfb><d:/Progra
-m Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu50.pfb><d:/Progr
-am Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu51.pfb><d:/Prog
-ram Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu52.pfb><d:/Pro
-gram Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu53.pfb><d:/Pr
-ogram Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu54.pfb><d:/P
-rogram Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu55.pfb><d:/
-Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu56.pfb><d:
-/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu57.pfb><d
-:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu58.pfb><
-d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu59.pfb>
-<d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu5b.pfb
-><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu5c.pf
-b><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu5d.p
-fb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu5e.
-pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu5f
-.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6
-0.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu
-61.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsn
-u62.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbs
-nu63.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gb
-snu64.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/g
-bsnu65.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/
-gbsnu66.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu
-/gbsnu67.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsn
-u/gbsnu68.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbs
-nu/gbsnu69.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gb
-snu/gbsnu6a.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/g
-bsnu/gbsnu6b.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/
-gbsnu/gbsnu6c.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic
-/gbsnu/gbsnu6d.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphi
-c/gbsnu/gbsnu6e.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arph
-ic/gbsnu/gbsnu6f.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arp
-hic/gbsnu/gbsnu70.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/ar
-phic/gbsnu/gbsnu71.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/a
-rphic/gbsnu/gbsnu72.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/
-arphic/gbsnu/gbsnu73.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1
-/arphic/gbsnu/gbsnu74.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type
-1/arphic/gbsnu/gbsnu75.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/typ
-e1/arphic/gbsnu/gbsnu76.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/ty
-pe1/arphic/gbsnu/gbsnu77.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/t
-ype1/arphic/gbsnu/gbsnu78.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/
-type1/arphic/gbsnu/gbsnu79.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts
-/type1/arphic/gbsnu/gbsnu7a.pfb><d:/Program Files (x86)/texlive/texmf-dist/font
-s/type1/arphic/gbsnu/gbsnu7b.pfb><d:/Program Files (x86)/texlive/texmf-dist/fon
-ts/type1/arphic/gbsnu/gbsnu7c.pfb><d:/Program Files (x86)/texlive/texmf-dist/fo
-nts/type1/arphic/gbsnu/gbsnu7d.pfb><d:/Program Files (x86)/texlive/texmf-dist/f
-onts/type1/arphic/gbsnu/gbsnu7e.pfb><d:/Program Files (x86)/texlive/texmf-dist/
-fonts/type1/arphic/gbsnu/gbsnu7f.pfb><d:/Program Files (x86)/texlive/texmf-dist
-/fonts/type1/arphic/gbsnu/gbsnu80.pfb><d:/Program Files (x86)/texlive/texmf-dis
-t/fonts/type1/arphic/gbsnu/gbsnu81.pfb><d:/Program Files (x86)/texlive/texmf-di
-st/fonts/type1/arphic/gbsnu/gbsnu82.pfb><d:/Program Files (x86)/texlive/texmf-d
-ist/fonts/type1/arphic/gbsnu/gbsnu83.pfb><d:/Program Files (x86)/texlive/texmf-
-dist/fonts/type1/arphic/gbsnu/gbsnu84.pfb><d:/Program Files (x86)/texlive/texmf
--dist/fonts/type1/arphic/gbsnu/gbsnu86.pfb><d:/Program Files (x86)/texlive/texm
-f-dist/fonts/type1/arphic/gbsnu/gbsnu87.pfb><d:/Program Files (x86)/texlive/tex
-mf-dist/fonts/type1/arphic/gbsnu/gbsnu88.pfb><d:/Program Files (x86)/texlive/te
-xmf-dist/fonts/type1/arphic/gbsnu/gbsnu89.pfb><d:/Program Files (x86)/texlive/t
-exmf-dist/fonts/type1/arphic/gbsnu/gbsnu8a.pfb><d:/Program Files (x86)/texlive/
-texmf-dist/fonts/type1/arphic/gbsnu/gbsnu8b.pfb><d:/Program Files (x86)/texlive
-/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu8c.pfb><d:/Program Files (x86)/texliv
-e/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu8d.pfb><d:/Program Files (x86)/texli
-ve/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu8e.pfb><d:/Program Files (x86)/texl
-ive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu8f.pfb><d:/Program Files (x86)/tex
-live/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu90.pfb><d:/Program Files (x86)/te
-xlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu91.pfb><d:/Program Files (x86)/t
-exlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu94.pfb><d:/Program Files (x86)/
-texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu95.pfb><d:/Program Files (x86)
-/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu96.pfb><d:/Program Files (x86
-)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu97.pfb><d:/Program Files (x8
-6)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu98.pfb><d:/Program Files (x
-86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu99.pfb><d:/Program Files (
-x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu9a.pfb><d:/Program Files 
-(x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu9f.pfb><d:/Program Files
- (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnuff.pfb><d:/Program File
-s (x86)/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on main.pdf (40 pages, 1419059 bytes).
+:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><d:/Program Files (x86)
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><d:/Program Files
+ (x86)/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><d:/Program
+ Files (x86)/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb><d:/Pr
+ogram Files (x86)/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pf
+b><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cme
+x10.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmmi10.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmmi12.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmmi7.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmmi8.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmr10.pfb><d:/Program Files (x86)/texlive/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmr12.pfb><d:/Program Files (x86)/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmr7.pfb><d:/Program Files (x86)/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><d:/Program Files (x86)/texlive
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb><d:/Program Files (x86)/t
+exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb><d:/Program Files (
+x86)/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><d:/Program F
+iles (x86)/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><d:/Prog
+ram Files (x86)/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><d:
+/Program Files (x86)/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.p
+fb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+ti12.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmtt10.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gb
+snu/gbsnu20.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/g
+bsnu/gbsnu30.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/
+gbsnu/gbsnu4e.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic
+/gbsnu/gbsnu4f.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphi
+c/gbsnu/gbsnu50.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arph
+ic/gbsnu/gbsnu51.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arp
+hic/gbsnu/gbsnu52.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/ar
+phic/gbsnu/gbsnu53.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/a
+rphic/gbsnu/gbsnu54.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/
+arphic/gbsnu/gbsnu55.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1
+/arphic/gbsnu/gbsnu56.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type
+1/arphic/gbsnu/gbsnu57.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/typ
+e1/arphic/gbsnu/gbsnu58.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/ty
+pe1/arphic/gbsnu/gbsnu59.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/t
+ype1/arphic/gbsnu/gbsnu5b.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/
+type1/arphic/gbsnu/gbsnu5c.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts
+/type1/arphic/gbsnu/gbsnu5d.pfb><d:/Program Files (x86)/texlive/texmf-dist/font
+s/type1/arphic/gbsnu/gbsnu5e.pfb><d:/Program Files (x86)/texlive/texmf-dist/fon
+ts/type1/arphic/gbsnu/gbsnu5f.pfb><d:/Program Files (x86)/texlive/texmf-dist/fo
+nts/type1/arphic/gbsnu/gbsnu60.pfb><d:/Program Files (x86)/texlive/texmf-dist/f
+onts/type1/arphic/gbsnu/gbsnu61.pfb><d:/Program Files (x86)/texlive/texmf-dist/
+fonts/type1/arphic/gbsnu/gbsnu62.pfb><d:/Program Files (x86)/texlive/texmf-dist
+/fonts/type1/arphic/gbsnu/gbsnu63.pfb><d:/Program Files (x86)/texlive/texmf-dis
+t/fonts/type1/arphic/gbsnu/gbsnu64.pfb><d:/Program Files (x86)/texlive/texmf-di
+st/fonts/type1/arphic/gbsnu/gbsnu65.pfb><d:/Program Files (x86)/texlive/texmf-d
+ist/fonts/type1/arphic/gbsnu/gbsnu66.pfb><d:/Program Files (x86)/texlive/texmf-
+dist/fonts/type1/arphic/gbsnu/gbsnu67.pfb><d:/Program Files (x86)/texlive/texmf
+-dist/fonts/type1/arphic/gbsnu/gbsnu68.pfb><d:/Program Files (x86)/texlive/texm
+f-dist/fonts/type1/arphic/gbsnu/gbsnu69.pfb><d:/Program Files (x86)/texlive/tex
+mf-dist/fonts/type1/arphic/gbsnu/gbsnu6a.pfb><d:/Program Files (x86)/texlive/te
+xmf-dist/fonts/type1/arphic/gbsnu/gbsnu6b.pfb><d:/Program Files (x86)/texlive/t
+exmf-dist/fonts/type1/arphic/gbsnu/gbsnu6c.pfb><d:/Program Files (x86)/texlive/
+texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6d.pfb><d:/Program Files (x86)/texlive
+/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6e.pfb><d:/Program Files (x86)/texliv
+e/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6f.pfb><d:/Program Files (x86)/texli
+ve/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu70.pfb><d:/Program Files (x86)/texl
+ive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu71.pfb><d:/Program Files (x86)/tex
+live/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu72.pfb><d:/Program Files (x86)/te
+xlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu73.pfb><d:/Program Files (x86)/t
+exlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu74.pfb><d:/Program Files (x86)/
+texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu75.pfb><d:/Program Files (x86)
+/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu76.pfb><d:/Program Files (x86
+)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu77.pfb><d:/Program Files (x8
+6)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu78.pfb><d:/Program Files (x
+86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu79.pfb><d:/Program Files (
+x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7a.pfb><d:/Program Files 
+(x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7b.pfb><d:/Program Files
+ (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7c.pfb><d:/Program File
+s (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7d.pfb><d:/Program Fil
+es (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7e.pfb><d:/Program Fi
+les (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7f.pfb><d:/Program F
+iles (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu80.pfb><d:/Program 
+Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu81.pfb><d:/Program
+ Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu82.pfb><d:/Progra
+m Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu83.pfb><d:/Progr
+am Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu84.pfb><d:/Prog
+ram Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu86.pfb><d:/Pro
+gram Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu87.pfb><d:/Pr
+ogram Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu88.pfb><d:/P
+rogram Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu89.pfb><d:/
+Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu8a.pfb><d:
+/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu8b.pfb><d
+:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu8c.pfb><
+d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu8d.pfb>
+<d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu8e.pfb
+><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu8f.pf
+b><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu90.p
+fb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu91.
+pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu94
+.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu9
+5.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu
+96.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsn
+u97.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbs
+nu98.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gb
+snu99.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/g
+bsnu9a.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/
+gbsnu9f.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu
+/gbsnuff.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/public/amsf
+onts/symbols/msbm10.pfb>
+Output written on main.pdf (40 pages, 1479838 bytes).
 PDF statistics:
- 1550 PDF objects out of 1728 (max. 8388607)
- 1162 compressed objects within 12 object streams
- 155 named destinations out of 1000 (max. 500000)
- 606 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1565 PDF objects out of 1728 (max. 8388607)
+ 1174 compressed objects within 12 object streams
+ 156 named destinations out of 1000 (max. 500000)
+ 611 words of extra memory for PDF output out of 10000 (max. 10000000)
 
