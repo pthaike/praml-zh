@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2015.9.23)  26 NOV 2015 16:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2015.9.23)  27 NOV 2015 15:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1096,6 +1096,23 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 LaTeX Info: Redefining \[ on input line 2665.
 LaTeX Info: Redefining \] on input line 2666.
 )
+(d:/Program Files (x86)/texlive/texmf-dist/tex/latex/blkarray/blkarray.sty
+Package: blkarray 2015/02/27 v0.07 Block array (dpc)
+\c@BAenumi=\count158
+\BA@col=\count159
+\BA@block@cnt=\count160
+\BA@final@box=\box51
+\BA@first@box=\box52
+\BA@colsep=\dimen171
+\BA@ftn=\toks27
+\BAextrarowheight=\dimen172
+\BAextraheightafterhline=\dimen173
+\BAarrayrulewidth=\dimen174
+\BAdoublerulesep=\dimen175
+\BAfootskip=\dimen176
+\BA@dashbox=\box53
+\BA@ddashbox=\box54
+)
 (d:/Program Files (x86)/texlive/texmf-dist/tex/latex/cjk/texinput/extended.enc
 File: extended.enc 2015/04/18 4.8.4
 ) (d:/Program Files (x86)/texlive/texmf-dist/tex/latex/cjk/texinput/extended.ch
@@ -1117,102 +1134,102 @@ LaTeX Warning: Label `fig:endb-flow' multiply defined.
 ) (./TeX_files/chapter02.aux) (./TeX_files/chapter03.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
 
 (d:/Program Files (x86)/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count158
-\scratchdimen=\dimen171
-\scratchbox=\box51
-\nofMPsegments=\count159
-\nofMParguments=\count160
-\everyMPshowfont=\toks27
-\MPscratchCnt=\count161
-\MPscratchDim=\dimen172
-\MPnumerator=\count162
-\makeMPintoPDFobject=\count163
-\everyMPtoPDFconversion=\toks28
+\scratchcounter=\count161
+\scratchdimen=\dimen177
+\scratchbox=\box55
+\nofMPsegments=\count162
+\nofMParguments=\count163
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count164
+\MPscratchDim=\dimen178
+\MPnumerator=\count165
+\makeMPintoPDFobject=\count166
+\everyMPtoPDFconversion=\toks29
 )
 (d:/Program Files (x86)/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
@@ -1229,8 +1246,8 @@ fg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-\AtBeginShipoutBox=\box52
-Package hyperref Info: Link coloring OFF on input line 79.
+\AtBeginShipoutBox=\box56
+Package hyperref Info: Link coloring OFF on input line 80.
  (d:/Program Files (x86)/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
@@ -1238,17 +1255,17 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count164
+\c@section@level=\count167
 )
-LaTeX Info: Redefining \ref on input line 79.
-LaTeX Info: Redefining \pageref on input line 79.
-LaTeX Info: Redefining \nameref on input line 79.
+LaTeX Info: Redefining \ref on input line 80.
+LaTeX Info: Redefining \pageref on input line 80.
+LaTeX Info: Redefining \nameref on input line 80.
  (./main.out) (./main.out)
 \@outlinefile=\write3
 \openout3 = `main.out'.
 
  ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 79.
+LaTeX Info: Redefining \selectfont on input line 80.
 
 (d:/Program Files (x86)/texlive/texmf-dist/tex/latex/cjk/texinput/utf8/UTF8.bdg
 File: UTF8.bdg 2015/04/18 4.8.4
@@ -1259,20 +1276,20 @@ File: UTF8.enc 2015/04/18 4.8.4
 (d:/Program Files (x86)/texlive/texmf-dist/tex/latex/cjk/texinput/utf8/UTF8.chr
 File: UTF8.chr 2015/04/18 4.8.4
 )
-\c@example=\count165
-\c@algorithm=\count166
-\c@theorem=\count167
-\c@definition=\count168
-\c@axiom=\count169
-\c@property=\count170
-\c@proposition=\count171
-\c@lemma=\count172
-\c@corollary=\count173
-\c@remark=\count174
-\c@condition=\count175
-\c@conclusion=\count176
-\c@assumption=\count177
-LaTeX Font Info:    Try loading font information for C70+gbsn on input line 122
+\c@example=\count168
+\c@algorithm=\count169
+\c@theorem=\count170
+\c@definition=\count171
+\c@axiom=\count172
+\c@property=\count173
+\c@proposition=\count174
+\c@lemma=\count175
+\c@corollary=\count176
+\c@remark=\count177
+\c@condition=\count178
+\c@conclusion=\count179
+\c@assumption=\count180
+LaTeX Font Info:    Try loading font information for C70+gbsn on input line 123
 .
 
 (d:/Program Files (x86)/texlive/texmf-dist/tex/latex/cjk/texinput/utf8/c70gbsn.
@@ -1283,24 +1300,24 @@ File: c70gbsn.fd 2015/04/18 4.8.4
 fdx
 File: c70gbsn.fdx 2015/04/18 4.8.4
 )
-LaTeX Font Info:    Try loading font information for U+msa on input line 122.
+LaTeX Font Info:    Try loading font information for U+msa on input line 123.
  (d:/Program Files (x86)/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 122.
+LaTeX Font Info:    Try loading font information for U+msb on input line 123.
 
 (d:/Program Files (x86)/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for C70+rm on input line 122.
+LaTeX Font Info:    Try loading font information for C70+rm on input line 123.
 
 (d:/Program Files (x86)/texlive/texmf-dist/tex/latex/ctex/fd/c70rm.fd
 File: c70rm.fd 2015/07/01 v2.2 Chinese font definition (CTEX)
 )
 Package CJKpunct Info: use punctuation spaces for family 'rm' with punctstyle (
-quanjiao) on input line 122.
+quanjiao) on input line 123.
 
-Underfull \hbox (badness 2237) in paragraph at lines 122--122
+Underfull \hbox (badness 2237) in paragraph at lines 123--123
 [][]\C70/rm/m/n/10.95/8b Ñ \C70/rm/m/n/10.95/80 ^^E|\C70/rm/m/n/10.95/ff ^^Z| \
 C70/rm/m/n/10.95/5e ž ÷ \C70/rm/m/n/10.95/6d w|\C70/rm/m/n/10.95/ff ^^Z| \C70/r
 m/m/n/10.95/56 Û \C70/rm/m/n/10.95/5d Ý \C70/rm/m/n/10.95/59 ' \C70/rm/m/n/10.9
@@ -1320,17 +1337,17 @@ File: zhwindowsfonts.tex 2015/07/01 v2.2 Windows font map loader for pdfTeX and
 
 
 ]
-LaTeX Font Info:    Try loading font information for C70+hei on input line 122.
+LaTeX Font Info:    Try loading font information for C70+hei on input line 123.
 
  (d:/Program Files (x86)/texlive/texmf-dist/tex/latex/zhmetrics/c70hei.fd
 File: c70hei.fd 2009/09/23 4.8.2
 )
 Package CJKpunct Info: punctuation spaces for family 'gbsn' do not exist. Use f
-amily 'def' instead. on input line 123.
-LaTeX Font Info:    Calculating math sizes for size <10.5> on input line 131.
+amily 'def' instead. on input line 124.
+LaTeX Font Info:    Calculating math sizes for size <10.5> on input line 132.
 
 [2]
-Overfull \hbox (10.20572pt too wide) in paragraph at lines 163--164
+Overfull \hbox (10.20572pt too wide) in paragraph at lines 164--165
 \C70/gbsn/m/n/10.5/67 œ$\OML/cmm/m/it/10.5 x$\C70/gbsn/m/n/10.5/66 / \C70/gbsn/
 m/n/10.5/4e å$\OML/cmm/m/it/10.5 z$\C70/gbsn/m/n/10.5/4e : \C70/gbsn/m/n/10.5/6
 7 a \C70/gbsn/m/n/10.5/4e ö \C70/gbsn/m/n/10.5/76 „ \C70/gbsn/m/n/10.5/52 ^^F \
@@ -1371,7 +1388,7 @@ Package epstopdf Info: Source file: <image/Figure1-1.eps>
 ted-to.pdf image/Figure1-1.eps>
 (epstopdf)             \includegraphics on input line 8.
 Package epstopdf Info: Output file is already uptodate.
-<image/Figure1-1-eps-converted-to.pdf, id=330, 227.85126pt x 96.36pt>
+<image/Figure1-1-eps-converted-to.pdf, id=335, 227.85126pt x 96.36pt>
 File: image/Figure1-1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use image/Figure1-1-eps-converted-to.pdf>
@@ -1409,7 +1426,7 @@ Package epstopdf Info: Source file: <image/Figure1-2.eps>
 ted-to.pdf image/Figure1-2.eps>
 (epstopdf)             \includegraphics on input line 36.
 Package epstopdf Info: Output file is already uptodate.
- <image/Figure1-2-eps-converted-to.pdf, id=348, 209.78375pt x 155.58125pt>
+ <image/Figure1-2-eps-converted-to.pdf, id=354, 209.78375pt x 155.58125pt>
 File: image/Figure1-2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use image/Figure1-2-eps-converted-to.pdf>
@@ -1421,7 +1438,7 @@ Overfull \hbox (19.0633pt too wide) in paragraph at lines 36--36
 [][] 
  []
 
-[3] <image/Figure1-3.png, id=368, 207.77625pt x 156.585pt>
+[3] <image/Figure1-3.png, id=373, 207.77625pt x 156.585pt>
 File: image/Figure1-3.png Graphic file (type png)
 
 <use image/Figure1-3.png>
@@ -1442,7 +1459,7 @@ Package epstopdf Info: Source file: <image/Figure1-4a.eps>
 rted-to.pdf image/Figure1-4a.eps>
 (epstopdf)             \includegraphics on input line 70.
 Package epstopdf Info: Output file is already uptodate.
-<image/Figure1-4a-eps-converted-to.pdf, id=370, 209.78375pt x 155.58125pt>
+<image/Figure1-4a-eps-converted-to.pdf, id=375, 209.78375pt x 155.58125pt>
 File: image/Figure1-4a-eps-converted-to.pdf Graphic file (type pdf)
 
 <use image/Figure1-4a-eps-converted-to.pdf>
@@ -1460,7 +1477,7 @@ rted-to.pdf image/Figure1-4b.eps>
 (epstopdf)             \includegraphics on input line 71.
 Package epstopdf Info: Output file is already uptodate.
 
-<image/Figure1-4b-eps-converted-to.pdf, id=371, 209.78375pt x 155.58125pt>
+<image/Figure1-4b-eps-converted-to.pdf, id=376, 209.78375pt x 155.58125pt>
 File: image/Figure1-4b-eps-converted-to.pdf Graphic file (type pdf)
 
 <use image/Figure1-4b-eps-converted-to.pdf>
@@ -1478,7 +1495,7 @@ rted-to.pdf image/Figure1-4c.eps>
 (epstopdf)             \includegraphics on input line 72.
 Package epstopdf Info: Output file is already uptodate.
 
-<image/Figure1-4c-eps-converted-to.pdf, id=372, 209.78375pt x 155.58125pt>
+<image/Figure1-4c-eps-converted-to.pdf, id=377, 209.78375pt x 155.58125pt>
 File: image/Figure1-4c-eps-converted-to.pdf Graphic file (type pdf)
 
 <use image/Figure1-4c-eps-converted-to.pdf>
@@ -1496,7 +1513,7 @@ rted-to.pdf image/Figure1-4d.eps>
 (epstopdf)             \includegraphics on input line 73.
 Package epstopdf Info: Output file is already uptodate.
 
-<image/Figure1-4d-eps-converted-to.pdf, id=373, 209.78375pt x 155.58125pt>
+<image/Figure1-4d-eps-converted-to.pdf, id=378, 209.78375pt x 155.58125pt>
 File: image/Figure1-4d-eps-converted-to.pdf Graphic file (type pdf)
 
 <use image/Figure1-4d-eps-converted-to.pdf>
@@ -1557,7 +1574,7 @@ Package epstopdf Info: Source file: <image/Figure1-5.eps>
 ted-to.pdf image/Figure1-5.eps>
 (epstopdf)             \includegraphics on input line 90.
 Package epstopdf Info: Output file is already uptodate.
-<image/Figure1-5-eps-converted-to.pdf, id=393, 206.7725pt x 150.5625pt>
+<image/Figure1-5-eps-converted-to.pdf, id=398, 206.7725pt x 150.5625pt>
 File: image/Figure1-5-eps-converted-to.pdf Graphic file (type pdf)
 
 <use image/Figure1-5-eps-converted-to.pdf>
@@ -1606,7 +1623,7 @@ Package epstopdf Info: Source file: <image/Figure1-6a.eps>
 rted-to.pdf image/Figure1-6a.eps>
 (epstopdf)             \includegraphics on input line 126.
 Package epstopdf Info: Output file is already uptodate.
- <image/Figure1-6a-eps-converted-to.pdf, id=448, 209.78375pt x 155.58125pt>
+ <image/Figure1-6a-eps-converted-to.pdf, id=453, 209.78375pt x 155.58125pt>
 File: image/Figure1-6a-eps-converted-to.pdf Graphic file (type pdf)
 
 <use image/Figure1-6a-eps-converted-to.pdf>
@@ -1624,7 +1641,7 @@ rted-to.pdf image/Figure1-6b.eps>
 (epstopdf)             \includegraphics on input line 127.
 Package epstopdf Info: Output file is already uptodate.
 
-<image/Figure1-6b-eps-converted-to.pdf, id=449, 209.78375pt x 155.58125pt>
+<image/Figure1-6b-eps-converted-to.pdf, id=454, 209.78375pt x 155.58125pt>
 File: image/Figure1-6b-eps-converted-to.pdf Graphic file (type pdf)
 
 <use image/Figure1-6b-eps-converted-to.pdf>
@@ -1651,7 +1668,7 @@ rted-to.pdf image/Figure1-7a.eps>
 (epstopdf)             \includegraphics on input line 147.
 Package epstopdf Info: Output file is already uptodate.
 
-<image/Figure1-7a-eps-converted-to.pdf, id=488, 209.78375pt x 155.58125pt>
+<image/Figure1-7a-eps-converted-to.pdf, id=493, 209.78375pt x 155.58125pt>
 File: image/Figure1-7a-eps-converted-to.pdf Graphic file (type pdf)
 
 <use image/Figure1-7a-eps-converted-to.pdf>
@@ -1669,7 +1686,7 @@ rted-to.pdf image/Figure1-7b.eps>
 (epstopdf)             \includegraphics on input line 148.
 Package epstopdf Info: Output file is already uptodate.
 
-<image/Figure1-7b-eps-converted-to.pdf, id=489, 209.78375pt x 155.58125pt>
+<image/Figure1-7b-eps-converted-to.pdf, id=494, 209.78375pt x 155.58125pt>
 File: image/Figure1-7b-eps-converted-to.pdf Graphic file (type pdf)
 
 <use image/Figure1-7b-eps-converted-to.pdf>
@@ -1696,7 +1713,7 @@ Package epstopdf Info: Source file: <image/Figure1-8.eps>
 ted-to.pdf image/Figure1-8.eps>
 (epstopdf)             \includegraphics on input line 179.
 Package epstopdf Info: Output file is already uptodate.
-<image/Figure1-8-eps-converted-to.pdf, id=490, 206.7725pt x 150.5625pt>
+<image/Figure1-8-eps-converted-to.pdf, id=495, 206.7725pt x 150.5625pt>
 File: image/Figure1-8-eps-converted-to.pdf Graphic file (type pdf)
 
 <use image/Figure1-8-eps-converted-to.pdf>
@@ -1721,7 +1738,7 @@ ted-to.pdf image/Figure1-9.eps>
 (epstopdf)             \includegraphics on input line 191.
 Package epstopdf Info: Output file is already uptodate.
 
-<image/Figure1-9-eps-converted-to.pdf, id=523, 203.76125pt x 133.49875pt>
+<image/Figure1-9-eps-converted-to.pdf, id=529, 203.76125pt x 133.49875pt>
 File: image/Figure1-9-eps-converted-to.pdf Graphic file (type pdf)
 
 <use image/Figure1-9-eps-converted-to.pdf>
@@ -1751,7 +1768,7 @@ mm/m/it/10.5 =\OT1/cmr/m/n/10.5 10$\C70/gbsn/m/n/10.5/54 Œ$\OML/cmm/m/it/10.5 p
  []
 
 [10 <./image/Figure1-8-eps-converted-to.pdf> <./image/Figure1-9-eps-converted-t
-o.pdf>] <image/Figure1-10.png, id=594, 568.37344pt x 386.94562pt>
+o.pdf>] <image/Figure1-10.png, id=599, 568.37344pt x 386.94562pt>
 File: image/Figure1-10.png Graphic file (type png)
 
 <use image/Figure1-10.png>
@@ -1774,7 +1791,7 @@ erted-to.pdf image/Figure1-11a.eps>
 (epstopdf)             \includegraphics on input line 276.
 Package epstopdf Info: Output file is already uptodate.
 
-<image/Figure1-11a-eps-converted-to.pdf, id=608, 212.795pt x 147.55125pt>
+<image/Figure1-11a-eps-converted-to.pdf, id=613, 212.795pt x 147.55125pt>
 File: image/Figure1-11a-eps-converted-to.pdf Graphic file (type pdf)
 
 <use image/Figure1-11a-eps-converted-to.pdf>
@@ -1792,7 +1809,7 @@ erted-to.pdf image/Figure1-11b.eps>
 (epstopdf)             \includegraphics on input line 277.
 Package epstopdf Info: Output file is already uptodate.
 
-<image/Figure1-11b-eps-converted-to.pdf, id=609, 212.795pt x 147.55125pt>
+<image/Figure1-11b-eps-converted-to.pdf, id=614, 212.795pt x 147.55125pt>
 File: image/Figure1-11b-eps-converted-to.pdf Graphic file (type pdf)
 
 <use image/Figure1-11b-eps-converted-to.pdf>
@@ -1810,7 +1827,7 @@ erted-to.pdf image/Figure1-11c.eps>
 (epstopdf)             \includegraphics on input line 278.
 Package epstopdf Info: Output file is already uptodate.
 
-<image/Figure1-11c-eps-converted-to.pdf, id=610, 212.795pt x 147.55125pt>
+<image/Figure1-11c-eps-converted-to.pdf, id=615, 212.795pt x 147.55125pt>
 File: image/Figure1-11c-eps-converted-to.pdf Graphic file (type pdf)
 
 <use image/Figure1-11c-eps-converted-to.pdf>
@@ -1828,7 +1845,7 @@ erted-to.pdf image/Figure1-11d.eps>
 (epstopdf)             \includegraphics on input line 279.
 Package epstopdf Info: Output file is already uptodate.
 
-<image/Figure1-11d-eps-converted-to.pdf, id=611, 212.795pt x 147.55125pt>
+<image/Figure1-11d-eps-converted-to.pdf, id=616, 212.795pt x 147.55125pt>
 File: image/Figure1-11d-eps-converted-to.pdf Graphic file (type pdf)
 
 <use image/Figure1-11d-eps-converted-to.pdf>
@@ -1848,7 +1865,7 @@ Overfull \hbox (40.73767pt too wide) in paragraph at lines 276--280
 [12] [13 <./image/Figure1-11a-eps-converted-to.pdf> <./image/Figure1-11b-eps-co
 nverted-to.pdf> <./image/Figure1-11c-eps-converted-to.pdf> <./image/Figure1-11d
 -eps-converted-to.pdf>] [14]
-<image/Figure1-12.png, id=669, 682.04813pt x 493.0922pt>
+<image/Figure1-12.png, id=674, 682.04813pt x 493.0922pt>
 File: image/Figure1-12.png Graphic file (type png)
 
 <use image/Figure1-12.png>
@@ -1923,7 +1940,7 @@ x/n/10.5/5d î$\OML/cmm/m/it/10.5 ^^[[]$|\C70/gbsn/m/n/10.5/30 ^^B| \C70/gbsn/bx
 ndard
  []
 
-<image/Figure1-13.png, id=730, 459.96844pt x 323.70938pt>
+<image/Figure1-13.png, id=735, 459.96844pt x 323.70938pt>
 File: image/Figure1-13.png Graphic file (type png)
 
 <use image/Figure1-13.png>
@@ -1935,7 +1952,7 @@ Overfull \hbox (19.0633pt too wide) in paragraph at lines 549--549
  []
 
 [21 <./image/Figure1-13.png>]
-<image/Figure1-14.png, id=743, 590.205pt x 385.44pt>
+<image/Figure1-14.png, id=748, 590.205pt x 385.44pt>
 File: image/Figure1-14.png Graphic file (type png)
 
 <use image/Figure1-14.png>
@@ -1964,7 +1981,7 @@ bx/n/10.5/76 „ \C70/gbsn/bx/n/10.5/5f ^^O \C70/gbsn/bx/n/10.5/5b P |\C70/gbsn/m
  []
 
 [23 <./image/Figure1-14.png>]
-<image/Figure1-15.png, id=766, 367.3725pt x 370.38374pt>
+<image/Figure1-15.png, id=771, 367.3725pt x 370.38374pt>
 File: image/Figure1-15.png Graphic file (type png)
 
 <use image/Figure1-15.png>
@@ -1981,7 +1998,7 @@ Overfull \hbox (2.61108pt too wide) in paragraph at lines 641--643
  []
 
 [24 <./image/Figure1-15.png>]
-<image/Figure1-16.png, id=775, 750.55406pt x 460.72125pt>
+<image/Figure1-16.png, id=780, 750.55406pt x 460.72125pt>
 File: image/Figure1-16.png Graphic file (type png)
 
 <use image/Figure1-16.png>
@@ -2020,7 +2037,7 @@ rted-to.pdf image/Figure1-17.eps>
 (epstopdf)             \includegraphics on input line 757.
 Package epstopdf Info: Output file is already uptodate.
 
-<image/Figure1-17-eps-converted-to.pdf, id=795, 209.78375pt x 155.58125pt>
+<image/Figure1-17-eps-converted-to.pdf, id=800, 209.78375pt x 155.58125pt>
 File: image/Figure1-17-eps-converted-to.pdf Graphic file (type pdf)
 
 <use image/Figure1-17-eps-converted-to.pdf>
@@ -2044,7 +2061,7 @@ rted-to.pdf image/Figure1-19.eps>
 (epstopdf)             \includegraphics on input line 782.
 Package epstopdf Info: Output file is already uptodate.
 
-<image/Figure1-19-eps-converted-to.pdf, id=826, 213.79875pt x 200.75pt>
+<image/Figure1-19-eps-converted-to.pdf, id=831, 213.79875pt x 200.75pt>
 File: image/Figure1-19-eps-converted-to.pdf Graphic file (type pdf)
 
 <use image/Figure1-19-eps-converted-to.pdf>
@@ -2057,7 +2074,7 @@ Overfull \hbox (19.0633pt too wide) in paragraph at lines 782--782
  []
 
 [29 <./image/Figure1-19-eps-converted-to.pdf>]
-<image/Figure1-21.png, id=848, 893.58844pt x 422.32782pt>
+<image/Figure1-21.png, id=853, 893.58844pt x 422.32782pt>
 File: image/Figure1-21.png Graphic file (type png)
 
 <use image/Figure1-21.png>
@@ -2083,7 +2100,7 @@ rted-to.pdf image/Figure1-22.eps>
 (epstopdf)             \includegraphics on input line 820.
 Package epstopdf Info: Output file is already uptodate.
 
-<image/Figure1-22-eps-converted-to.pdf, id=856, 205.76875pt x 200.75pt>
+<image/Figure1-22-eps-converted-to.pdf, id=861, 205.76875pt x 200.75pt>
 File: image/Figure1-22-eps-converted-to.pdf Graphic file (type pdf)
 
 <use image/Figure1-22-eps-converted-to.pdf>
@@ -2095,17 +2112,43 @@ Overfull \hbox (19.0633pt too wide) in paragraph at lines 820--820
 [][] 
  []
 
-) [31 <./image/Figure1-22-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <image/Figure1-23.eps>
+(epstopdf)                    date: 2008-06-17 10:51:54
+(epstopdf)                    size: 176607 bytes
+(epstopdf)             Output file: <image/Figure1-23-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-11-27 14:10:57
+(epstopdf)                    size: 10261 bytes
+(epstopdf)             Command: <repstopdf --outfile=image/Figure1-23-eps-conve
+rted-to.pdf image/Figure1-23.eps>
+(epstopdf)             \includegraphics on input line 827.
+Package epstopdf Info: Output file is already uptodate.
+<image/Figure1-23-eps-converted-to.pdf, id=862, 202.7575pt x 148.555pt>
+File: image/Figure1-23-eps-converted-to.pdf Graphic file (type pdf)
+
+<use image/Figure1-23-eps-converted-to.pdf>
+Package pdftex.def Info: image/Figure1-23-eps-converted-to.pdf used on input li
+ne 827.
+(pdftex.def)             Requested size: 227.62204pt x 166.77713pt.
+
+Overfull \hbox (19.0633pt too wide) in paragraph at lines 827--827
+[][] 
+ []
+
+[31 <./image/Figure1-22-eps-converted-to.pdf>]
+Overfull \hbox (26.25485pt too wide) in paragraph at lines 843--843
+[]$[] []$ 
+ []
+
+) [32 <./image/Figure1-23-eps-converted-to.pdf>]
 \openout2 = `./TeX_files/chapter02.aux'.
 
  (./TeX_files/chapter02.tex
-[32
+Chapter 2.
+) [33
 
 
 
 ]
-Chapter 2.
-) [33]
 \openout2 = `./TeX_files/chapter03.aux'.
 
  (./TeX_files/chapter03.tex [34
@@ -2118,44 +2161,44 @@ Chapter 3.
 
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 176.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 176.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 177.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 177.
  (./main.aux (./TeX_files/chapter01.aux) (./TeX_files/chapter02.aux) (./TeX_fil
 es/chapter03.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 176.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 176.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 177.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 177.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: EC191AFBEFFD4B86058DED1414496C86;1996.
+(rerunfilecheck)             Checksum: 28B7D67D861F7BAFDD61B8E687B69DF6;2083.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 176.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 177.
  ) 
 Here is how much of TeX's memory you used:
- 24228 strings out of 494178
- 410312 string characters out of 6153114
- 526804 words of memory out of 5000000
- 26519 multiletter control sequences out of 15000+600000
- 94840 words of font info for 350 fonts, out of 8000000 for 9000
+ 24477 strings out of 494178
+ 413379 string characters out of 6153114
+ 531034 words of memory out of 5000000
+ 26754 multiletter control sequences out of 15000+600000
+ 95650 words of font info for 353 fonts, out of 8000000 for 9000
  430 hyphenation exceptions out of 8191
  40i,12n,47p,10433b,1801s stack positions out of 5000i,500n,10000p,200000b,80000s
-<c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/s
-imhei.ttf><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows
-/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simhei.ttf><c:
-/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simsun
-.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/font
+<c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/s
+imsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simhei.ttf><c:/Windows
+/fonts/simhei.ttf><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:
+/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simhei
+.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/font
 s/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Wind
-ows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simhei.ttf>
-<c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/sim
+ows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc>
+<c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/sim
 hei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/f
-onts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/W
+onts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/W
 indows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.t
 tc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/
 simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Window
-s/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simhei.ttf><c
-:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simsu
-n.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fon
+s/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c
+:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simhe
+i.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fon
 ts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Win
 dows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc
 ><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/si
@@ -2164,133 +2207,134 @@ fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/
 Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.
 ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts
 /simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windo
-ws/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simhei.ttf><
-c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simh
+ws/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><
+c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simh
 ei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fo
-nts/simhei.ttf><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Wi
-ndows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.tt
+nts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Wi
+ndows/fonts/simhei.ttf><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.tt
 c><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/s
 imsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows
-/fonts/simsun.ttc><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:
-/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei
-.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simsun.ttc><c:/Windows/font
-s/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Wind
-ows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf>
-<c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/sim
-sun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/f
+/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:
+/Windows/fonts/simsun.ttc><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei
+.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/font
+s/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simsun.ttc><c:/Wind
+ows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc>
+<c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/sim
+hei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simsun.ttc><c:/Windows/f
 onts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/W
 indows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.t
 tc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/
 simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Window
 s/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c
 :/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsu
-n.ttc><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmbx10.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmbx12.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmbx7.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmbxti10.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmex10.pfb><d:/Program Files (x86)/texlive/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmmi10.pfb><d:/Program Files (x86)/texlive/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><d:/Program Files (x86)/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><d:/Program Files (x86)/t
-exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><d:/Program Files (x
-86)/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><d:/Program Fil
-es (x86)/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><d:/Progra
-m Files (x86)/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><d:/Pr
-ogram Files (x86)/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><d
-:/Program Files (x86)/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.
-pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mss10.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmsy10.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmsy7.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmsy8.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmti10.pfb><d:/Program Files (x86)/texlive/texmf-dist/font
-s/type1/public/amsfonts/cm/cmti12.pfb><d:/Program Files (x86)/texlive/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmtt10.pfb><d:/Program Files (x86)/texlive/tex
-mf-dist/fonts/type1/arphic/gbsnu/gbsnu20.pfb><d:/Program Files (x86)/texlive/te
-xmf-dist/fonts/type1/arphic/gbsnu/gbsnu30.pfb><d:/Program Files (x86)/texlive/t
-exmf-dist/fonts/type1/arphic/gbsnu/gbsnu4e.pfb><d:/Program Files (x86)/texlive/
-texmf-dist/fonts/type1/arphic/gbsnu/gbsnu4f.pfb><d:/Program Files (x86)/texlive
-/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu50.pfb><d:/Program Files (x86)/texliv
-e/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu51.pfb><d:/Program Files (x86)/texli
-ve/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu52.pfb><d:/Program Files (x86)/texl
-ive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu53.pfb><d:/Program Files (x86)/tex
-live/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu54.pfb><d:/Program Files (x86)/te
-xlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu55.pfb><d:/Program Files (x86)/t
-exlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu56.pfb><d:/Program Files (x86)/
-texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu57.pfb><d:/Program Files (x86)
-/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu58.pfb><d:/Program Files (x86
-)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu59.pfb><d:/Program Files (x8
-6)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu5b.pfb><d:/Program Files (x
-86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu5c.pfb><d:/Program Files (
-x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu5d.pfb><d:/Program Files 
-(x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu5e.pfb><d:/Program Files
- (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu5f.pfb><d:/Program File
-s (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu60.pfb><d:/Program Fil
-es (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu61.pfb><d:/Program Fi
-les (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu62.pfb><d:/Program F
-iles (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu63.pfb><d:/Program 
-Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu64.pfb><d:/Program
- Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu65.pfb><d:/Progra
-m Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu66.pfb><d:/Progr
-am Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu67.pfb><d:/Prog
-ram Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu68.pfb><d:/Pro
-gram Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu69.pfb><d:/Pr
-ogram Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6a.pfb><d:/P
-rogram Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6b.pfb><d:/
-Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6c.pfb><d:
-/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6d.pfb><d
-:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6e.pfb><
-d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6f.pfb>
-<d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu70.pfb
-><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu71.pf
-b><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu72.p
-fb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu73.
-pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu74
-.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7
-5.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu
-76.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsn
-u77.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbs
-nu78.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gb
-snu79.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/g
-bsnu7a.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/
-gbsnu7b.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu
-/gbsnu7c.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsn
-u/gbsnu7d.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbs
-nu/gbsnu7e.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gb
-snu/gbsnu7f.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/g
-bsnu/gbsnu80.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/
-gbsnu/gbsnu81.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic
-/gbsnu/gbsnu82.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphi
-c/gbsnu/gbsnu83.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arph
-ic/gbsnu/gbsnu84.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arp
-hic/gbsnu/gbsnu85.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/ar
-phic/gbsnu/gbsnu86.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/a
-rphic/gbsnu/gbsnu87.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/
-arphic/gbsnu/gbsnu88.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1
-/arphic/gbsnu/gbsnu89.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type
-1/arphic/gbsnu/gbsnu8a.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/typ
-e1/arphic/gbsnu/gbsnu8b.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/ty
-pe1/arphic/gbsnu/gbsnu8c.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/t
-ype1/arphic/gbsnu/gbsnu8d.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/
-type1/arphic/gbsnu/gbsnu8e.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts
-/type1/arphic/gbsnu/gbsnu8f.pfb><d:/Program Files (x86)/texlive/texmf-dist/font
-s/type1/arphic/gbsnu/gbsnu90.pfb><d:/Program Files (x86)/texlive/texmf-dist/fon
-ts/type1/arphic/gbsnu/gbsnu91.pfb><d:/Program Files (x86)/texlive/texmf-dist/fo
-nts/type1/arphic/gbsnu/gbsnu94.pfb><d:/Program Files (x86)/texlive/texmf-dist/f
-onts/type1/arphic/gbsnu/gbsnu95.pfb><d:/Program Files (x86)/texlive/texmf-dist/
-fonts/type1/arphic/gbsnu/gbsnu96.pfb><d:/Program Files (x86)/texlive/texmf-dist
-/fonts/type1/arphic/gbsnu/gbsnu97.pfb><d:/Program Files (x86)/texlive/texmf-dis
-t/fonts/type1/arphic/gbsnu/gbsnu98.pfb><d:/Program Files (x86)/texlive/texmf-di
-st/fonts/type1/arphic/gbsnu/gbsnu99.pfb><d:/Program Files (x86)/texlive/texmf-d
-ist/fonts/type1/arphic/gbsnu/gbsnu9a.pfb><d:/Program Files (x86)/texlive/texmf-
-dist/fonts/type1/arphic/gbsnu/gbsnu9f.pfb><d:/Program Files (x86)/texlive/texmf
--dist/fonts/type1/arphic/gbsnu/gbsnuff.pfb><d:/Program Files (x86)/texlive/texm
-f-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on main.pdf (42 pages, 1528835 bytes).
+n.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fon
+ts/simsun.ttc><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmbx10.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmbx12.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmbx7.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmbxti10.pfb><d:/Program Files (x86)/texlive/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmex10.pfb><d:/Program Files (x86)/texlive/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><d:/Program Files (x86)/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><d:/Program Files (x86
+)/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><d:/Program Files
+ (x86)/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><d:/Program 
+Files (x86)/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><d:/Pro
+gram Files (x86)/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><d
+:/Program Files (x86)/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pf
+b><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
+8.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmsl12.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmss10.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmsy10.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmsy7.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmsy8.pfb><d:/Program Files (x86)/texlive/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmti10.pfb><d:/Program Files (x86)/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmti12.pfb><d:/Program Files (x86)/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><d:/Program Files (x86)/tex
+live/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu20.pfb><d:/Program Files (x86)/te
+xlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu30.pfb><d:/Program Files (x86)/t
+exlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu4e.pfb><d:/Program Files (x86)/
+texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu4f.pfb><d:/Program Files (x86)
+/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu50.pfb><d:/Program Files (x86
+)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu51.pfb><d:/Program Files (x8
+6)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu52.pfb><d:/Program Files (x
+86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu53.pfb><d:/Program Files (
+x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu54.pfb><d:/Program Files 
+(x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu55.pfb><d:/Program Files
+ (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu56.pfb><d:/Program File
+s (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu57.pfb><d:/Program Fil
+es (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu58.pfb><d:/Program Fi
+les (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu59.pfb><d:/Program F
+iles (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu5b.pfb><d:/Program 
+Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu5c.pfb><d:/Program
+ Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu5d.pfb><d:/Progra
+m Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu5e.pfb><d:/Progr
+am Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu5f.pfb><d:/Prog
+ram Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu60.pfb><d:/Pro
+gram Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu61.pfb><d:/Pr
+ogram Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu62.pfb><d:/P
+rogram Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu63.pfb><d:/
+Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu64.pfb><d:
+/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu65.pfb><d
+:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu66.pfb><
+d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu67.pfb>
+<d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu68.pfb
+><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu69.pf
+b><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6a.p
+fb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6b.
+pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6c
+.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6
+d.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu
+6e.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsn
+u6f.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbs
+nu70.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gb
+snu71.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/g
+bsnu72.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu/
+gbsnu73.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsnu
+/gbsnu74.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbsn
+u/gbsnu75.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gbs
+nu/gbsnu76.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/gb
+snu/gbsnu77.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/g
+bsnu/gbsnu78.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic/
+gbsnu/gbsnu79.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphic
+/gbsnu/gbsnu7a.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arphi
+c/gbsnu/gbsnu7b.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arph
+ic/gbsnu/gbsnu7c.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/arp
+hic/gbsnu/gbsnu7d.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/ar
+phic/gbsnu/gbsnu7e.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/a
+rphic/gbsnu/gbsnu7f.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1/
+arphic/gbsnu/gbsnu80.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type1
+/arphic/gbsnu/gbsnu81.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/type
+1/arphic/gbsnu/gbsnu82.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/typ
+e1/arphic/gbsnu/gbsnu83.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/ty
+pe1/arphic/gbsnu/gbsnu84.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/t
+ype1/arphic/gbsnu/gbsnu85.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts/
+type1/arphic/gbsnu/gbsnu86.pfb><d:/Program Files (x86)/texlive/texmf-dist/fonts
+/type1/arphic/gbsnu/gbsnu87.pfb><d:/Program Files (x86)/texlive/texmf-dist/font
+s/type1/arphic/gbsnu/gbsnu88.pfb><d:/Program Files (x86)/texlive/texmf-dist/fon
+ts/type1/arphic/gbsnu/gbsnu89.pfb><d:/Program Files (x86)/texlive/texmf-dist/fo
+nts/type1/arphic/gbsnu/gbsnu8a.pfb><d:/Program Files (x86)/texlive/texmf-dist/f
+onts/type1/arphic/gbsnu/gbsnu8b.pfb><d:/Program Files (x86)/texlive/texmf-dist/
+fonts/type1/arphic/gbsnu/gbsnu8c.pfb><d:/Program Files (x86)/texlive/texmf-dist
+/fonts/type1/arphic/gbsnu/gbsnu8d.pfb><d:/Program Files (x86)/texlive/texmf-dis
+t/fonts/type1/arphic/gbsnu/gbsnu8e.pfb><d:/Program Files (x86)/texlive/texmf-di
+st/fonts/type1/arphic/gbsnu/gbsnu8f.pfb><d:/Program Files (x86)/texlive/texmf-d
+ist/fonts/type1/arphic/gbsnu/gbsnu90.pfb><d:/Program Files (x86)/texlive/texmf-
+dist/fonts/type1/arphic/gbsnu/gbsnu91.pfb><d:/Program Files (x86)/texlive/texmf
+-dist/fonts/type1/arphic/gbsnu/gbsnu94.pfb><d:/Program Files (x86)/texlive/texm
+f-dist/fonts/type1/arphic/gbsnu/gbsnu95.pfb><d:/Program Files (x86)/texlive/tex
+mf-dist/fonts/type1/arphic/gbsnu/gbsnu96.pfb><d:/Program Files (x86)/texlive/te
+xmf-dist/fonts/type1/arphic/gbsnu/gbsnu97.pfb><d:/Program Files (x86)/texlive/t
+exmf-dist/fonts/type1/arphic/gbsnu/gbsnu98.pfb><d:/Program Files (x86)/texlive/
+texmf-dist/fonts/type1/arphic/gbsnu/gbsnu99.pfb><d:/Program Files (x86)/texlive
+/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu9a.pfb><d:/Program Files (x86)/texliv
+e/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu9f.pfb><d:/Program Files (x86)/texli
+ve/texmf-dist/fonts/type1/arphic/gbsnu/gbsnuff.pfb><d:/Program Files (x86)/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on main.pdf (42 pages, 1549033 bytes).
 PDF statistics:
- 1605 PDF objects out of 1728 (max. 8388607)
- 1203 compressed objects within 13 object streams
- 163 named destinations out of 1000 (max. 500000)
- 625 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1634 PDF objects out of 1728 (max. 8388607)
+ 1227 compressed objects within 13 object streams
+ 166 named destinations out of 1000 (max. 500000)
+ 638 words of extra memory for PDF output out of 10000 (max. 10000000)
 
